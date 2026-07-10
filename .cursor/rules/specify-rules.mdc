@@ -1,0 +1,16 @@
+---
+alwaysApply: true
+---
+
+<!-- SPECKIT START -->
+For additional context about technologies to be used, project structure,
+shell commands, and other important information, read the current plan at:
+specs/001-multilingual-bpe-tokenizer/plan.md
+
+Key context:
+- Python 3.11 training notebook + vanilla JS static widget
+- BPE tokenizer: Unicode codepoint initial tokens (SCRIPT-BPE), α=0.4 corpus sampling, Parity-Aware merge selection
+- Output: tokenizer/output/vocab.json + merges.txt (10,000 tokens exactly)
+- Widget: widget/index.html (static SPA, client-side tokenization, Netlify hosting)
+- Scoring: tokenizer/src/score.py computes X1-X4 and 1000/(X_max - X_min)
+<!-- SPECKIT END -->

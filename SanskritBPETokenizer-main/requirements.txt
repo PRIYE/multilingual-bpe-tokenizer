@@ -1,0 +1,4 @@
+numpy>=1.21.0
+tqdm>=4.65.0
+gradio>=4.11.0
+datasets>=2.0.0 

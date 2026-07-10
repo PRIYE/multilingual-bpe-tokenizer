@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Multilingual BPE Tokenizer — India Wikipedia (10K Vocab)</title>
+  <meta name="description" content="Assignment widget showing fertility ratios, score, and live tokenization for a 10,000-token BPE vocabulary trained on English, Hindi, Telugu, and Sanskrit Wikipedia India articles." />
+  <script src="tokenizer.js" defer></script>
+  <style>
+    /* Placeholder styles — full implementation in Phase 5 (T024-T030) */
+    body { font-family: system-ui, sans-serif; max-width: 960px; margin: 0 auto; padding: 2rem; }
+  </style>
+</head>
+<body>
+
+  <!-- Section 1: Score Summary — T024 -->
+  <section id="score-summary">
+    <h1>Assignment Score: —</h1>
+    <p>Score = 1000 / (X_max − X_min)</p>
+  </section>
+
+  <!-- Section 2: Fertility Ratio Cards — T025 -->
+  <section id="fertility-cards">
+    <div class="card" id="card-en">English (en) — X1: —</div>
+    <div class="card" id="card-hi">Hindi (hi) — X2: —</div>
+    <div class="card" id="card-te">Telugu (te) — X3: —</div>
+    <div class="card" id="card-sa">Sanskrit (sa) — X4: —</div>
+  </section>
+
+  <!-- Section 3: Sorted Ranking Table — T026 -->
+  <section id="ranking-table">
+    <table id="ranking">
+      <thead><tr><th>Rank</th><th>Language</th><th>Fertility Ratio</th><th>Tokens</th><th>Unique Words</th></tr></thead>
+      <tbody></tbody>
+    </table>
+  </section>
+
+  <!-- Section 4: Vocabulary Statistics — T027 / T035 -->
+  <section id="vocab-stats">
+    <p>Total vocabulary: 10,000 tokens</p>
+    <div id="script-bars"></div>
+  </section>
+
+  <!-- Section 5: Live Tokenization Playground — T028 -->
+  <section id="playground">
+    <textarea id="input-text" placeholder="Type any text in English, Hindi (हिन्दी), Telugu (తెలుగు), or Sanskrit (संस्कृतम्)…" rows="3"></textarea>
+    <button id="tokenize-btn">Tokenize</button>
+    <div id="token-output"><em>Enter text above to see tokenization</em></div>
+    <div id="token-count"></div>
+  </section>
+
+  <!-- Section 6: Download Button — T029 -->
+  <section id="download">
+    <a id="download-btn" href="./data/tokenizer.json" download="multilingual-bpe-10k.json">
+      Download Tokenizer
+    </a>
+  </section>
+
+</body>
+</html>
