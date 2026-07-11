@@ -49,7 +49,10 @@ def save(vocab: dict, merges: list, output_dir: str):
     with open(merges_path, "w", encoding="utf-8") as f:
         f.write(MERGES_VERSION_HEADER + "\n")
         for left, right in merges:
-            f.write(f"{left} {right}\n")
+            # Escape spaces and newlines to preserve the "LEFT RIGHT" format
+            left_esc = left.replace('\n', '\\n').replace('\r', '\\r').replace(' ', 'Ġ')
+            right_esc = right.replace('\n', '\\n').replace('\r', '\\r').replace(' ', 'Ġ')
+            f.write(f"{left_esc} {right_esc}\n")
     print(f"  Saved merges ({len(merges)} rules) → {merges_path}")
 
 
@@ -82,7 +85,10 @@ def load(output_dir: str) -> tuple:
                 continue
             parts = line.split(" ", 1)
             if len(parts) == 2:
-                merges.append(tuple(parts))
+                # Unescape spaces and newlines
+                left = parts[0].replace('Ġ', ' ').replace('\\n', '\n').replace('\\r', '\r')
+                right = parts[1].replace('Ġ', ' ').replace('\\n', '\n').replace('\\r', '\r')
+                merges.append((left, right))
 
     return vocab, merges
 

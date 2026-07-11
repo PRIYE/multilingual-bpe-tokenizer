@@ -1,97 +1,97 @@
 #version: 1.0
-  t
+Ġ t
 a n
 h e
 i n
- t he
+Ġt he
 o n
 e r
 r e
 a l
-  o
+Ġ o
 s t
 a t
 e n
 a r
 d i
 an d
-  c
+Ġ c
 e d
-  I
-  a
-  in
- o f
-  w
+Ġ I
+Ġ a
+Ġ in
+Ġo f
+Ġ w
 i t
-  s
- I n
-  and
+Ġ s
+ĠI n
+Ġ and
 o r
-  ,
-  p
-  b
+Ġ ,
+Ġ p
+Ġ b
 i on
 e s
-  m
-  f
+Ġ m
+Ġ f
 i c
- In di
+ĠIn di
 i s
 in g
 a s
 o m
 en t
-  l
+Ġ l
 ् र
 ् य
 o u
-  e
- Indi a
- t o
-  स
-  1
+Ġ e
+ĠIndi a
+Ġt o
+Ġ स
+Ġ 1
 ा र
-  d
+Ġ d
 u r
 l y
-  h
+Ġ h
 e c
 न ्
-  T
-  क
-  re
+Ġ T
+Ġ क
+Ġ re
 i l
-  n
-  g
-  प
+Ġ n
+Ġ g
+Ġ प
 r a
 t h
 r i
-  अ
+Ġ अ
 u l
 o l
 ్ ర
 v er
 a m
-  ప
-  C
-  A
-  .
+Ġ ప
+Ġ C
+Ġ A
+Ġ .
 र ्
 at ion
-  B
-  S
+Ġ B
+Ġ S
 ా ర
 v e
-  2
+Ġ 2
 l e
 r o
 u t
 स ्
 c e
- T he
-  भ
-  is
+ĠT he
+Ġ भ
+Ġ is
 a d
 i st
 ार त
@@ -99,131 +99,131 @@ i st
 ా ల
 g e
 i m
-  व
- Indi an
- b y
+Ġ व
+ĠIndi an
+Ġb y
 म ्
 u s
 a st
- b e
- 1 9
-  म
+Ġb e
+Ġ1 9
+Ġ म
 i g
 र ा
 u n
 ' s
- t h
-  స
-  P
+Ġt h
+Ġ స
+Ġ P
 it h
 i r
 i d
 o w
 त ्
-  r
-  M
-  క
+Ġ r
+Ġ M
+Ġ క
 u c
 स ्य
 r om
- w ith
+Ġw ith
 e t
- f or
+Ġf or
 0 0
 at e
- c on
+Ġc on
 m ent
 ల ో
- w as
+Ġw as
 e m
 an g
 t er
 o p
 i es
- w h
+Ġw h
 t ion
-  द
+Ġ द
 ్ య
 ा न
- m o
- a s
+Ġm o
+Ġa s
 a in
 re s
- f rom
+Ġf rom
 on g
-  st
+Ġ st
 a c
-  (
- भ ारत
+Ġ (
+Ġभ ारत
 ि क
-  వ
+Ġ వ
 e st
-  మ
- प ्र
-  त
-  N
+Ġ మ
+Ġप ्र
+Ġ त
+Ġ N
 t s
 े श
 he r
 a y
 ic al
- e x
+Ġe x
 న ్
-  H
-  D
-  E
-  it
+Ġ H
+Ġ D
+Ġ E
+Ġ it
 s e
-  G
+Ġ G
 l d
-  ह
-  on
+Ġ ह
+Ġ on
 य ा
 a b
 ద ి
 u m
 ద ే
 a k
-  di
-  an
+Ġ di
+Ġ an
 g h
 il l
 ar t
-  च
-  न
+Ġ च
+Ġ न
 దే శ
 ic h
 त ्र
- o r
-  ज
- h as
-  आ
+Ġo r
+Ġ ज
+Ġh as
+Ġ आ
 స ్
 ర ్
 i al
- 2 0
+Ġ2 0
 ి ం
 ् व
-  रा
+Ġ रा
 u p
 u d
 న ి
 భ ార
 d er
- wh ich
+Ġwh ich
 భార త
-  ర
+Ġ ర
 ల ు
 it y
-  ब
- a re
+Ġ ब
+Ġa re
 i ve
- ప ్ర
+Ġప ్ర
 ि त
- व ि
-  ग
+Ġव ि
+Ġ ग
 o c
-  un
+Ġ un
 ul t
 or t
 c on
@@ -231,155 +231,155 @@ d u
 u re
 e l
 ou n
-  అ
+Ġ అ
 u b
 r it
 ी य
 l i
- क े
+Ġक े
 er s
 न ा
 o t
-  K
-  v
+Ġ K
+Ġ v
 ा ल
 i v
-  इ
+Ġ इ
 ar y
- in c
-  al
+Ġin c
+Ġ al
 ष ्
- it s
+Ġit s
 er e
- c om
- c ent
+Ġc om
+Ġc ent
 o ver
 గ ా
 ి క
 an s
 న్ న
-  ए
-  W
+Ġ ए
+Ġ W
 त ा
- w or
+Ġw or
 en d
- d e
+Ġd e
 c h
 a g
 ङ ्
 ar ge
 e ar
- w ere
+Ġw ere
 o d
 व ि
 म ा
 m p
 ou r
 at ed
-  ఉ
-  श
+Ġ ఉ
+Ġ श
 I n
- H in
+ĠH in
 o s
 T he
 न ि
 े ं
 क ्
- A s
+ĠA s
 an t
 a ge
 is m
 is h
- c h
+Ġc h
 a p
- s p
- con t
+Ġs p
+Ġcon t
 र् व
 भ ारत
-  at
- p ro
+Ġ at
+Ġp ro
 an ce
 r y
 క ్
 o g
 ా య
-  उ
+Ġ उ
 ou th
 ou s
- in t
+Ġin t
 ion s
 ur ing
 ec t
- p l
+Ġp l
 f ter
 a j
 over n
 ou gh
 ष् ट
-  R
+Ġ R
 ि न्
 am e
 con om
 er al
 as s
 a v
-  భారత
+Ġ భారత
 द ेश
- C h
- c o
+ĠC h
+Ġc o
 l ow
-  U
- 20 1
- म ें
+Ġ U
+Ġ20 1
+Ġम ें
 దేశ ం
 ang u
- द ेश
+Ġद ेश
 ह ा
 ా త
- स ं
-  ar
+Ġस ं
+Ġ ar
 i f
 er n
-  J
- b ec
- l e
- p art
+Ġ J
+Ġb ec
+Ġl e
+Ġp art
 o re
 overn ment
 న ు
- ह ै
+Ġह ै
 श ्
 ్ ట
 ृ त
- re g
+Ġre g
 m er
- int o
+Ġint o
 h i
- cent ur
- e conom
+Ġcent ur
+Ġe conom
 an y
- l arge
+Ġl arge
 ill ion
- क ा
+Ġक ा
 ्य ा
 క ు
 ాల ు
-  చ
+Ġ చ
 द ्
- m ar
- re l
+Ġm ar
+Ġre l
 at es
 res s
 थ ा
-  జ
+Ġ జ
 In di
 i a
- wor ld
- for m
- l angu
- p er
- c l
- a d
+Ġwor ld
+Ġfor m
+Ġl angu
+Ġp er
+Ġc l
+Ġa d
 c es
 c t
 ్ వ
@@ -387,13 +387,13 @@ c t
 ज ्य
 न् ति
 ం డ
- s e
- p op
- s ub
- a g
+Ġs e
+Ġp op
+Ġs ub
+Ġa g
 al ly
- Hin du
-  k
+ĠHin du
+Ġ k
 st it
 m e
 in ist
@@ -402,241 +402,241 @@ in e
 े ण
 ी त
 en ce
-  y
+Ġ y
 ut ion
 ation al
 ir st
 q u
 h ar
- e l
-  ఇ
-  7
+Ġe l
+Ġ ఇ
+Ġ 7
 द ्र
-  V
+Ġ V
 s o
 త ి
 ा स
 ి న
 i an
- In d
+ĠIn d
 Indi a
- pop ul
+Ġpop ul
 re d
 a ve
 i k
 d uc
- f irst
+Ġf irst
 al l
- d uring
- g overnment
-  "
+Ġd uring
+Ġg overnment
+Ġ "
 ष्ट ्र
-  5
+Ġ 5
 ిం చ
-  -
+Ġ -
 क् ष
 ం ది
 व ा
 त े
 ा ग
-  र
- s h
-  ri
- d ec
+Ġ र
+Ġs h
+Ġ ri
+Ġd ec
 i re
- p ri
- s y
+Ġp ri
+Ġs y
 re as
- t ra
+Ġt ra
 p p
 l ud
 प ्र
 o k
- व र्
+Ġव र्
 స్ త
- स ्
+Ġस ्
 ध ान
-  य
+Ġ य
 r ic
- y ear
+Ġy ear
 c c
 re at
- ex p
+Ġex p
 t her
- com p
+Ġcom p
 om e
 w e
- g en
+Ġg en
 di tion
 b er
 ల ్
-  F
+Ġ F
 ध र्
 ag es
-  3
-  4
+Ġ 3
+Ġ 4
 oun d
 der n
 v ed
 f f
 d h
-  art
+Ġ art
 g an
- o ver
+Ġo ver
 ig n
 ro w
 id e
-  end
+Ġ end
 e w
 o th
 uc h
- inc lud
+Ġinc lud
 ec tion
 न् त
-  ఆ
+Ġ ఆ
 ద ్
 r al
 ig h
 est ern
 us ed
 up p
- con s
- bec ame
- re s
+Ġcon s
+Ġbec ame
+Ġre s
 stit ution
- in f
+Ġin f
 aj or
- sy st
- syst em
- centur y
- al so
+Ġsy st
+Ġsyst em
+Ġcentur y
+Ġal so
 ర ి
-  ल
+Ġ ल
 మ ు
 धर् म
 ర ు
- रा ष्ट्र
+Ġरा ष्ट्र
 ो ं
 ष ा
- अ स्
+Ġअ स्
 e p
- స ం
- h ad
- rel ig
+Ġస ం
+Ġh ad
+Ġrel ig
 mp ire
- p e
- r ul
- b ut
- be en
+Ġp e
+Ġr ul
+Ġb ut
+Ġbe en
 at ic
 im al
- h ave
+Ġh ave
 t ed
- mo re
- 20 2
-  న
-  త
-  L
+Ġmo re
+Ġ20 2
+Ġ న
+Ġ త
+Ġ L
 ం త
- 2 00
- ర ా
-  )
+Ġ2 00
+Ġర ా
+Ġ )
 स ी
-  ద
- अस् ति
+Ġ ద
+Ġअस् ति
 ా న
- S outh
+ĠS outh
 en g
 or d
- m e
- t w
+Ġm e
+Ġt w
 ur al
- a fter
- m illion
- cl ass
+Ġa fter
+Ġm illion
+Ġcl ass
 m ong
 ver s
-  im
- n um
+Ġ im
+Ġn um
 ong ress
- भारत ीय
-  औ
+Ġभारत ीय
+Ġ औ
 स ं
-  బ
+Ġ బ
 ం ట
 వ ి
 భ ా
- re p
- औ र
+Ġre p
+Ġऔ र
 त ः
 प ि
 स् त
- ग ीत
- mo st
-  O
- l at
- year s
- reg ion
-  he
- p ol
+Ġग ीत
+Ġmo st
+Ġ O
+Ġl at
+Ġyear s
+Ġreg ion
+Ġ he
+Ġp ol
 o se
 ult ure
- tw o
- mo dern
- inc reas
- th at
+Ġtw o
+Ġmo dern
+Ġinc reas
+Ġth at
 h m
 ve l
 en s
 on d
- s uch
+Ġs uch
 l o
 ow er
- the ir
- m inist
+Ġthe ir
+Ġm inist
 िक ा
 क ृत
 oun t
- 19 5
- 19 6
+Ġ19 5
+Ġ19 6
 त म
 न् त्र
 ాయ ి
 C E
-  గ
- अ न
+Ġ గ
+Ġअ न
 ార ు
 ङ् क
 u st
 ष ु
 or th
 t in
- l ong
- B CE
- B ud
- Bud dh
- s oc
+Ġl ong
+ĠB CE
+ĠB ud
+ĠBud dh
+Ġs oc
 e f
- s c
+Ġs c
 u res
 ang es
- p ar
- m ajor
- di s
- tra dition
+Ġp ar
+Ġm ajor
+Ġdi s
+Ġtra dition
 re e
-  ;
- b oth
+Ġ ;
+Ġb oth
 s h
 re n
 we en
 b an
 ri b
- c a
- C ongress
- pri me
- d ance
- क ी
+Ġc a
+ĠC ongress
+Ġpri me
+Ġd ance
+Ġक ी
 ు త
 ై న
 ि ण
@@ -648,242 +648,242 @@ ri b
 ास न
 ङ् ग
 l ic
- As ia
+ĠAs ia
 ist an
- c ast
+Ġc ast
 ation s
 he d
- popul ation
- t er
+Ġpopul ation
+Ġt er
 ur ban
 l es
 p h
- n ot
+Ġn ot
 am il
- g row
- un der
+Ġg row
+Ġun der
 ar d
- s er
+Ġs er
 ा म
 न् द्र
 म ु
-  ఎ
- 19 9
- प र
+Ġ ఎ
+Ġ19 9
+Ġप र
 క ి
 ం గా
 थ ान
 ी प
- 1 8
+Ġ1 8
 ac h
 ा षा
 ol og
 ध िक
 ल ्
- వ ి
+Ġవ ి
 క్ ష
 ం గ
- इ ति
+Ġइ ति
 ధ ిక
 द ्व
- स े
- of f
+Ġस े
+Ġof f
 ial ly
 in ce
- e ast
+Ġe ast
 is ation
 n i
- langu age
+Ġlangu age
 a w
- s upp
- n ort
- cast e
+Ġs upp
+Ġn ort
+Ġcast e
 t y
- th is
- E mpire
- B rit
- Brit ish
- be gan
+Ġth is
+ĠE mpire
+ĠB rit
+ĠBrit ish
+Ġbe gan
 r ough
 am ent
 uc le
 ucle ar
- m il
+Ġm il
 ar i
- m any
- a pp
+Ġm any
+Ġa pp
 or y
- be t
- bet ween
-  urban
+Ġbe t
+Ġbet ween
+Ġ urban
 ic s
- t e
-  ra
- el ection
- minist er
-  j
- m us
-  శ
+Ġt e
+Ġ ra
+Ġel ection
+Ġminist er
+Ġ j
+Ġm us
+Ġ శ
 १ ९
 य ो
- ఉ న్న
+Ġఉ న్న
 ा द
- रा ज्य
+Ġरा ज्य
 ట ి
 00 0
 ि म
 ण ्
 ि ः
- I t
- s outh
+ĠI t
+Ġs outh
 ou t
- l and
+Ġl and
 ak istan
- n orth
+Ġn orth
 s l
 con tin
 contin ent
- re c
- e ar
+Ġre c
+Ġe ar
 v i
- nort her
- norther n
+Ġnort her
+Ġnorther n
 t a
- econom y
+Ġeconom y
 l u
 vers ity
 el l
 ical ly
- C on
- s ec
- a b
+ĠC on
+Ġs ec
+Ġa b
 al s
 p t
 low ing
- f ore
+Ġf ore
 vel op
 k et
- f ol
+Ġf ol
 ी न
 स् कृत
 क ार
 ) ,
 ి త
- न े
- C E
+Ġन े
+ĠC E
 ప ు
- స ా
+Ġస ా
 ू र्व
 ్ చ
 ि या
-  '
+Ġ '
 ज न
 त न्त्र
-  6
+Ġ 6
 ् च
 m on
- 19 4
+Ġ19 4
 य ः
 ल ी
 ० ०
 ార ్
 सी त्
 c y
- B eng
- Beng al
- P akistan
- Ch in
+ĠB eng
+ĠBeng al
+ĠP akistan
+ĠCh in
 es h
- A n
- lat er
+ĠA n
+Ġlat er
 om in
 ad e
 mer g
- w estern
+Ġw estern
 in s
- langu ages
+Ġlangu ages
 y a
 it e
 u gh
 a ce
- rul e
- C om
- inf lu
+Ġrul e
+ĠC om
+Ġinf lu
 it ion
 an i
- t im
- r ate
+Ġt im
+Ġr ate
 o di
 ate ly
 c i
- pe op
-  en
- im p
- class ical
+Ġpe op
+Ġ en
+Ġim p
+Ġclass ical
 ar n
- U n
+ĠU n
 a i
 ul ar
- de velop
+Ġde velop
 it ed
- S h
- a mong
- gen eral
- large st
- mus ic
- वि श
+ĠS h
+Ġa mong
+Ġgen eral
+Ġlarge st
+Ġmus ic
+Ġवि श
 प ु
 త ో
 द ि
 ు ల
 త ్
 ష ్ట
- प्र ा
+Ġप्र ा
 भ ू
-  8
+Ġ 8
 व र्
 ర ా
 ub lic
- P l
+ĠP l
 व र
-  హ
- देश ः
+Ġ హ
+Ġदेश ः
 धर्म ः
- इ त्
- c ount
- s ince
- T h
- h um
- sub continent
- l if
- lif e
+Ġइ त्
+Ġc ount
+Ġs ince
+ĠT h
+Ġh um
+Ġsub continent
+Ġl if
+Ġlif e
 is e
- the re
+Ġthe re
 is ed
 ain s
 un j
 unj ab
- M ugh
- econom ic
+ĠM ugh
+Ġeconom ic
 at ive
 ec h
- n on
+Ġn on
 c ed
- increas ed
- l it
+Ġincreas ed
+Ġl it
 or m
- m id
+Ġm id
 it ary
 il d
- h ist
- sp ec
- ex t
- peop le
+Ġh ist
+Ġsp ec
+Ġex t
+Ġpeop le
 ow n
- per i
- peri od
+Ġper i
+Ġperi od
 t ing
- e mp
+Ġe mp
 ra ph
 ab le
 es p
@@ -892,11 +892,11 @@ er ed
 i b
 imal ay
 ic e
- 201 1
- स ्व
+Ġ201 1
+Ġस ्व
 ध ्य
- క ూడ
- भ ाषा
+Ġక ూడ
+Ġभ ाषा
 ట ్ట
 त् व
 क ा
@@ -906,259 +906,259 @@ ic e
 ग ो
 ac k
 म हा
- क ो
- द ि
- स ा
+Ġक ो
+Ġद ि
+Ġस ा
 क्ष िण
 रा ज्य
 ण ि
- द क्षिण
- विश ्व
+Ġद क्षिण
+Ġविश ्व
 ం ద
- 1 2
- ज न
+Ġ1 2
+Ġज न
 स िन्
 చ ్చ
 ण् ड
 v ent
- I sl
- th an
- o cc
- e merg
- Ind us
+ĠI sl
+Ġth an
+Ġo cc
+Ġe merg
+ĠInd us
 ir d
 ill en
 illen ni
 illenni um
- S ans
- Sans k
- Sansk rit
- soc ial
- M a
+ĠS ans
+ĠSans k
+ĠSansk rit
+Ġsoc ial
+ĠM a
 l im
 ult an
- P unjab
- S ik
- Mugh al
+ĠP unjab
+ĠS ik
+ĠMugh al
 f t
- E ast
+ĠE ast
 ve ment
- par li
- parli ament
- lit er
- n uclear
- st ate
+Ġpar li
+Ġparli ament
+Ġlit er
+Ġn uclear
+Ġst ate
 ect ed
- re f
+Ġre f
 ci ent
 r on
 o od
 e ver
 it ies
 he n
- n ew
- s et
+Ġn ew
+Ġs et
 at he
- m ain
+Ġm ain
 an ge
- p ower
+Ġp ower
 r ol
 ro c
 di c
- le ad
- A l
- w ar
- E ur
- num ber
+Ġle ad
+ĠA l
+Ġw ar
+ĠE ur
+Ġnum ber
 ter n
- H imalay
- on e
- c our
- spec ies
+ĠH imalay
+Ġon e
+Ġc our
+Ġspec ies
 प ाल
 ् त
-  ఈ
+Ġ ఈ
 द्व ीप
 య ా
 ल ा
 ाग र
- श ासन
-  9
- 1 5
- ప్ర ా
- రా జ
-  దేశ
- 19 7
+Ġश ासन
+Ġ 9
+Ġ1 5
+Ġప్ర ా
+Ġరా జ
+Ġ దేశ
+Ġ19 7
 स ा
-  దేశం
+Ġ దేశం
 र ु
- భారత దేశం
+Ġభారత దేశం
 त र
 न ी
 वि धान
- 19 8
+Ġ19 8
 ि य
 ం చ
-  భా
-  ఒ
- रा ज
- Ind o
- Pl ate
+Ġ భా
+Ġ ఒ
+Ġरा ज
+ĠInd o
+ĠPl ate
 ्य ः
- वर् ष
- वर् त
- count ry
+Ġवर् ष
+Ġवर् त
+Ġcount ry
 l arge
 large st
- Chin a
+ĠChin a
 an k
 am an
 and s
- ri ver
- b as
- g ra
+Ġri ver
+Ġb as
+Ġg ra
 iv il
 op e
 l a
- e st
- C ent
- D el
- Com p
- c ol
- ri gh
- o ther
- 195 0
- th rough
- b illion
- U S
- th ough
- mil itary
+Ġe st
+ĠC ent
+ĠD el
+ĠCom p
+Ġc ol
+Ġri gh
+Ġo ther
+Ġ195 0
+Ġth rough
+Ġb illion
+ĠU S
+Ġth ough
+Ġmil itary
 f e
- E n
+ĠE n
 ri g
 du st
 t en
- includ ing
- G anges
- ag ric
- o ut
- the m
+Ġinclud ing
+ĠG anges
+Ġag ric
+Ġo ut
+Ġthe m
 em p
 og raph
- ca used
- T amil
+Ġca used
+ĠT amil
 i z
 g en
-  up
- wh o
+Ġ up
+Ġwh o
 t il
 he s
- s ur
- con stitution
+Ġs ur
+Ġcon stitution
 rib ut
 or ts
 athe m
 म े
 न े
- स र्व
-  ల
+Ġस र्व
+Ġ ల
 ట ్
-  ని
+Ġ ని
 ్ర ీ
- మ ొ
+Ġమ ొ
 ష్ట ్ర
 ग ा
 ాత ీయ
- ర ై
- प ु
- 1 7
+Ġర ై
+Ġप ु
+Ġ1 7
 द न
 द ्य
 ो क
- W or
- Wor ld
- त े
+ĠW or
+ĠWor ld
+Ġत े
 ब ्
 श ि
- స ్
+Ġస ్
 ద్ ధ
 ్ర ి
 ు లు
 ర్ వ
 ఖ ్య
 ख ा
- उ त्
- వ ్య
+Ġउ त्
+Ġవ ్య
 ణ ా
- ప ే
+Ġప ే
 ా న్
 త ర
- है ं
+Ġहै ं
 ञ ्च
 ाल य
 ध ि
 ण ा
- प ूर्व
- त स्
+Ġप ूर्व
+Ġत स्
 he ast
- n o
- th ird
- m illennium
- B y
- p re
- pol it
- w om
- relig i
+Ġn o
+Ġth ird
+Ġm illennium
+ĠB y
+Ġp re
+Ġpol it
+Ġw om
+Ġrelig i
 us lim
- Cent ral
- Del hi
+ĠCent ral
+ĠDel hi
 re w
- Sik h
- centur ies
- Comp any
- g r
+ĠSik h
+Ġcentur ies
+ĠComp any
+Ġg r
 duc ed
 p ut
- n e
+Ġn e
 ord ing
- En g
+ĠEn g
 l ish
 i ans
- w ide
+Ġw ide
 at a
- sec ond
+Ġsec ond
 ow ever
- w e
- st y
- f ound
+Ġw e
+Ġst y
+Ġf ound
 ment s
- s ome
+Ġs ome
 ou ld
 r uc
- fore st
- t r
- al l
- l ed
- s ign
+Ġfore st
+Ġt r
+Ġal l
+Ġl ed
+Ġs ign
 am p
 oc al
 id ent
- f ar
- A fter
- di re
- N ational
- ser ved
- r ural
+Ġf ar
+ĠA fter
+Ġdi re
+ĠN ational
+Ġser ved
+Ġr ural
 an a
 re ad
 u j
- influ en
- pl ay
+Ġinflu en
+Ġpl ay
 ra d
- S t
+ĠS t
 r u
- cont ribut
- m athem
+Ġcont ribut
+Ġm athem
 व ी
 क ि
 ల్ ల
@@ -1169,321 +1169,321 @@ r u
 ద్ ద
 2 0
 द ी
- 2 6
+Ġ2 6
 भ ाग
 1 9
- 1 0
- स ि
+Ġ1 0
+Ġस ि
 % .
 क् त
 स् थान
 ల ి
- प ा
+Ġप ा
 డ ి
 ట ు
 ध ु
 ండ ి
- ज ा
+Ġज ा
 ిం ద
 स ागर
- प्र थ
- प्रथ म
+Ġप्र थ
+Ġप्रथ म
 भू म
- म हा
+Ġम हा
 ू प
 o st
 स ः
 देश ः
- रा ग
+Ġरा ग
 ाद य
 वा न्
- 194 7
+Ġ194 7
 w est
 d aman
 a re
- m ade
- h igh
+Ġm ade
+Ġh igh
 ver se
 l ed
- emerg ed
+Ġemerg ed
 al le
- Hindu ism
- reg ions
- J ain
- polit ical
- wom en
+ĠHindu ism
+Ġreg ions
+ĠJ ain
+Ġpolit ical
+Ġwom en
 d le
- religi ous
- co ast
- M uslim
+Ġreligi ous
+Ġco ast
+ĠM uslim
 m it
 ultan ate
 or k
- c ulture
-  us
- le ft
+Ġc ulture
+Ġ us
+Ġle ft
 ac y
- Indian s
- t ech
- mo vement
- tim e
- c ap
+ĠIndian s
+Ġt ech
+Ġmo vement
+Ġtim e
+Ġc ap
 olog y
 at s
 cc ording
- Eng lish
+ĠEng lish
 iv es
- hist or
- east ern
-  used
+Ġhist or
+Ġeast ern
+Ġ used
 d ay
-  ent
- co al
- hum an
+Ġ ent
+Ġco al
+Ġhum an
 e h
 an ts
- f e
-  —
- as s
- a c
- emp lo
- emplo y
+Ġf e
+Ġ —
+Ġas s
+Ġa c
+Ġemp lo
+Ġemplo y
 i ed
 ra hm
- cent ral
- cont rol
+Ġcent ral
+Ġcont rol
 c ri
- g reat
- tr ans
- the y
+Ġg reat
+Ġtr ans
+Ġthe y
 ver y
 ar s
 om et
- Buddh ist
+ĠBuddh ist
 er ation
 or s
-  esp
- esp ec
- espec ially
- p ain
- pain ting
- fol lowing
- in dust
- G and
- Gand hi
- ter rit
+Ġ esp
+Ġesp ec
+Ġespec ially
+Ġp ain
+Ġpain ting
+Ġfol lowing
+Ġin dust
+ĠG and
+ĠGand hi
+Ġter rit
 a u
- includ e
+Ġinclud e
 un d
- major ity
- P rad
- Prad esh
-  her
- are as
+Ġmajor ity
+ĠP rad
+ĠPrad esh
+Ġ her
+Ġare as
 at i
- J an
- m em
+ĠJ an
+Ġm em
 h an
- grow th
+Ġgrow th
 an ces
- co ok
+Ġco ok
 o ol
 ens us
- Hin di
-  २
+ĠHin di
+Ġ २
 ప ా
- స్ థ
+Ġస్ థ
 డ ్
 % ,
 త ా
 प र
 प ्त
 న ా
- మ ు
+Ġమ ు
 ని కి
- स म्
- అ ధిక
+Ġस म्
+Ġఅ ధిక
 ధ ్య
-  లో
- न ाम
- ఉ ంది
- ఉన్న ాయి
- स म
+Ġ లో
+Ġन ाम
+Ġఉ ంది
+Ġఉన్న ాయి
+Ġस म
 स े
 ड ़
 श् च
 द ु
 iv ed
- भ ू
-  ఏ
-  భ
+Ġभ ू
+Ġ ఏ
+Ġ భ
 u e
- క ా
+Ġక ా
 च ार
- क र
+Ġक र
 మ ా
 ) .
 द े
 ्र ी
- क ार
- त था
- మ ార్
+Ġक ार
+Ġत था
+Ġమ ార్
 వ స్థ
- ఒ క
+Ġఒ క
 स् था
- రా ష్ట్ర
- ल ोक
+Ġరా ష్ట్ర
+Ġल ोक
 భారత దేశం
 ह ्
 वि ध
- 2 1
- म ा
+Ġ2 1
+Ġम ा
 ित ा
 ार् थ
- दि न
+Ġदि न
 ा णि
 सं स्कृत
 ना थ
 ति ः
 त त्
 డ ు
- ए ष
+Ġए ष
 भूम िः
 em oc
- B ang
+ĠB ang
 y an
 m ar
- I ts
- An daman
+ĠI ts
+ĠAn daman
 b ar
- ag o
- occ up
+Ġag o
+Ġocc up
 v ol
 v ing
 alle y
- ar ch
+Ġar ch
 ope an
- di ff
- ear ly
+Ġdi ff
+Ġear ly
 n ing
 k ed
 li ef
 om s
- c ult
- ar m
+Ġc ult
+Ġar m
 w ork
- c re
- le g
+Ġc re
+Ġle g
 ur n
- p rom
- n ational
+Ġp rom
+Ġn ational
 al e
- f ed
- parliament ary
+Ġf ed
+Ġparliament ary
 ist ic
- g rew
+Ġg rew
 u ally
- liter acy
- K as
- Kas hm
- b i
- supp ort
- P ers
- pro v
- Con stitution
- o rig
+Ġliter acy
+ĠK as
+ĠKas hm
+Ġb i
+Ġsupp ort
+ĠP ers
+Ġpro v
+ĠCon stitution
+Ġo rig
 ain ed
- wide ly
- di versity
- an imal
- The se
- fe at
- f ig
- v ill
+Ġwide ly
+Ġdi versity
+Ġan imal
+ĠThe se
+Ġfe at
+Ġf ig
+Ġv ill
 o in
- de f
+Ġde f
 a red
- relig ions
- B rahm
- b ir
+Ġrelig ions
+ĠB rahm
+Ġb ir
 i x
 ro p
 am m
-  roc
+Ġ roc
 m inist
- de v
- m an
+Ġde v
+Ġm an
 er t
 er ing
- p en
- pen ins
- wh ose
- s m
+Ġp en
+Ġpen ins
+Ġwh ose
+Ġs m
 if ic
 b ers
 in es
 it es
- l ocal
+Ġl ocal
 v en
 ces s
 es s
 le g
- dire ct
+Ġdire ct
 or ies
- st ates
- Himalay as
- an cient
- re m
+Ġst ates
+ĠHimalay as
+Ġan cient
+Ġre m
 p ur
- G uj
- d ra
+ĠG uj
+Ġd ra
 on s
 al i
 J P
- N eh
- Neh ru
- part y
- l ast
+ĠN eh
+ĠNeh ru
+Ġpart y
+Ġl ast
 od y
- Un ited
+ĠUn ited
 ec ut
 D P
- r ates
- g ar
- c ensus
+Ġr ates
+Ġg ar
+Ġc ensus
 ic ial
- mar ri
- sc ul
- scul pt
+Ġmar ri
+Ġsc ul
+Ġscul pt
 స ి
 ్ ల
 ార ం
 . .
- स् थान
+Ġस् थान
 ె ండ
 ac t
- ప ా
- మార్ గ
- హ ింద
- వ చ్చ
+Ġప ా
+Ġమార్ గ
+Ġహ ింద
+Ġవ చ్చ
 धिक ार
 ष े
- ह िन्
+Ġह िन्
 य ु
- सं स्कृत
- के न्द्र
+Ġसं स्कृत
+Ġके न्द्र
 े द
 श त
 ् ञ
- స ్వ
+Ġస ్వ
 ్ర మ
 श्च िम
 र्व त
-  ऐ
+Ġ ऐ
 ्या य
 ి న్న
 త ం
- శ ా
+Ġశ ా
 బ ్
 ా నికి
 र् थ
@@ -1491,517 +1491,517 @@ ac t
 भ ्य
 च ्
 జ ాతీయ
- కూడ ా
+Ġకూడ ా
 मु ख
 र े
 ख ्या
- न ि
+Ġन ि
 ाल ा
- त त्
+Ġत त्
 ह ु
 र् ण
- म ु
- वि द्य
- पा कि
- उत् तर
+Ġम ु
+Ġवि द्य
+Ġपा कि
+Ġउत् तर
 ్ మ
- 1 3
- 19 3
+Ġ1 3
+Ġ19 3
 ర ్య
- क ्र
+Ġक ्र
 స్ క
 व ्य
- క ో
- చ ె
+Ġక ో
+Ġచ ె
 గ ు
 ప ్ర
- ए क
+Ġए क
 ంత ్ర
- क ृत
+Ġक ृत
 ा ङ्क
- in d
+Ġin d
 out heast
 der s
- B h
- n ear
+ĠB h
+Ġn ear
 ic o
 e x
- with in
- Buddh ism
- r ise
- D uring
- st at
+Ġwith in
+ĠBuddh ism
+Ġr ise
+ĠD uring
+Ġst at
 in ed
- k ing
+Ġk ing
 is hed
- s ou
- sou ther
- souther n
- in ter
+Ġs ou
+Ġsou ther
+Ġsouther n
+Ġin ter
 ent ly
- cre ated
- comp os
- tech n
-  ed
- ed uc
- educ ation
+Ġcre ated
+Ġcomp os
+Ġtech n
+Ġ ed
+Ġed uc
+Ġeduc ation
 r ation
- fed eral
- rep ublic
+Ġfed eral
+Ġrep ublic
 u al
 i et
- bec ome
+Ġbec ome
 al ity
 is ing
- a ir
+Ġa ir
 ur ther
- Pers ian
- w ell
+ĠPers ian
+Ġw ell
 k s
- B har
- orig in
- c ur
- popul ar
-  Y
- ear li
- form s
+ĠB har
+Ġorig in
+Ġc ur
+Ġpopul ar
+Ġ Y
+Ġear li
+Ġform s
 p ed
-  z
+Ġ z
 at t
- c ities
- M o
- sty les
+Ġc ities
+ĠM o
+Ġsty les
 w n
- o ld
+Ġo ld
 e ak
 at ing
 s s
- agric ulture
+Ġagric ulture
 igh t
 all ed
- bas ed
+Ġbas ed
 tion s
 se qu
- roc k
+Ġroc k
 m b
- ad minist
- al ong
+Ġad minist
+Ġal ong
 ive ly
- region al
+Ġregion al
 ak e
- develop ment
+Ġdevelop ment
 ific ant
- s ch
- s ultanate
+Ġs ch
+Ġs ultanate
 th ough
- m en
+Ġm en
 ist s
- penins ular
+Ġpenins ular
 ra ct
 un g
- mar ket
+Ġmar ket
 ou p
- com mer
- b l
- p res
- long er
- se ver
- The re
- pro duc
+Ġcom mer
+Ġb l
+Ġp res
+Ġlong er
+Ġse ver
+ĠThe re
+Ġpro duc
 tern al
 c ent
- indust ry
- w on
- election s
- c r
- cont in
- l ower
- Guj arat
- W estern
+Ġindust ry
+Ġw on
+Ġelection s
+Ġc r
+Ġcont in
+Ġl ower
+ĠGuj arat
+ĠW estern
 as h
- l ow
+Ġl ow
 ak sh
- c or
- un ion
+Ġc or
+Ġun ion
 r ound
- righ t
- w in
- m on
- of ten
- employ ed
- end em
+Ġrigh t
+Ġw in
+Ġm on
+Ġof ten
+Ġemploy ed
+Ġend em
 b al
- c ar
+Ġc ar
 a h
- A ct
+ĠA ct
 t t
- B JP
+ĠB JP
 ol d
- 199 1
- mem ber
+Ġ199 1
+Ġmem ber
 t al
- ex ecut
- G DP
+Ġex ecut
+ĠG DP
 d e
- 200 1
+Ġ200 1
 f ore
 at h
- com mon
- mathem atic
- W ik
- ద క్ష
+Ġcom mon
+Ġmathem atic
+ĠW ik
+Ġద క్ష
 ప ంచ
- ప్రా ంత
- మ త
- ఎ న్న
- ప ార
- వ్య వస్థ
- పే రు
+Ġప్రా ంత
+Ġమ త
+Ġఎ న్న
+Ġప ార
+Ġవ్య వస్థ
+Ġపే రు
 o ok
 े क
- దేశ ాల
+Ġదేశ ాల
 ग र
 िम ालय
- ब ्र
+Ġब ्र
 स ि
 ग त
- ब हु
+Ġब हु
 स भा
 क े
- क ्
+Ġक ्
 ास ित
- अन ्य
+Ġअन ्य
 క ో
 త ్వ
 ప ్
 మ ి
 र ्य
 న్ ని
- చ ే
- A r
+Ġచ ే
+ĠA r
 च ीन
 ం బ
 త ్య
- 1 4
+Ġ1 4
 र ूप
 य े
 క్ కు
 ్ర ం
- రాజ ్య
+Ġరాజ ్య
 స ు
 ద ాయ
- క ే
- దక్ష ి
- ప్ర పంచ
- పార ్ట
- పార్ట ీ
+Ġక ే
+Ġదక్ష ి
+Ġప్ర పంచ
+Ġపార ్ట
+Ġపార్ట ీ
 ग ीत
 श ासन
 ि ख
- మ ధ్య
- ప్ర ధాన
- 5 0
- श ्री
- प र्वत
- భారత ీయ
- రై లు
+Ġమ ధ్య
+Ġప్ర ధాన
+Ġ5 0
+Ġश ्री
+Ġप र्वत
+Ġభారత ీయ
+Ġరై లు
 गो ल
 ल े
 म ान
-  १
- अन ेक
+Ġ १
+Ġअन ेक
 ा त्
 ड ा
- स् थ
+Ġस् थ
 च ित
- म ध्य
+Ġम ध्य
 मा ण
 र त
- स िन्
+Ġस िन्
 ह् म
- प श्चिम
- ने पाल
+Ġप श्चिम
+Ġने पाल
 व स्था
 ना म
 सि द्ध
- 5 5
+Ġ5 5
 క ొ
 ు న్న
- క ు
- ప ు
+Ġక ు
+Ġప ు
 क र
 ह र
 न ः
 िख ित
- ప రి
+Ġప రి
 ప ాల
 వ ర
 క ాల
- స ి
- 1 1
- మొ ద
- క ాల
+Ġస ి
+Ġ1 1
+Ġమొ ద
+Ġక ాల
 ి స్త
- అ య
- ప్ర జ
+Ġఅ య
+Ġప్ర జ
 క్కు వ
 భ ుత
 భుత ్వ
- క ్రీ
+Ġక ్రీ
 ध ्व
- భా ష
+Ġభా ష
 तम े
 स म
 నా భా
 భారత ీయ
- హింద ూ
- स्थान े
+Ġహింద ూ
+Ġस्थान े
 द श
 स र्व
- र वी
+Ġर वी
 न ै
- ind ep
- indep end
- A ra
+Ġind ep
+Ġindep end
+ĠA ra
 e a
- b or
- w est
+Ġb or
+Ġw est
 l ad
 di v
- N ico
- Nico bar
- Isl ands
+ĠN ico
+ĠNico bar
+ĠIsl ands
 a il
- A f
+ĠA f
 at her
 et t
- gra du
- V alley
- C ivil
- rec ord
+Ġgra du
+ĠV alley
+ĠC ivil
+Ġrec ord
 di an
 ant ed
- Jain ism
- he re
+ĠJain ism
+Ġhe re
 up ta
- f l
+Ġf l
 ab il
- king d
- kingd oms
- S outheast
- Isl am
+Ġking d
+Ġkingd oms
+ĠS outheast
+ĠIsl am
 ast ri
- est ab
+Ġest ab
 v al
 ar a
- ch anges
+Ġch anges
 m ary
- d omin
+Ġd omin
 s c
 os s
- m ult
- 202 3
- an n
- f ast
- techn ology
- mid dle
- increas ing
- Kashm ir
- A mong
- f our
- w ild
- v i
- pro t
- ter m
- Bhar at
- v ari
- re n
+Ġm ult
+Ġ202 3
+Ġan n
+Ġf ast
+Ġtechn ology
+Ġmid dle
+Ġincreas ing
+ĠKashm ir
+ĠA mong
+Ġf our
+Ġw ild
+Ġv i
+Ġpro t
+Ġter m
+ĠBhar at
+Ġv ari
+Ġre n
 A n
- though t
- earli est
- k n
+Ġthough t
+Ġearli est
+Ġk n
 in c
- ar ound
+Ġar ound
 ak h
- ch ar
- fig ures
- old est
- t rib
+Ġch ar
+Ġfig ures
+Ġold est
+Ġt rib
 ro ss
- pl ain
- w hen
- tim es
- Ma h
- h owever
- diff er
- e th
+Ġpl ain
+Ġw hen
+Ġtim es
+ĠMa h
+Ġh owever
+Ġdiff er
+Ġe th
 ic es
- con duc
- bir th
+Ġcon duc
+Ġbir th
 e ograph
- e mpire
- te x
- h is
- sub sequ
- pol ic
+Ġe mpire
+Ġte x
+Ġh is
+Ġsub sequ
+Ġpol ic
 is s
- comp le
- t a
- f low
+Ġcomp le
+Ġt a
+Ġf low
 at ure
- res p
+Ġres p
 t i
 d ed
- W est
- grow ing
- sm all
- t emp
- sign ificant
- num bers
- e very
+ĠW est
+Ġgrow ing
+Ġsm all
+Ġt emp
+Ġsign ificant
+Ġnum bers
+Ġe very
 he re
- s o
- As ian
- v ast
- lead ing
+Ġs o
+ĠAs ian
+Ġv ast
+Ġlead ing
 t ic
 ard s
- ag ain
- s up
- gr oup
- R aj
- a ff
- f urther
- cons id
- D al
- s um
+Ġag ain
+Ġs up
+Ġgr oup
+ĠR aj
+Ġa ff
+Ġf urther
+Ġcons id
+ĠD al
+Ġs um
 al th
- s a
+Ġs a
 g u
 id ed
- leg is
- legis l
- pl ate
- app ro
- appro x
- approx im
- approxim ately
- sp read
- o b
-  upp
- upp er
- Th is
- ca us
- Plate au
- n ow
- rem ain
- sur v
+Ġleg is
+Ġlegis l
+Ġpl ate
+Ġapp ro
+Ġappro x
+Ġapprox im
+Ġapproxim ately
+Ġsp read
+Ġo b
+Ġ upp
+Ġupp er
+ĠTh is
+Ġca us
+ĠPlate au
+Ġn ow
+Ġrem ain
+Ġsur v
 c an
 ap ut
 aput ra
 ort ant
 n a
 l ine
- di st
- A ccording
- territ ories
- p an
- D e
- h ig
+Ġdi st
+ĠA ccording
+Ġterrit ories
+Ġp an
+ĠD e
+Ġh ig
 oc k
- influen ced
+Ġinfluen ced
 at ak
 p l
 e y
- end ang
- endang ered
- f ive
+Ġend ang
+Ġendang ered
+Ġf ive
 eral a
- P ar
- he ld
- un til
- Jan u
- Janu ary
- lead er
- 196 5
- c ivil
- coal ition
- s ing
- form ed
+ĠP ar
+Ġhe ld
+Ġun til
+ĠJan u
+ĠJanu ary
+Ġlead er
+Ġ196 5
+Ġc ivil
+Ġcoal ition
+Ġs ing
+Ġform ed
 e e
 d ra
- As s
- St ates
- vill age
- execut ive
+ĠAs s
+ĠSt ates
+Ġvill age
+Ġexecut ive
 ou se
- p ort
- th ree
- cour t
- cour ts
+Ġp ort
+Ġth ree
+Ġcour t
+Ġcour ts
 m in
- N ad
- Nad u
+ĠN ad
+ĠNad u
 es e
- g lo
- to tal
- est im
+Ġg lo
+Ġto tal
+Ġest im
 or ce
 al es
-  ve
- f amil
- famil ies
- off icial
- develop ed
- sch ool
- tradition al
- sculpt ure
- tradition s
- d ances
- wor n
+Ġ ve
+Ġf amil
+Ġfamil ies
+Ġoff icial
+Ġdevelop ed
+Ġsch ool
+Ġtradition al
+Ġsculpt ure
+Ġtradition s
+Ġd ances
+Ġwor n
 ge t
 ric ket
- भ ी
- अ व
- ग ण
- ह ु
- ह ो
+Ġभ ी
+Ġअ व
+Ġग ण
+Ġह ु
+Ġह ो
 त ु
 प रा
- ज ि
- भ ाग
-  ई
-  య
+Ġज ि
+Ġभ ाग
+Ġ ई
+Ġ య
 ద ు
 ప్ ప
- 1 6
+Ġ1 6
 त ी
- क् षे
- क्षे त्र
+Ġक् षे
+Ġक्षे त्र
 క ా
 ద ా
 స్క ృ
 क ्र
- సా ం
- స భ
+Ġసా ం
+Ġస భ
 ా బ
 ो ध
- ప్ర భుత్వ
- द ्व
+Ġప్ర భుత్వ
+Ġद ्व
 ె ద్ద
-  :
- च ीन
+Ġ :
+Ġच ीन
 व्य वस्था
 श ासित
- వచ్చ ింది
- భారత దేశ
+Ġవచ్చ ింది
+Ġభారత దేశ
 భారత దేశ
- దేశం లో
- ఇ తర
+Ġదేశం లో
+Ġఇ తర
 क ृ
 b ack
 व ं
- न ्याय
+Ġन ्याय
 म ि
 ्ञ ान
 ०० ०
@@ -2010,510 +2010,510 @@ b ack
 प ूर्व
 मा ज
 का श
- अ धि
- हिन् दु
+Ġअ धि
+Ġहिन् दु
 स न्
 भारत ीय
 १९ ४
 ग ्र
- ब ा
-  था
- प्रा चीन
- पर ि
+Ġब ा
+Ġ था
+Ġप्रा चीन
+Ġपर ि
 रा ष्ट्र
 प्र ा
 ज य
 ग ण
 ు ంది
-  धर्म
+Ġ धर्म
 ान ा
- सिन् धु
- ब्र ह्म
+Ġसिन् धु
+Ġब्र ह्म
 గ ి
 ల ం
- ద ్వ
- స్థ ాన
+Ġద ్వ
+Ġస్థ ాన
 ణ ం
- ఉ త్
+Ġఉ త్
 త ్ర
 ల ా
- ప ట్ట
+Ġప ట్ట
 ి ల్ల
 ధ ించ
- జ రి
- అధిక ార
- కే ంద
+Ġజ రి
+Ġఅధిక ార
+Ġకే ంద
 గ ర
-  ను
- ఉ ంట
- ర ెండ
+Ġ ను
+Ġఉ ంట
+Ġర ెండ
 ల ీ
 ौ गोल
 ौगोल िक
- स् था
+Ġस् था
 न ्य
 च ्च
 पर ि
 ा खा
 मु द्र
- అ తి
- ఆ ర్
+Ġఅ తి
+Ġఆ ర్
 రు వ
 రువ ాత
 వా ణా
 ज ा
 ल् ल
- वि धान
- ह े
- प त्र
- ज य
- మార్గ ాలు
- 2 8
+Ġवि धान
+Ġह े
+Ġप त्र
+Ġज य
+Ġమార్గ ాలు
+Ġ2 8
 तत् त्व
 द ः
 व ः
 न म्
 वर् ण
 ेण ्
- प ञ्च
+Ġप ञ्च
 म स्
 ह ो
 ड ्
 वि ः
- 4 0
- म ह
- स प्त
+Ġ4 0
+Ġम ह
+Ġस प्त
 ल ङ्क
 लङ्क ा
- स् त
+Ġस् त
 व त्
 हा सः
- र चित
- पत्र िका
+Ġर चित
+Ġपत्र िका
 स स्य
 कृत ्य
- are a
- d emoc
+Ġare a
+Ġd emoc
 b ian
- S ea
- N ep
- Bang lad
- Banglad esh
- S ri
- M al
+ĠS ea
+ĠN ep
+ĠBang lad
+ĠBanglad esh
+ĠS ri
+ĠM al
 on es
- Af ric
- Afric a
- The ir
- p red
- di verse
- 12 00
- record ed
- D ra
- Dra vi
- Dravi dian
- cons ol
- consol id
- l o
- Ma ur
-  er
- er a
- c reat
- arch it
- archit ect
- w rit
+ĠAf ric
+ĠAfric a
+ĠThe ir
+Ġp red
+Ġdi verse
+Ġ12 00
+Ġrecord ed
+ĠD ra
+ĠDra vi
+ĠDravi dian
+Ġcons ol
+Ġconsol id
+Ġl o
+ĠMa ur
+Ġ er
+Ġer a
+Ġc reat
+Ġarch it
+Ġarchit ect
+Ġw rit
 t ou
 tou ch
 abil ity
- sc ri
- estab l
- establ ished
+Ġsc ri
+Ġestab l
+Ġestabl ished
 mit t
- res ult
- result ing
+Ġres ult
+Ġresult ing
 et work
- relig ion
+Ġrelig ion
 and ing
- t urn
- righ ts
+Ġt urn
+Ġrigh ts
 olog ical
- int ro
- p ublic
- to ok
- influ ence
+Ġint ro
+Ġp ublic
+Ġto ok
+Ġinflu ence
 vi ol
- part ition
- a cc
+Ġpart ition
+Ġa cc
 r atic
- soc iet
- 195 1
- cap it
- re duced
+Ġsoc iet
+Ġ195 1
+Ġcap it
+Ġre duced
 e qu
 di t
- dis put
- pol l
+Ġdis put
+Ġpol l
 g a
 odi versity
 o ts
 li fe
- tradition ally
- d er
+Ġtradition ally
+Ġd er
 me di
 medi ately
- G ree
- ext ens
+ĠG ree
+Ġext ens
 t he
- n ame
+Ġn ame
 sh a
 li ed
- cur ren
- Hindu st
+Ġcur ren
+ĠHindu st
 r ing
 ri al
- ext ant
+Ġext ant
 et ic
- H owever
- kn own
- ab out
+ĠH owever
+Ġkn own
+Ġab out
 ar h
 ar o
 av i
- feat ures
+Ġfeat ures
 di s
- st e
+Ġst e
 oc i
- compos ed
- pl ace
+Ġcompos ed
+Ġpl ace
 st ed
- in vol
+Ġin vol
 av ing
- f am
- be ing
+Ġf am
+Ġbe ing
 at ical
- r ange
- c alled
+Ġr ange
+Ġc alled
 if ied
- differ ent
+Ġdiffer ent
 ing s
 ure d
- conduc ted
+Ġconduc ted
 iv ing
- l ay
- the se
- hist ory
- b ri
+Ġl ay
+Ġthe se
+Ġhist ory
+Ġb ri
 in ing
- sp eak
+Ġsp eak
 m iss
 el f
- ta x
- great er
- ren ew
+Ġta x
+Ġgreat er
+Ġren ew
 o tion
- V a
- s ix
+ĠV a
+Ġs ix
 ous ly
 er v
- agric ult
- agricult ural
- sh ow
- T emp
- app ear
+Ġagric ult
+Ġagricult ural
+Ġsh ow
+ĠT emp
+Ġapp ear
 n am
 ay s
 ar ies
- Al though
- el ites
- in di
- indi gen
- indigen ous
- st r
- b u
+ĠAl though
+Ġel ites
+Ġin di
+Ġindi gen
+Ġindigen ous
+Ġst r
+Ġb u
 or tion
- p ract
+Ġp ract
 u es
 it ions
- commer c
- commerc ial
+Ġcommer c
+Ġcommerc ial
 er ial
- pro cess
- Eur opean
+Ġpro cess
+ĠEur opean
 ab ly
 our ces
 v an
 e ly
- ref orm
+Ġref orm
 i e
- c an
- p r
- direct ly
- l im
- dec ad
- decad es
+Ġc an
+Ġp r
+Ġdirect ly
+Ġl im
+Ġdec ad
+Ġdecad es
 st ruc
- gen er
- cons um
- re lief
- W ar
+Ġgen er
+Ġcons um
+Ġre lief
+ĠW ar
 op eration
- en ac
- enac ted
+Ġen ac
+Ġenac ted
 i p
- Al l
- sec ular
- 7 0
- G ond
- cr ust
- Eur as
- p il
+ĠAl l
+Ġsec ular
+Ġ7 0
+ĠG ond
+Ġcr ust
+ĠEur as
+Ġp il
 on e
- contin u
- continu ed
- T ib
- Tib et
+Ġcontin u
+Ġcontinu ed
+ĠT ib
+ĠTib et
 ak es
- T har
- D es
- c he
+ĠT har
+ĠD es
+Ġc he
 k h
- D ec
- G h
- Gh ats
- Con stit
- e qu
- Brahm aputra
+ĠD ec
+ĠG h
+ĠGh ats
+ĠCon stit
+Ġe qu
+ĠBrahm aputra
 re me
 r ish
 rish na
 ad a
 an n
- other s
- hig he
- highe st
+Ġother s
+Ġhig he
+Ġhighe st
 it s
 ab h
- sum mer
- s im
+Ġsum mer
+Ġs im
 ol e
 rop ical
- 201 8
- re t
+Ġ201 8
+Ġre t
 arn atak
 arnatak a
 ri es
- f ish
- n at
- ex ch
+Ġf ish
+Ġn at
+Ġex ch
 vent ion
 o or
- K erala
- 202 2
+ĠK erala
+Ġ202 2
 c hed
 tt ar
 G overnment
- cent re
- S ing
- Sing h
- b ody
+Ġcent re
+ĠS ing
+ĠSing h
+Ġb ody
 li ance
- j ust
- sing le
- ex ternal
- 202 6
- ex c
+Ġj ust
+Ġsing le
+Ġex ternal
+Ġ202 6
+Ġex c
 er c
- fore ign
- he ad
- f und
- fund ament
- fundament al
- Un ion
- ser v
- di v
-  qu
- rel ations
- t est
- ad dition
- N uclear
+Ġfore ign
+Ġhe ad
+Ġf und
+Ġfund ament
+Ġfundament al
+ĠUn ion
+Ġser v
+Ġdi v
+Ġ qu
+Ġrel ations
+Ġt est
+Ġad dition
+ĠN uclear
 tern ational
 t om
 er g
 erg y
- 201 0
- n ation
- glo bal
- s ect
- sect or
- wor k
+Ġ201 0
+Ġn ation
+Ġglo bal
+Ġs ect
+Ġsect or
+Ġwor k
 or ter
 ine ering
- exp orts
- be fore
- estim ated
- f em
- produc er
- mil k
- p har
- phar m
- pharm ace
- pharmace ut
- pharmaceut ical
+Ġexp orts
+Ġbe fore
+Ġestim ated
+Ġf em
+Ġproduc er
+Ġmil k
+Ġp har
+Ġphar m
+Ġpharm ace
+Ġpharmace ut
+Ġpharmaceut ical
 reas ing
- cook ing
+Ġcook ing
 i qu
 um b
 umb ai
- te a
- imp ortant
+Ġte a
+Ġimp ortant
 ab ad
 iv al
- be low
+Ġbe low
 c ast
- f est
- influen ces
- mathematic s
+Ġf est
+Ġinfluen ces
+Ġmathematic s
 arn atic
 dra m
 dram as
- s ari
- w a
- wa ist
- common ly
+Ġs ari
+Ġw a
+Ġwa ist
+Ġcommon ly
 al w
 ame e
 amee z
- w ear
- cook ed
- ve get
- me at
+Ġw ear
+Ġcook ed
+Ġve get
+Ġme at
 त ्य
 4 2
- P ro
+ĠP ro
 ी व
- 18 5
- कार ्य
- इ स
+Ġ18 5
+Ġकार ्य
+Ġइ स
 ं त्र
- ज ै
+Ġज ै
 ो प
 स ू
- स्थ ित
+Ġस्थ ित
 स ार
 గ ్
 ష ్
-  ऋ
-  ५
+Ġ ऋ
+Ġ ५
 ీ ర్
 ాల ్
 క్ క
 धिकार िक
- म न
+Ġम न
 ू ल
- వ ా
- మ హ
- క ొ
+Ġవ ా
+Ġమ హ
+Ġక ొ
 ర ో
- ఏ ర్
- क िया
- బ హ
+Ġఏ ర్
+Ġक िया
+Ġబ హ
 ీ న
 ట ిక
- ప ాల
+Ġప ాల
 గ ిన
 ౌ క
 त न
- క లి
+Ġక లి
 జ ్య
- దక్షి ణా
+Ġదక్షి ణా
 స్త ాన్
- వ ంట
+Ġవ ంట
 బ డ
 ంది న
 క ీయ
- కా ంగ
- కాంగ ్ర
- కాంగ్ర ె
+Ġకా ంగ
+Ġకాంగ ్ర
+Ġకాంగ్ర ె
 గ ీ
- క్రీ డ
+Ġక్రీ డ
 ु र
 ृ द्ध
- కేంద ్ర
- ఎ క్కువ
- ము ఖ్య
- అ నే
- పా కి
+Ġకేంద ్ర
+Ġఎ క్కువ
+Ġము ఖ్య
+Ġఅ నే
+Ġపా కి
 స్త ుత
- అయ ిన
+Ġఅయ ిన
 ప్ర దాయ
 2 00
- ह िमालय
- आ धिकारिक
-  छ
+Ġह िमालय
+Ġआ धिकारिक
+Ġ छ
 भ ाषा
- జ నాభా
- ప ెద్ద
- ఎన్న ో
- ర వాణా
+Ġజ నాభా
+Ġప ెద్ద
+Ġఎన్న ో
+Ġర వాణా
 ष् ण
 र् ष
 र ी
 वर ी
- य ु
- स ु
- 3 0
+Ġय ु
+Ġस ु
+Ġ3 0
 20 1
 भ िन्
 भिन् न
- आ न्
- त क
+Ġआ न्
+Ġत क
 ल् ली
 क ाल
 ह ि
- 2 5
-  0
+Ġ2 5
+Ġ 0
 y p
- ब ौ
- बौ द्ध
+Ġब ौ
+Ġबौ द्ध
 वर् ष
 ह ित
- म ूल
+Ġम ूल
 य त
 ष् ठ
 ज ्ञान
- ) ,
+Ġ) ,
 क ी
- त ु
- कार ण
- न व
+Ġत ु
+Ġकार ण
+Ġन व
 पाल िका
 थ ि
 ो त्
 रा ज
 े स
- द श
-  ति
+Ġद श
+Ġ ति
 ధ ి
-  ట
-  ध
- म त
+Ġ ట
+Ġ ध
+Ġम त
 धान ी
- जा त
+Ġजा त
 ్య ం
 ిత ్ర
 ార ి
 న ాలు
- सा थ
+Ġसा थ
 ं ध
 కు ంట
 ట ం
- ఏర్ ప
+Ġఏర్ ప
 క ్రమ
- ప ర
- ప్ర తి
+Ġప ర
+Ġప్ర తి
 మ ీ
 సి యా
- వ ే
+Ġవ ే
 ంగ ్ల
 ండ ు
 మ ే
@@ -2522,42 +2522,42 @@ y p
 ద ం
 ద్ధ ి
 ప ించ
- మ ాత
- క ార
+Ġమ ాత
+Ġక ార
 ప తి
- సా ధించ
+Ġసా ధించ
 ्र ि
 ल ाल
 १ १
 ద ారు
- స రి
- సరి హ
- సరిహ ద్ద
+Ġస రి
+Ġసరి హ
+Ġసరిహ ద్ద
 ండి యా
 ా వర
 లో ని
- శా స్త
- రాజ కీయ
+Ġశా స్త
+Ġరాజ కీయ
 త్య ధిక
- సి ని
- సం గీ
- भ रत
- स्व तन्त्र
- प्र धान
+Ġసి ని
+Ġసం గీ
+Ġभ रत
+Ġस्व तन्त्र
+Ġप्र धान
 पु त्र
 ा धिक
- स दन
- రాష్ట్ర ాల
- గ ల
- ఇ ది
- కాల ంలో
- ప్ర స్తుత
- చ ిన్న
+Ġस दन
+Ġరాష్ట్ర ాల
+Ġగ ల
+Ġఇ ది
+Ġకాల ంలో
+Ġప్ర స్తుత
+Ġచ ిన్న
 ిస్త ారు
- త రువాత
- భారత ్
- జ ాతీయ
- 3 6
+Ġత రువాత
+Ġభారత ్
+Ġజ ాతీయ
+Ġ3 6
 6 4
 2 1
 ट ि
@@ -2566,32 +2566,32 @@ y p
 ृ ह
 म ार्
 ब ्र
- उ ल्
- व ेद
+Ġउ ल्
+Ġव ेद
 प द
 ट ्
 ित म्
 म िन्
- वि ध
- विध ा
+Ġवि ध
+Ġविध ा
 विध ा
 म ित
- आ र्य
- R ep
- 3 00
- 4 2
- स र
+Ġआ र्य
+ĠR ep
+Ġ3 00
+Ġ4 2
+Ġस र
 न् थ
 म ी
 ो ष
- ब ृह
+Ġब ृह
 भाग ः
- अ ष्ट
+Ġअ ष्ट
 ब् ध
 े ऽ
 ्य म्
 ध्व ज
- पु ण
+Ġपु ण
 चार ्य
 यो जन
 र् ग
@@ -2599,310 +2599,310 @@ y p
 स ङ्
 सङ् ख्या
 न ाना
- उ द्
+Ġउ द्
 द्व ार
 व न्
- त म
- त ेन
+Ġत म
+Ġत ेन
 द म्
- ल िखित
+Ġल िखित
 ान ु
 श ाला
 प ङ्क
 न ु
 कार ः
- स ङ्
- सङ् घ
+Ġस ङ्
+Ġसङ् घ
 िण ी
 प तिः
- आ परा
- आपरा धिक
- न द
+Ġआ परा
+Ġआपरा धिक
+Ġन द
 ग स्
 म हो
 महो द
 महोद यः
 गीत म्
- अ द्
- सम् प्र
- popul ous
- independ ence
+Ġअ द्
+Ġसम् प्र
+Ġpopul ous
+Ġindepend ence
 ra cy
 ce an
- Ara bian
- B ay
- bor ders
- M yan
- Myan mar
- L ank
- sh are
+ĠAra bian
+ĠB ay
+Ġbor ders
+ĠM yan
+ĠMyan mar
+ĠL ank
+Ġsh are
 im e
- Ind ones
- Indones ia
- pred omin
- is ol
- mar g
- marg ins
- bas in
- gradu ally
- Civil isation
+ĠInd ones
+ĠIndones ia
+Ġpred omin
+Ġis ol
+Ġmar g
+Ġmarg ins
+Ġbas in
+Ġgradu ally
+ĠCivil isation
 a ic
 E ur
 Eur opean
- north west
- h y
+Ġnorth west
+Ġh y
 ning s
- supp l
- 4 00
+Ġsupp l
+Ġ4 00
 is en
 ar ly
- g ave
- lo ose
+Ġg ave
+Ġlo ose
 k n
- Maur ya
- G upta
+ĠMaur ya
+ĠG upta
 iv ity
- architect ure
- stat us
+Ġarchitect ure
+Ġstat us
 touch ability
- or gan
- be lief
- M id
- Mid dle
- exp ort
+Ġor gan
+Ġbe lief
+ĠM id
+ĠMid dle
+Ġexp ort
 p ts
- cult ures
+Ġcult ures
 ri st
 Z or
 Zor o
 Zoro astri
 Zoroastri an
 n d
- arm ies
+Ġarm ies
 r an
- pl ains
- c os
+Ġpl ains
+Ġc os
 ol it
 di e
 die val
- Sikh ism
+ĠSikh ism
 j ect
- in stitution
- exp ans
- rel ative
- r ich
+Ġin stitution
+Ġexp ans
+Ġrel ative
+Ġr ich
 on ial
- s over
- sover e
- sovere ign
- sovereign ty
- s low
- intro duced
+Ġs over
+Ġsover e
+Ġsovere ign
+Ġsovereign ty
+Ġs low
+Ġintro duced
 ot ed
- pri mary
- f act
- l oss
- m ig
- societ y
- n omin
- capit a
- h ub
- inf orm
- inform ation
- p over
- pover ty
- in equ
- inequ ality
- disput es
+Ġpri mary
+Ġf act
+Ġl oss
+Ġm ig
+Ġsociet y
+Ġn omin
+Ġcapit a
+Ġh ub
+Ġinf orm
+Ġinform ation
+Ġp over
+Ġpover ty
+Ġin equ
+Ġinequ ality
+Ġdisput es
 our s
 on om
- ch ild
- le vel
- wild life
- support ed
- prot ected
- h ab
- hab it
- pro p
- im mediately
- ref er
- histor ical
- Gree k
+Ġch ild
+Ġle vel
+Ġwild life
+Ġsupport ed
+Ġprot ected
+Ġh ab
+Ġhab it
+Ġpro p
+Ġim mediately
+Ġref er
+Ġhistor ical
+ĠGree k
 r at
 p ic
- origin ally
- N orth
- curren cy
+Ġorigin ally
+ĠN orth
+Ġcurren cy
 c om
 p ass
 pass ing
 res ent
 es c
- re ac
- reac hed
- l ik
- in it
+Ġre ac
+Ġreac hed
+Ġl ik
+Ġin it
 g arh
 om est
 omest ic
- animal s
+Ġanimal s
 e b
- c att
- catt le
+Ġc att
+Ġcatt le
 ur red
- Mo hen
- Mohen j
- Mohenj o
+ĠMo hen
+ĠMohen j
+ĠMohenj o
 d aro
 h ol
 er i
 al a
- char ac
- charac ter
- se als
- writ ten
- scri pt
- ar ts
+Ġchar ac
+Ġcharac ter
+Ġse als
+Ġwrit ten
+Ġscri pt
+Ġar ts
 ra c
- to wn
- p ast
- to day
- ass oci
+Ġto wn
+Ġp ast
+Ġto day
+Ġass oci
 A ry
 Ary an
- ac ross
- set t
+Ġac ross
+Ġset t
 l ing
- set ting
-  ir
+Ġset ting
+Ġ ir
 le ment
- d ri
- b ro
- bro ad
- par ts
- w ould
- urban isation
- v arn
- th ose
- Buddh a
+Ġd ri
+Ġb ro
+Ġbro ad
+Ġpar ts
+Ġw ould
+Ġurban isation
+Ġv arn
+Ġth ose
+ĠBuddh a
 ress ed
- c ould
- b ack
- As h
- Ash ok
- Ashok a
- tex ts
- K al
+Ġc ould
+Ġb ack
+ĠAs h
+ĠAsh ok
+ĠAshok a
+Ġtex ts
+ĠK al
 en se
- ad op
- d h
- forest s
+Ġad op
+Ġd h
+Ġforest s
 B y
- administ ration
- dev otion
- r ather
- ass ert
- P all
- Pall av
+Ġadminist ration
+Ġdev otion
+Ġr ather
+Ġass ert
+ĠP all
+ĠPall av
 ac ed
- g od
- part ic
+Ġg od
+Ġpart ic
 M e
- a ge
- cult ural
- m uch
- c le
- class es
+Ġa ge
+Ġcult ural
+Ġm uch
+Ġc le
+Ġclass es
 it ated
- p at
- Temp le
- s iz
- an ot
- anot her
- e ff
+Ġp at
+ĠTemp le
+Ġs iz
+Ġan ot
+Ġanot her
+Ġe ff
 un e
- m er
- mer ch
- s omet
- somet im
- sometim es
+Ġm er
+Ġmer ch
+Ġs omet
+Ġsomet im
+Ġsometim es
 A fter
- l aw
- law s
- s av
- v is
+Ġl aw
+Ġlaw s
+Ġs av
+Ġv is
 en ing
- str ong
- c ame
+Ġstr ong
+Ġc ame
 w ards
- the n
- pract ices
- trib al
+Ġthe n
+Ġpract ices
+Ġtrib al
 ond s
- A k
+ĠA k
 l ung
 m s
- polic ies
- re ven
- reven ues
- p a
+Ġpolic ies
+Ġre ven
+Ġreven ues
+Ġp a
 re g
- s il
- ent er
+Ġs il
+Ġent er
 g er
- main t
- M arat
+Ġmain t
+ĠM arat
 h as
- col l
- rec og
- recog n
- f ra
- increasing ly
- comp an
- compan ies
+Ġcol l
+Ġrec og
+Ġrecog n
+Ġf ra
+Ġincreasing ly
+Ġcomp an
+Ġcompan ies
 ol i
- st ren
- stren g
- streng th
- at t
- c ruc
- cruc ial
- subsequ ent
- g ood
- good s
- in st
- M any
- consid er
- h aving
- ra il
- rail w
- Eur ope
+Ġst ren
+Ġstren g
+Ġstreng th
+Ġat t
+Ġc ruc
+Ġcruc ial
+Ġsubsequ ent
+Ġg ood
+Ġgood s
+Ġin st
+ĠM any
+Ġconsid er
+Ġh aving
+Ġra il
+Ġrail w
+ĠEur ope
 ell ion
- sa fe
+Ġsa fe
 gu ard
- again st
+Ġagain st
 us h
- mar ked
- de p
+Ġmar ked
+Ġde p
 t ure
 p ay
 p tion
- prov ided
- c rit
+Ġprov ided
+Ġc rit
 ri d
 all s
 m a
- v ic
- vic t
- dec ade
+Ġv ic
+Ġvic t
+Ġdec ade
 is es
- f in
- l ib
- lib eral
+Ġf in
+Ġl ib
+Ġlib eral
 f orm
- p ers
- vi ol
- se p
+Ġp ers
+Ġvi ol
+Ġse p
 amm u
 G eograph
 ul k
@@ -2911,584 +2911,584 @@ id ly
 ill ed
 or n
 ut es
- m akes
- ab o
- abo ve
- l ies
- Des ert
- remain ing
+Ġm akes
+Ġab o
+Ġabo ve
+Ġl ies
+ĠDes ert
+Ġremain ing
 pur a
 har kh
 harkh and
- Dec can
- cont ains
+ĠDec can
+Ġcont ains
 it ud
- Himalay an
- ri vers
- dra in
+ĠHimalay an
+Ġri vers
+Ġdra in
 di ent
- K rishna
- k il
- kil omet
- kilomet res
- m i
+ĠK rishna
+Ġk il
+Ġkil omet
+Ġkilomet res
+Ġm i
 4 00
- be l
- bel ong
+Ġbe l
+Ġbel ong
 aksh ad
 akshad we
 akshadwe ep
 l and
- cons ists
- 4 3
+Ġcons ists
+Ġ4 3
 ar b
- lat ter
- cor al
+Ġlat ter
+Ġcor al
 or am
- sur round
+Ġsur round
 and a
 in d
- d o
+Ġd o
 y th
- t ree
- cl im
+Ġt ree
+Ġcl im
 d s
- sim il
- simil ar
- mo ist
- t ropical
- caus e
+Ġsim il
+Ġsimil ar
+Ġmo ist
+Ġt ropical
+Ġcaus e
 ection s
 Indi an
- K arnataka
+ĠK arnataka
 ach al
 B i
- cont ain
- endem ic
- m amm
- mamm als
- dis pl
+Ġcont ain
+Ġendem ic
+Ġm amm
+Ġmamm als
+Ġdis pl
 u ous
- exch ange
- ex tin
- th reat
+Ġexch ange
+Ġex tin
+Ġth reat
 en ed
 t re
- o p
- bl ack
- black b
- rec ent
- 193 5
- 198 0
+Ġo p
+Ġbl ack
+Ġblack b
+Ġrec ent
+Ġ193 5
+Ġ198 0
 m end
- ad ded
- e ight
- B i
- R am
+Ġad ded
+Ġe ight
+ĠB i
+ĠR am
 s ar
- p ur
- Par k
- M ad
+Ġp ur
+ĠPar k
+ĠM ad
 art y
- Jan ata
+ĠJan ata
 a har
- off ice
- 196 2
- ch os
- chos en
- Indi ra
- S he
- de fe
+Ġoff ice
+Ġ196 2
+Ġch os
+Ġchos en
+ĠIndi ra
+ĠS he
+Ġde fe
 i ber
- dec la
+Ġdec la
 en cy
- o pp
- opp os
- minist ers
- ret urn
- 3 1
- F ron
- Fron t
- Ch and
- m in
- government s
- fol low
- d ue
- D emoc
+Ġo pp
+Ġopp os
+Ġminist ers
+Ġret urn
+Ġ3 1
+ĠF ron
+ĠFron t
+ĠCh and
+Ġm in
+Ġgovernment s
+Ġfol low
+Ġd ue
+ĠD emoc
 D A
 P A
 res ident
- ab s
+Ġab s
 ut e
- 201 9
- 202 4
+Ġ201 9
+Ġ202 4
 D em
- Constit u
- Constitu ent
- Ass em
- Assem b
- Assemb ly
- constitution al
- el ected
+ĠConstit u
+ĠConstitu ent
+ĠAss em
+ĠAssem b
+ĠAssemb ly
+Ġconstitution al
+Ġel ected
 e es
 A r
- Com mon
- c oun
- j ur
+ĠCom mon
+Ġc oun
+Ġj ur
 ud uc
 uduc her
 uducher ry
 it al
- T er
+ĠT er
 ani pur
 k im
- bec om
- becom ing
- N on
+Ġbec om
+Ġbecom ing
+ĠN on
 A l
- w ent
- 196 0
- we ap
- weap ons
- sign ed
+Ġw ent
+Ġ196 0
+Ġwe ap
+Ġweap ons
+Ġsign ed
 it her
- T reat
- Treat y
+ĠT reat
+ĠTreat y
 cri min
- us e
+Ġus e
 b le
 et er
- 200 8
- en ergy
- a ver
- aver age
+Ġ200 8
+Ġen ergy
+Ġa ver
+Ġaver age
 ograph ics
- tra de
-  eng
- eng ineering
- 201 3
- c al
+Ġtra de
+Ġ eng
+Ġeng ineering
+Ġ201 3
+Ġc al
 f orce
- gar lic
- to p
+Ġgar lic
+Ġto p
 re en
- g as
- Bang al
- Bangal ore
- col leg
- colleg es
- res ident
- resident s
+Ġg as
+ĠBang al
+ĠBangal ore
+Ġcol leg
+Ġcolleg es
+Ġres ident
+Ġresident s
 e dic
 9 1
- M umbai
- speak ers
- comp rom
- comprom ise
+ĠM umbai
+Ġspeak ers
+Ġcomp rom
+Ġcomprom ise
 i i
- form al
+Ġform al
 hed ul
 hedul ed
- U r
- Ur du
+ĠU r
+ĠUr du
 ri ya
- Punjab i
- T el
- prom in
- b ot
- bot tom
+ĠPunjab i
+ĠT el
+Ġprom in
+Ġb ot
+Ġbot tom
 a fter
- ( "
- exp ress
+Ġ( "
+Ġexp ress
 hi p
- imp ro
- school s
+Ġimp ro
+Ġschool s
 H O
 reat h
 ab les
-  very
- marri ages
+Ġ very
+Ġmarri ages
 ang ed
 ren ts
- nat al
- b and
- fest ival
+Ġnat al
+Ġb and
+Ġfest ival
 ir t
- sty le
- Sh iv
- Shiv a
- s ites
+Ġsty le
+ĠSh iv
+ĠShiv a
+Ġs ites
 ant a
- b ron
- bron z
- man us
- manus cri
+Ġb ron
+Ġbron z
+Ġman us
+Ġmanus cri
 o v
- fol k
- Y aksh
+Ġfol k
+ĠY aksh
 ang ra
- mathem atical
- trans mit
- transmit ted
- contribut ions
- con ce
- ex amp
- examp le
- Hindust ani
- C arnatic
- play er
- Sh ank
- Shank ar
+Ġmathem atical
+Ġtrans mit
+Ġtransmit ted
+Ġcontribut ions
+Ġcon ce
+Ġex amp
+Ġexamp le
+ĠHindust ani
+ĠC arnatic
+Ġplay er
+ĠSh ank
+ĠShank ar
 u k
 as i
- F or
+ĠF or
 ould er
 b ody
- gar ment
- sh alw
- k ameez
- c u
- ch ur
- chur id
- churid ars
- dis hes
- e at
- eat en
+Ġgar ment
+Ġsh alw
+Ġk ameez
+Ġc u
+Ġch ur
+Ġchur id
+Ġchurid ars
+Ġdis hes
+Ġe at
+Ġeat en
 hes s
- c ricket
- O ly
- Oly mp
- port al
- 7 8
-  ﻿
- सर कार
+Ġc ricket
+ĠO ly
+ĠOly mp
+Ġport al
+Ġ7 8
+Ġ ﻿
+Ġसर कार
 3 0
- क ाल
+Ġक ाल
 ध ार
 b ook
- ग ा
- अन ु
- य ह
+Ġग ा
+Ġअन ु
+Ġय ह
 ओ ं
- ए वं
+Ġए वं
 स् ल
- से ना
- द े
+Ġसे ना
+Ġद े
 च ल
- వ ర్
- న ె
- स ब
- सब से
-  १९
+Ġవ ర్
+Ġన ె
+Ġस ब
+Ġसब से
+Ġ १९
 కో వ
- ఆ ధ
+Ġఆ ధ
 య ో
- స మా
+Ġస మా
 ిక ్
 ాత ి
 గ ం
- బ ్రి
+Ġబ ్రి
 ం ధ
 ర ణ
- సం స్కృ
- జ న
- ఉ ప
- న ే
- స ిం
- బహ ు
+Ġసం స్కృ
+Ġజ న
+Ġఉ ప
+Ġన ే
+Ġస ిం
+Ġబహ ు
 త ంత్ర
 ప ూ
 ప్ప టిక
 డ్ డ
 త ిక
- మొద ల
+Ġమొద ల
 ాత ్ర
 మ ంత
 ె లు
- మ ూడ
- స ౌక
- సౌక ర్య
- వ ె
+Ġమ ూడ
+Ġస ౌక
+Ġసౌక ర్య
+Ġవ ె
 म त
- సా మ
+Ġసా మ
 ైన ా
- పట్ట ణ
+Ġపట్ట ణ
 ఢ ిల్ల
 ఢిల్ల ీ
 ాన్ ని
- న డి
- ప్రాంత ాలు
- ర హ
- రహ దారు
- రహదారు ల
- వి వి
- వివి ధ
- ఇ ండియా
- రెండ ు
- ప్ర ము
- ప్రము ఖ
- అ త్యధిక
+Ġన డి
+Ġప్రాంత ాలు
+Ġర హ
+Ġరహ దారు
+Ġరహదారు ల
+Ġవి వి
+Ġవివి ధ
+Ġఇ ండియా
+Ġరెండ ు
+Ġప్ర ము
+Ġప్రము ఖ
+Ġఅ త్యధిక
 చ ే
- 2 2
+Ġ2 2
 श ी
 स् त्र
 म् ब
- उ प
+Ġउ प
 द ान
 ट ी
 ं ग्र
- Ar ch
- Arch ived
- व ा
+ĠAr ch
+ĠArch ived
+Ġव ा
 3 5
- क ु
+Ġक ु
 म ो
 ग म
 प ाद
 फ ल
-  थ
- ब ाद
- W ay
- Way back
- M ach
- Mach ine
- प ार
+Ġ थ
+Ġब ाद
+ĠW ay
+ĠWay back
+ĠM ach
+ĠMach ine
+Ġप ार
 ं श
 ा धिकार
 श ्र
 0 1
 8 0
- rep ort
+Ġrep ort
 angu ages
 ति क
- उ च्च
+Ġउ च्च
 च ी
- १ ५
+Ġ१ ५
 र प
 ल ु
- ) ;
- स ाम
- ग या
+Ġ) ;
+Ġस ाम
+Ġग या
 ी ं
- क ि
+Ġक ि
 ब ंध
- पु रा
+Ġपु रा
 व े
 न्त र
- इ स्ल
- इस्ल ाम
+Ġइ स्ल
+Ġइस्ल ाम
 ो ल
 ज ित
-  या
- अ धिक
+Ġ या
+Ġअ धिक
 ि र
- न ागर
-  फ
- द ो
+Ġन ागर
+Ġ फ
+Ġद ो
 ించ ి
 వ ర్
- య ు
- ప ో
+Ġయ ు
+Ġప ో
 వ ే
 య ం
 ూ ప
 ప ో
 డ ం
- అ ను
+Ġఅ ను
 స ర
- పే ర్
- ప ూ
+Ġపే ర్
+Ġప ూ
 వ ల
 వ ు
 వ త్
- స మ
-  ఖ
+Ġస మ
+Ġ ఖ
 చ ు
-  ఐ
+Ġ ఐ
 బ ా
 ంగ ం
- ప ద్ధ
+Ġప ద్ధ
 మ ించ
 ల్ ప
- మ న
+Ġమ న
 స్ వా
 ము ద
 ణ ి
- భ ూ
- పు ట్ట
- ద ా
-  గా
+Ġభ ూ
+Ġపు ట్ట
+Ġద ా
+Ġ గా
 ష ు
 రి త్ర
- స ార
+Ġస ార
 హ ించ
 రా ష్ట్ర
- ఎన్న ు
- చే య
+Ġఎన్న ు
+Ġచే య
 దేశ ాల
- త మి
- తమి ళ
+Ġత మి
+Ġతమి ళ
 १९४ ७
-  ७
- మొద టి
- ప్రజ ా
- సిం ధ
+Ġ ७
+Ġమొద టి
+Ġప్రజ ా
+Ġసిం ధ
 న ీ
- అ భ
- అభ ి
- చె ంద
+Ġఅ భ
+Ġఅభ ి
+Ġచె ంద
 ళ ్ల
- ప ండు
+Ġప ండు
 ను క
 చ ీన
- స ర్వ
+Ġస ర్వ
 మంత ్రి
- ని ర్వ
+Ġని ర్వ
 క ారం
- కో ర్
- పరి శ
- బ ె
- जै न
- ज न्
- जन् म
+Ġకో ర్
+Ġపరి శ
+Ġబ ె
+Ġजै न
+Ġज न्
+Ġजन् म
 ाल ी
 हि ं
- प्र ति
+Ġप्र ति
 ग ति
 त् त
- प्र काश
- प्र चल
- व िक
- वि ज्ञान
- य े
+Ġप्र काश
+Ġप्र चल
+Ġव िक
+Ġवि ज्ञान
+Ġय े
 नि रप
 य न
 ज ि
- स ौ
+Ġस ौ
 ह ार्
 हार् द
- ఒక టి
- అనే క
- చ ైనా
- సరిహద్ద ు
- శ తా
- శతా బ్
- శతాబ్ దం
- ను ండి
- స్వ ాత
- స్వాత ంత్ర
- స్వాతంత్ర ్య
- జరి గిన
- మొ త్
- మొత్ తం
- ఉంట ాయి
- కూడ ిన
- త న
- ఆర్ ధిక
- రాష్ట్ర పతి
- ప్రభుత్వ ం
- కాంగ్రె సు
- వ ాత
- వాత ావర
- వాతావర ణం
- జ ాబ
- జాబ ిత
- జాబిత ా
- పట్టణ ాల
- న గర
- నగర ాల
- రై ల
- రైల ్వ
- రైల్వ ే
- నడి పించ
- సంగీ తం
+Ġఒక టి
+Ġఅనే క
+Ġచ ైనా
+Ġసరిహద్ద ు
+Ġశ తా
+Ġశతా బ్
+Ġశతాబ్ దం
+Ġను ండి
+Ġస్వ ాత
+Ġస్వాత ంత్ర
+Ġస్వాతంత్ర ్య
+Ġజరి గిన
+Ġమొ త్
+Ġమొత్ తం
+Ġఉంట ాయి
+Ġకూడ ిన
+Ġత న
+Ġఆర్ ధిక
+Ġరాష్ట్ర పతి
+Ġప్రభుత్వ ం
+Ġకాంగ్రె సు
+Ġవ ాత
+Ġవాత ావర
+Ġవాతావర ణం
+Ġజ ాబ
+Ġజాబ ిత
+Ġజాబిత ా
+Ġపట్టణ ాల
+Ġన గర
+Ġనగర ాల
+Ġరై ల
+Ġరైల ్వ
+Ġరైల్వ ే
+Ġనడి పించ
+Ġసంగీ తం
 so on
 न गर
- ग ्र
- अ ध
+Ġग ्र
+Ġअ ध
 ख ण्ड
- ग ो
+Ġग ो
 स्त ु
 ग ्
- ग ु
+Ġग ु
 स् कृ
 क् ति
 ज ीव
- न दी
- प्र माण
+Ġन दी
+Ġप्र माण
 हिं सा
 ब ोध
- ज ल
+Ġज ल
 ात् म
 ात्म क
- वर् षा
+Ġवर् षा
 न व
 यो ग
 क्ष े
 सू ची
- दि व
- दिव स
- अ प
- ज ो
- ज ्ञ
- ज्ञ ा
+Ġदि व
+Ġदिव स
+Ġअ प
+Ġज ो
+Ġज ्ञ
+Ġज्ञ ा
 र म्
 म् प
- न िक
+Ġन िक
 म न्त्र
 पु र
 ा व
 ि ष्ठ
- भ ौगोलिक
- वि स्त
+Ġभ ौगोलिक
+Ġवि स्त
 ित ीय
 ा चार
- ज ग
+Ġज ग
 पुरा ण
- च ि
+Ġच ि
 इ ति
 र ण
- अ श
- अश ोक
- प ार्थ
- र ो
+Ġअ श
+Ġअश ोक
+Ġप ार्थ
+Ġर ो
 भ ेद
 त ृ
 ख र
 ार् म
 ार्म िक
- आ र्थ
- आर्थ िक
+Ġआ र्थ
+Ġआर्थ िक
 ह िमालय
- प त्
+Ġप त्
 ध ्र
 ल िखित
 ह रु
- २ ८
+Ġ२ ८
 श क्त
- विद्य मान
- श ाखा
+Ġविद्य मान
+Ġश ाखा
 फ े
 मुद्र ा
-  धर्
- धर् मा
- प थ
- छ ा
-  डा
+Ġ धर्
+Ġधर् मा
+Ġप थ
+Ġछ ा
+Ġ डा
 न ं
- रा म
+Ġरा म
 प्र काश
- Rep ublic
- 7 4
+ĠRep ublic
+Ġ7 4
 m ers
 ust ral
- A m
- 2 4
+ĠA m
+Ġ2 4
 2 4
- 5 00
+Ġ5 00
 ढ ़
- र ूप
-  घ
+Ġर ूप
+Ġ घ
 राज्य म्
 ्या म
 द ृ
@@ -3496,7 +3496,7 @@ ust ral
 ो ब
 ोब ार
 ङ्ग ा
-  ष
+Ġ ष
 थ ः
 तम ेन
 श ोध
@@ -3506,7 +3506,7 @@ ust ral
 क र्ण
 ार ः
 व ्या
- ग्र न्थ
+Ġग्र न्थ
 ेस ेण्
 ेसेण् ट
 ेसेण्ट थि
@@ -3516,25 +3516,25 @@ ust ral
 ेसेण्टथियोसफ िक
 ेसेण्टथियोसफिक ल
 १९४ ८
- व न्
+Ġव न्
 र च
- 1 00
+Ġ1 00
 र् माण
- बृह त्
+Ġबृह त्
 सी मा
- सम ीप
- स मुद्र
+Ġसम ीप
+Ġस मुद्र
 क ुर
 यु त
 मु खा
 स्थान म्
 द स्
 शासन म्
- अष्ट ा
+Ġअष्ट ा
 पर ्य
 मा न्
- त ृत
- तृत ीय
+Ġत ृत
+Ġतृत ीय
 न मस्
 वि ष
 ि नः
@@ -3542,20 +3542,20 @@ ust ral
 भ रत
 य न्
 र ब्ध
- त न्
- ५ ०००
- ५००० वर्
- ५०००वर् षे
- ५०००वर्षे भ
- ५०००वर्षेभ ्यः
+Ġत न्
+Ġ५ ०००
+Ġ५००० वर्
+Ġ५०००वर् षे
+Ġ५०००वर्षे भ
+Ġ५०००वर्षेभ ्यः
 ख ्रि
 ध ौ
 त द्
 भ ौगोलिक
- म ाला
+Ġम ाला
 द्वीप ः
 भू ता
- ब र
+Ġब र
 ् मा
 भ ृत
 सम ृद्ध
@@ -3567,25 +3567,25 @@ ust ral
 संह िता
 ब द्ध
 द धि
- स्व ा
+Ġस्व ा
 हर लाल
 हरलाल ने
 हरलालने हरु
 ीत ्या
 क्ष ः
- प्र जा
+Ġप्र जा
 मे व
- शासन म्
- श ्व
- श्व े
- श्वे त
+Ġशासन म्
+Ġश ्व
+Ġश्व े
+Ġश्वे त
 त स्
 िर ः
 का ः
 भ व
 ष य
 ख्या त
- पुण ्य
+Ġपुण ्य
 १९ ११
 १९११ तमे
 स माज
@@ -3593,31 +3593,31 @@ ust ral
 ति प
 १९ १९
 १९१९ तमे
- क विः
+Ġक विः
 वि द्य
 विद्य ालय
- आ ह
- आह ्व
- आह्व ान
- चि त्त
- म दन
+Ġआ ह
+Ġआह ्व
+Ġआह्व ान
+Ġचि त्त
+Ġम दन
 प ल्ली
- स ः
+Ġस ः
 ाचार ्यः
 क विः
- ज े
+Ġज े
 ना मा
- पत् नी
+Ġपत् नी
 च न
- छा त्र
+Ġछा त्र
 र् तु
 श य
- अ न्ति
- अन्ति म
- ग ी
- गी ता
- रो मा
- ऐ क
+Ġअ न्ति
+Ġअन्ति म
+Ġग ी
+Ġगी ता
+Ġरो मा
+Ġऐ क
 क ण्
 कण् ठ
 गा यन
@@ -3627,749 +3627,749 @@ ust ral
 ग्ल ान
 वा दः
 र वी
- द्व ितीय
+Ġद्व ितीय
 पु स्त
 पुस्त क
- र क्त
+Ġर क्त
 दु र्ग
 डा य
 म ेण्
- गीत म्
- राग ः
+Ġगीत म्
+Ġराग ः
 यो जित
- जन नी
+Ġजन नी
 म य
 नि ः
- अन न्य
+Ġअन न्य
 च रण
 भा वः
- ध ार्मिक
- य व
- democ racy
- O cean
- south west
- Nep al
- Th ail
- Thail and
+Ġध ार्मिक
+Ġय व
+Ġdemoc racy
+ĠO cean
+Ġsouth west
+ĠNep al
+ĠTh ail
+ĠThail and
 M o
 Mo dern
- hum ans
- occup ation
- isol ation
- h un
- hun ter
+Ġhum ans
+Ġoccup ation
+Ġisol ation
+Ġh un
+Ġhun ter
 g ather
 gather ers
- high ly
+Ġhigh ly
 ett led
- e vol
- arch aic
- diff used
- hy m
- hym n
- hymn s
+Ġe vol
+Ġarch aic
+Ġdiff used
+Ġhy m
+Ġhym n
+Ġhymn s
 ist ing
- suppl anted
- ar isen
+Ġsuppl anted
+Ġar isen
 la im
 laim ing
- E arly
+ĠE arly
 kn it
 i res
- fl our
+Ġfl our
 ish ing
- creat ivity
- dec l
- un touchability
- export ed
- Ch rist
- Christ ian
- Christian ity
- J ud
+Ġcreat ivity
+Ġdec l
+Ġun touchability
+Ġexport ed
+ĠCh rist
+ĠChrist ian
+ĠChristian ity
+ĠJ ud
 a ism
-  Zoroastrian
- Zoroastrian ism
- coast s
- over ran
- S ultanate
- d rew
- n etwork
- me dieval
- V i
- Vi j
- Vij ay
- Vijay an
- Vijayan ag
- Vijayanag ara
+Ġ Zoroastrian
+ĠZoroastrian ism
+Ġcoast s
+Ġover ran
+ĠS ultanate
+Ġd rew
+Ġn etwork
+Ġme dieval
+ĠV i
+ĠVi j
+ĠVij ay
+ĠVijay an
+ĠVijayan ag
+ĠVijayanag ara
 he red
- expans ion
- pe ace
- exp anding
- turn ed
- col onial
- 185 8
-  ide
-  ro
- national ist
- non viol
- nonviol ent
- fact or
- end ing
- independ ent
+Ġexpans ion
+Ġpe ace
+Ġexp anding
+Ġturn ed
+Ġcol onial
+Ġ185 8
+Ġ ide
+Ġ ro
+Ġnational ist
+Ġnon viol
+Ġnonviol ent
+Ġfact or
+Ġend ing
+Ġindepend ent
 m ajor
 major ity
- domin ion
+Ġdomin ion
 sc ale
- mig ration
- acc om
- g overn
- democ ratic
- mult i
+Ġmig ration
+Ġacc om
+Ġg overn
+Ġdemoc ratic
+Ġmult i
 e th
 n ic
- 36 1
- nomin al
- inc ome
- ann ually
+Ġ36 1
+Ġnomin al
+Ġinc ome
+Ġann ually
 g row
 grow ing
- co st
- ne igh
- neigh b
- un res
- unres ol
- unresol ved
+Ġco st
+Ġne igh
+Ġneigh b
+Ġun res
+Ġunres ol
+Ġunresol ved
 ec onom
 econom ic
- f ac
- gen der
- r ising
- level s
- poll ution
- me ga
- mega di
- megadi verse
- bi odiversity
- h ots
- hots p
- hotsp ots
- vi ew
+Ġf ac
+Ġgen der
+Ġr ising
+Ġlevel s
+Ġpoll ution
+Ġme ga
+Ġmega di
+Ġmegadi verse
+Ġbi odiversity
+Ġh ots
+Ġhots p
+Ġhotsp ots
+Ġvi ew
 E ty
 Ety m
 Etym ology
 tion ary
- C l
- Cl ass
- Class ical
- L at
+ĠC l
+ĠCl ass
+ĠClass ical
+ĠL at
 re t
-  Ἰ
- Ἰ ν
- Ἰν δ
- An cient
- R i
- Ri ver
- A ch
- Ach a
- Acha em
- Achaem en
- O ld
+Ġ Ἰ
+ĠἸ ν
+ĠἸν δ
+ĠAn cient
+ĠR i
+ĠRi ver
+ĠA ch
+ĠAch a
+ĠAcha em
+ĠAchaem en
+ĠO ld
 in dh
 , "
- As ians
-  [
+ĠAs ians
+Ġ [
 a ː
-  ]
- app lied
- g ained
- me an
- mean ing
- ent ire
+Ġ ]
+Ġapp lied
+Ġg ained
+Ġme an
+Ġmean ing
+Ġent ire
 H ist
 Hist ory
 An cient
 as ed
 oc h
- d ata
- an at
- anat om
- 8 0
+Ġd ata
+Ġan at
+Ġanat om
+Ġ8 0
 i h
- v ary
- on ly
+Ġv ary
+Ġon ly
 il s
 v id
 vid ence
- B al
+ĠB al
 p ro
 inc lud
 includ ing
- b ar
- occ urred
+Ġb ar
+Ġocc urred
 ap p
 avi ra
- character istic
- includ ed
- st and
- stand ar
- standar dis
- standardis ed
- wor ks
- p ot
- ter rac
- terrac ot
- terracot ta
- N etwork
- town s
- vill ages
- past or
- pastor al
+Ġcharacter istic
+Ġinclud ed
+Ġst and
+Ġstand ar
+Ġstandar dis
+Ġstandardis ed
+Ġwor ks
+Ġp ot
+Ġter rac
+Ġterrac ot
+Ġterracot ta
+ĠN etwork
+Ġtown s
+Ġvill ages
+Ġpast or
+Ġpastor al
 et ween
- associ ated
- wh at
+Ġassoci ated
+Ġwh at
 s p
- ne x
- nex t
- s w
+Ġne x
+Ġnex t
+Ġs w
 le ments
- sett lement
- m ay
- invol ved
- creat ing
- fam i
- fami ly
- main ly
+Ġsett lement
+Ġm ay
+Ġinvol ved
+Ġcreat ing
+Ġfam i
+Ġfami ly
+Ġmain ly
 di f
 dif ied
- ch ap
+Ġch ap
 t ell
- reg ist
- t ak
- for t
- fort ified
- varn a
+Ġreg ist
+Ġt ak
+Ġfor t
+Ġfort ified
+Ġvarn a
 m illennium
- eth ical
- system s
+Ġeth ical
+Ġsystem s
 viol ence
 ix ed
- here dit
- heredit ary
- l iving
+Ġhere dit
+Ġheredit ary
+Ġl iving
 ron ic
- be g
- beg in
- begin nings
- g eograph
- bri ef
- brief ly
- hub s
- ex ce
- not able
- in s
+Ġbe g
+Ġbeg in
+Ġbegin nings
+Ġg eograph
+Ġbri ef
+Ġbrief ly
+Ġhub s
+Ġex ce
+Ġnot able
+Ġin s
 p tions
- pro duced
+Ġpro duced
 re am
- F ol
- Fol lowing
- adop ted
- subsequ ently
- polic y
+ĠF ol
+ĠFol lowing
+Ġadop ted
+Ġsubsequ ently
+Ġpolic y
 miss ion
 er ous
- e dic
- edic ts
+Ġe dic
+Ġedic ts
 ot e
- w elf
- welf are
+Ġw elf
+Ġwelf are
 ill ing
- d est
+Ġd est
 ment al
- histor ians
- e mb
- comple x
- Pl ain
- mo d
- mod el
+Ġhistor ians
+Ġe mb
+Ġcomple x
+ĠPl ain
+Ġmo d
+Ġmod el
 up t
 se l
- ref l
- flow ering
- liter ature
- sc i
- sci ence
- S ang
- rul ed
- Ch ol
- resp ect
- K a
- Ka ver
- Kaver i
- v alley
+Ġref l
+Ġflow ering
+Ġliter ature
+Ġsc i
+Ġsci ence
+ĠS ang
+Ġrul ed
+ĠCh ol
+Ġresp ect
+ĠK a
+ĠKa ver
+ĠKaver i
+Ġv alley
 and y
- Pallav as
- S im
- Sim ultan
- Simultan e
- Simultane ously
- f av
- god s
- partic ular
- extens ively
- ab le
- land s
- cle ared
- m ake
- w ay
+ĠPallav as
+ĠS im
+ĠSim ultan
+ĠSimultan e
+ĠSimultane ously
+Ġf av
+Ġgod s
+Ġpartic ular
+Ġextens ively
+Ġab le
+Ġland s
+Ġcle ared
+Ġm ake
+Ġw ay
 t ra
- rul ing
+Ġrul ing
 en ces
- The y
+ĠThe y
 y al
 yal ty
- temp les
- pat ron
- c it
- cit iz
- citiz ens
- vari ous
+Ġtemp les
+Ġpat ron
+Ġc it
+Ġcit iz
+Ġcitiz ens
+Ġvari ous
 w here
 il i
- merch ants
- init i
+Ġmerch ants
+Ġinit i
 or se
 av al
- un ited
- rep e
- repe ated
- repeated ly
+Ġun ited
+Ġrep e
+Ġrepe ated
+Ġrepeated ly
 w estern
- e vent
- event ually
- Islam ic
- large ly
- o wn
- c ust
+Ġe vent
+Ġevent ually
+ĠIslam ic
+Ġlarge ly
+Ġo wn
+Ġc ust
 ul s
- ra id
- dev ast
- sc en
- art ists
- art is
- artis ans
- sy n
- bu ild
- build ing
- p ortion
- rul ers
- war ri
- warri ors
- di d
+Ġra id
+Ġdev ast
+Ġsc en
+Ġart ists
+Ġart is
+Ġartis ans
+Ġsy n
+Ġbu ild
+Ġbuild ing
+Ġp ortion
+Ġrul ers
+Ġwar ri
+Ġwarri ors
+Ġdi d
 e ad
- b al
+Ġb al
 r ative
 l us
 w ing
- b onds
- Ak bar
- emp er
- emper or
- m and
- tax es
- l ar
- lar ger
- market s
- liter ary
- tex til
- N ew
+Ġb onds
+ĠAk bar
+Ġemp er
+Ġemper or
+Ġm and
+Ġtax es
+Ġl ar
+Ġlar ger
+Ġmarket s
+Ġliter ary
+Ġtex til
+ĠN ew
 ren t
- group s
- Raj put
- Rajput s
- Sikh s
+Ġgroup s
+ĠRaj put
+ĠRajput s
+ĠSikh s
 or ation
- E x
- commer ce
- imp erial
+ĠE x
+Ġcommer ce
+Ġimp erial
 or ity
- l ate
- en ab
- a ut
- aff a
- affa ir
- affair s
- pres ence
- coast al
+Ġl ate
+Ġen ab
+Ġa ut
+Ġaff a
+Ġaffa ir
+Ġaffair s
+Ġpres ence
+Ġcoast al
 ost s
- res ources
- ad van
- advan ced
- att ract
- comp any
+Ġres ources
+Ġad van
+Ġadvan ced
+Ġatt ract
+Ġcomp any
 id el
- ac cess
- siz e
- man u
- manu f
- manuf act
- m at
- mat erial
- material s
- on s
- ons et
- sever ely
- eff ect
- app oin
- 18 4
+Ġac cess
+Ġsiz e
+Ġman u
+Ġmanu f
+Ġmanuf act
+Ġm at
+Ġmat erial
+Ġmaterial s
+Ġon s
+Ġons et
+Ġsever ely
+Ġeff ect
+Ġapp oin
+Ġ18 4
 en eral
-  ess
- ess ent
- essent ial
- d em
- railw ays
+Ġ ess
+Ġess ent
+Ġessent ial
+Ġd em
+Ġrailw ays
 duc tion
- D is
+ĠD is
 v as
 vas ive
 st y
 sty le
- reform s
- h ar
- pr in
- prin ces
- re b
- reb ellion
+Ġreform s
+Ġh ar
+Ġpr in
+Ġprin ces
+Ġre b
+Ġreb ellion
 and ed
- un itary
- lim ited
- safe guard
+Ġun itary
+Ġlim ited
+Ġsafe guard
 ut ure
- 18 8
- h al
- hal f
- far mers
- dep end
- depend ent
+Ġ18 8
+Ġh al
+Ġhal f
+Ġfar mers
+Ġdep end
+Ġdepend ent
 esp ite
- indust rial
- gener ated
+Ġindust rial
+Ġgener ated
 ro pp
- f ood
- consum ption
+Ġf ood
+Ġconsum ption
 ress ive
- s elf
+Ġs elf
 ul e
 c o
- 193 0
- vict ories
- I I
- p ush
- ad vent
- liberal isation
- trans form
- transform ed
- pers ist
- viol ence
- N a
- sep arat
- J ammu
- N ort
- Nort heast
- territ or
- territor ial
+Ġ193 0
+Ġvict ories
+ĠI I
+Ġp ush
+Ġad vent
+Ġliberal isation
+Ġtrans form
+Ġtransform ed
+Ġpers ist
+Ġviol ence
+ĠN a
+Ġsep arat
+ĠJ ammu
+ĠN ort
+ĠNort heast
+Ġterrit or
+Ġterritor ial
 Geograph y
- b ulk
+Ġb ulk
 y ing
 on ic
- g e
- ge olog
- sup er
- super continent
- Gond w
- Gondw ana
+Ġg e
+Ġge olog
+Ġsup er
+Ġsuper continent
+ĠGond w
+ĠGondw ana
 e ast
- spread ing
- Euras ian
- ob struc
- s he
- lay er
+Ġspread ing
+ĠEuras ian
+Ġob struc
+Ġs he
+Ġlay er
 et s
 he ad
- z one
- m ount
- st if
- stif f
+Ġz one
+Ġm ount
+Ġst if
+Ġstif f
 ic k
- Tibet an
- ra p
- rap idly
- se di
- sedi ment
+ĠTibet an
+Ġra p
+Ġrap idly
+Ġse di
+Ġsedi ment
 stit utes
 G ange
 Gange tic
- origin al
- ext end
- extend s
- dire c
- T o
- surv ives
- S at
- Sat pura
- r anges
- ch ains
- r un
- N ag
- J harkhand
- fl ank
- East ern
+Ġorigin al
+Ġext end
+Ġextend s
+Ġdire c
+ĠT o
+Ġsurv ives
+ĠS at
+ĠSat pura
+Ġr anges
+Ġch ains
+Ġr un
+ĠN ag
+ĠJ harkhand
+Ġfl ank
+ĠEast ern
 ut ed
- f ash
- lat itud
- sub st
- subst ant
- substant ially
- K os
- Kos i
- ext reme
- extreme ly
- gra dient
- f lo
- flo od
- pre vent
- N ar
- coast line
- me as
- l eng
- leng th
+Ġf ash
+Ġlat itud
+Ġsub st
+Ġsubst ant
+Ġsubstant ially
+ĠK os
+ĠKos i
+Ġext reme
+Ġextreme ly
+Ġgra dient
+Ġf lo
+Ġflo od
+Ġpre vent
+ĠN ar
+Ġcoast line
+Ġme as
+Ġl eng
+Ġleng th
 9 4
- L akshadweep
- rock y
- sh o
- sho res
- mar sh
- marsh y
- S und
- Sund arb
- Sundarb ans
- sh ared
+ĠL akshadweep
+Ġrock y
+Ġsh o
+Ġsho res
+Ġmar sh
+Ġmarsh y
+ĠS und
+ĠSund arb
+ĠSundarb ans
+Ġsh ared
 el ag
 l s
- v ol
- vol can
- pan oram
- T r
- N anda
- De vi
- pe ak
- be h
- beh ind
+Ġv ol
+Ġvol can
+Ġpan oram
+ĠT r
+ĠN anda
+ĠDe vi
+Ġpe ak
+Ġbe h
+Ġbeh ind
 ar lung
- M an
+ĠM an
 ad ra
- H ave
+ĠH ave
 lim ate
- strong ly
- win ds
- r ole
- J une
- O ct
- Oct o
- Octo ber
- clim atic
- w et
- d ry
+Ġstrong ly
+Ġwin ds
+Ġr ole
+ĠJ une
+ĠO ct
+ĠOct o
+ĠOcto ber
+Ġclim atic
+Ġw et
+Ġd ry
 at ures
-  °
- pro j
- pres ent
+Ġ °
+Ġpro j
+Ġpres ent
 im achal
 Bi odiversity
- count ries
- habit at
- rep til
- a mp
- amp hi
- pl ant
+Ġcount ries
+Ġhabit at
+Ġrep til
+Ġa mp
+Ġamp hi
+Ġpl ant
 ap s
- 3 4
- displ ay
- endem ism
- d ense
- dec id
- decid uous
- s al
- th orn
+Ġ3 4
+Ġdispl ay
+Ġendem ism
+Ġd ense
+Ġdec id
+Ġdecid uous
+Ġs al
+Ġth orn
 ib le
 st ring
- me dic
+Ġme dic
 i ant
 os a
 ough t
- d esc
+Ġd esc
 is ion
- Euras ia
- St ill
+ĠEuras ia
+ĠSt ill
 o o
- p ass
- cont ra
- v ul
- vul n
- vuln er
- vulner able
- threat ened
+Ġp ass
+Ġcont ra
+Ġv ul
+Ġvul n
+Ġvuln er
+Ġvulner able
+Ġthreat ened
 ed d
 d es
- t ig
- c roc
- croc odi
- near ly
- extin ct
- op en
+Ġt ig
+Ġc roc
+Ġcroc odi
+Ġnear ly
+Ġextin ct
+Ġop en
 l ands
 z ed
- blackb uc
- blackbuc k
- che et
- cheet ah
- resp on
- respon se
- 197 2
- F ore
- a mend
- amend ments
+Ġblackb uc
+Ġblackbuc k
+Ġche et
+Ġcheet ah
+Ġresp on
+Ġrespon se
+Ġ197 2
+ĠF ore
+Ġa mend
+Ġamend ments
 os p
 osp here
 erv es
 p le
 or b
- U ttar
+ĠU ttar
 akh and
- C re
- g ard
- gard en
- Mad h
+ĠC re
+Ġg ard
+Ġgard en
+ĠMad h
 P olit
 Polit ics
- part ies
+Ġpart ies
 eral ly
 " )
- P arty
- J aw
- Jaw ahar
- Jawahar l
- Jawaharl al
- rem ained
- com f
- comf ort
- comfort able
- di ed
- 196 4
- B ah
- Sh astri
- so on
- ch ose
- 196 7
- 197 1
- decla red
+ĠP arty
+ĠJ aw
+ĠJaw ahar
+ĠJawahar l
+ĠJawaharl al
+Ġrem ained
+Ġcom f
+Ġcomf ort
+Ġcomfort able
+Ġdi ed
+Ġ196 4
+ĠB ah
+ĠSh astri
+Ġso on
+Ġch ose
+Ġ196 7
+Ġ197 1
+Ġdecla red
 end ing
- l iber
- E merg
- Emerg ency
- v oted
- last ed
+Ġl iber
+ĠE merg
+ĠEmerg ency
+Ġv oted
+Ġlast ed
 ar an
- return ed
- G old
- Gold en
- Am rit
- Amrit sar
- ass ass
- assass in
- assassin ated
- 198 4
- s uc
- Raj iv
- al liance
- Lank an
- organ isation
+Ġreturn ed
+ĠG old
+ĠGold en
+ĠAm rit
+ĠAmrit sar
+Ġass ass
+Ġassass in
+Ġassassin ated
+Ġ198 4
+Ġs uc
+ĠRaj iv
+Ġal liance
+ĠLank an
+Ġorgan isation
 e k
- inter vention
- R a
+Ġinter vention
+ĠR a
 y ear
- win ning
- follow ed
- 199 8
- Bi har
- V aj
- Vaj pay
- Vajpay ee
- sh ort
- E l
- 199 9
- Democ ratic
- Al liance
+Ġwin ning
+Ġfollow ed
+Ġ199 8
+ĠBi har
+ĠV aj
+ĠVaj pay
+ĠVajpay ee
+Ġsh ort
+ĠE l
+Ġ199 9
+ĠDemoc ratic
+ĠAl liance
 C ongress
 t e
- N DA
- defe ated
- P resident
- U PA
- 200 9
- M odi
+ĠN DA
+Ġdefe ated
+ĠP resident
+ĠU PA
+Ġ200 9
+ĠM odi
 s er
- un com
- uncom mon
- sp e
- 194 9
- G overnment
- fra me
- frame work
- ex erc
- res er
- legisl ature
- h ous
- hous es
- S abh
- Sabh a
- de leg
- deleg ates
- mem bers
- rep resent
+Ġun com
+Ġuncom mon
+Ġsp e
+Ġ194 9
+ĠG overnment
+Ġfra me
+Ġframe work
+Ġex erc
+Ġres er
+Ġlegisl ature
+Ġh ous
+Ġhous es
+ĠS abh
+ĠSabh a
+Ġde leg
+Ġdeleg ates
+Ġmem bers
+Ġrep resent
 at ives
- def in
- com mitt
+Ġdef in
+Ġcom mitt
 Ar tic
- Common we
- Commonwe alth
- pres ident
- se ats
- h ouse
+ĠCommon we
+ĠCommonwe alth
+Ġpres ident
+Ġse ats
+Ġh ouse
 c il
- dec is
- comp r
- compr ising
- sup reme
- jur is
- juris dic
- jurisdic tion
- invol ving
+Ġdec is
+Ġcomp r
+Ġcompr ising
+Ġsup reme
+Ġjur is
+Ġjuris dic
+Ġjurisdic tion
+Ġinvol ving
 k e
- d own
+Ġd own
 ven e
- an y
- ac tion
- P uducherry
- C ap
- Cap ital
- Ter rit
- Territ ory
- R e
+Ġan y
+Ġac tion
+ĠP uducherry
+ĠC ap
+ĠCap ital
+ĠTer rit
+ĠTerrit ory
+ĠR e
 or gan
- l ing
- b odi
- bodi es
- c ity
+Ġl ing
+Ġb odi
+Ġbodi es
+Ġc ity
 C h
 di sha
 ang ana
@@ -4377,400 +4377,400 @@ U ttar
 U n
 F ore
 Fore ign
- play ed
- Chin ese
- Sik kim
+Ġplay ed
+ĠChin ese
+ĠSik kim
 e as
- war s
- cl ose
- S o
- So vi
- Sovi et
- arm s
- pro du
- produ ce
- addition al
+Ġwar s
+Ġcl ose
+ĠS o
+ĠSo vi
+ĠSovi et
+Ġarm s
+Ġpro du
+Ġprodu ce
+Ġaddition al
 g round
 P rol
 Prol if
 Prolif eration
- dis crimin
+Ġdis crimin
 at ory
- d oc
+Ġd oc
 t r
- civil ian
- ag ree
- re ce
- In ternational
- A gen
- Agen cy
- re st
+Ġcivil ian
+Ġag ree
+Ġre ce
+ĠIn ternational
+ĠA gen
+ĠAgen cy
+Ġre st
 s ia
- C an
+ĠC an
 E conom
 Econom y
- t en
- econom ies
- d omestic
- out put
+Ġt en
+Ġeconom ies
+Ġd omestic
+Ġout put
 P P
- ann ual
- D em
- histor ically
- f all
+Ġann ual
+ĠD em
+Ġhistor ically
+Ġf all
 id esp
 idesp read
 s ide
- emp has
+Ġemp has
 low s
- O r
- Or gan
- Organ iz
- Organiz ation
- l ab
- 201 7
- serv ice
+ĠO r
+ĠOr gan
+ĠOrgan iz
+ĠOrganiz ation
+Ġl ab
+Ġ201 7
+Ġserv ice
 1 00
- contribut ed
- 198 5
- 202 1
- n in
- nin th
- exp orter
- p et
- cal end
- sever al
- 200 7
- S ome
- work force
- fem ale
+Ġcontribut ed
+Ġ198 5
+Ġ202 1
+Ġn in
+Ġnin th
+Ġexp orter
+Ġp et
+Ġcal end
+Ġsever al
+Ġ200 7
+ĠS ome
+Ġwork force
+Ġfem ale
 f ast
- A t
- includ es
- bi ot
- biot ech
-  ₹
- el ect
+ĠA t
+Ġinclud es
+Ġbi ot
+Ġbiot ech
+Ġ ₹
+Ġel ect
 r ical
- g ig
- gig aw
- gigaw at
- gigawat ts
- renew able
- g reen
- green h
- greenh ouse
- e miss
- emiss ions
- In c
- Inc reasing
- contribut es
- P al
+Ġg ig
+Ġgig aw
+Ġgigaw at
+Ġgigawat ts
+Ġrenew able
+Ġg reen
+Ġgreen h
+Ġgreenh ouse
+Ġe miss
+Ġemiss ions
+ĠIn c
+ĠInc reasing
+Ġcontribut es
+ĠP al
 r in
 a us
 aus e
- com m
- comm un
- commun ities
+Ġcom m
+Ġcomm un
+Ġcommun ities
 Dem ographics
- b rough
- brough t
- dec reasing
- exp ect
- expect an
- expectan cy
+Ġb rough
+Ġbrough t
+Ġdec reasing
+Ġexp ect
+Ġexpect an
+Ġexpectan cy
 7 5
- m ort
- mort ality
- l ive
- birth s
- w he
- whe reas
- 4 1
- se x
- r ati
- a ccording
- fem ales
- m ales
+Ġm ort
+Ġmort ality
+Ġl ive
+Ġbirth s
+Ġw he
+Ġwhe reas
+Ġ4 1
+Ġse x
+Ġr ati
+Ġa ccording
+Ġfem ales
+Ġm ales
 em ale
- f o
- fo etic
- foetic ide
- 6 3
- st ud
- stud y
- d y
- 2 7
- 5 3
- K ol
- Kol k
- Kolk ata
- A hm
- Ahm ed
- Ahmed abad
+Ġf o
+Ġfo etic
+Ġfoetic ide
+Ġ6 3
+Ġst ud
+Ġstud y
+Ġd y
+Ġ2 7
+Ġ5 3
+ĠK ol
+ĠKol k
+ĠKolk ata
+ĠA hm
+ĠAhm ed
+ĠAhmed abad
 L anguages
- b re
- bre ak
+Ġb re
+Ġbre ak
 d own
- s ole
+Ġs ole
 ff icial
- in ternational
- num eral
- numeral s
- art ic
+Ġin ternational
+Ġnum eral
+Ġnumeral s
+Ġart ic
 ef in
 " .
- l ist
- sc heduled
- Ass am
- Assam ese
- Bengal i
- Gujarat i
- K ann
- Kann ada
- Kashm i
- Kashmi ri
- Mal ay
- Malay al
- Malayal am
- Marat hi
- O riya
- Tel u
- Telu gu
- Nep ali
- M anipur
- K on
- Kon k
- Konk ani
- S ant
- e ach
- p ap
- pap er
+Ġl ist
+Ġsc heduled
+ĠAss am
+ĠAssam ese
+ĠBengal i
+ĠGujarat i
+ĠK ann
+ĠKann ada
+ĠKashm i
+ĠKashmi ri
+ĠMal ay
+ĠMalay al
+ĠMalayal am
+ĠMarat hi
+ĠO riya
+ĠTel u
+ĠTelu gu
+ĠNep ali
+ĠM anipur
+ĠK on
+ĠKon k
+ĠKonk ani
+ĠS ant
+Ġe ach
+Ġp ap
+Ġpap er
 R el
 Rel ig
 Relig ion
- Hin d
- Hind us
- Muslim s
+ĠHin d
+ĠHind us
+ĠMuslim s
 a ith
- express ion
- wor s
- wors hip
+Ġexpress ion
+Ġwor s
+Ġwors hip
 ever al
- S an
- S arn
- pil g
- pilg ri
- pilgri m
+ĠS an
+ĠS arn
+Ġpil g
+Ġpilg ri
+Ġpilgri m
 ter i
 teri or
 ath ur
- per cent
- percent age
- p oin
- poin ts
+Ġper cent
+Ġpercent age
+Ġp oin
+Ġpoin ts
 ik a
- aff ir
- affir m
- h on
- Dal it
+Ġaff ir
+Ġaffir m
+Ġh on
+ĠDal it
 qu e
- for mer
- former ly
- C ol
+Ġfor mer
+Ġformer ly
+ĠC ol
 le ge
- found ed
+Ġfound ed
 e alth
 d en
- t ub
- tub erc
- tuberc ul
- tubercul os
- tuberculos is
- di se
- dise as
- diseas e
- b reath
- breath ing
- W HO
+Ġt ub
+Ġtub erc
+Ġtuberc ul
+Ġtubercul os
+Ġtuberculos is
+Ġdi se
+Ġdise as
+Ġdiseas e
+Ġb reath
+Ġbreath ing
+ĠW HO
 et y
 C ulture
- there fore
+Ġthere fore
 cast es
 og am
 ogam y
- mar ry
- form ally
- rel ated
- pa rents
- div orce
- l ess
- bri de
- marri ed
- us ually
- car ved
- se al
- exc av
- excav ated
- be st
- there after
- pro b
- prob ably
+Ġmar ry
+Ġform ally
+Ġrel ated
+Ġpa rents
+Ġdiv orce
+Ġl ess
+Ġbri de
+Ġmarri ed
+Ġus ually
+Ġcar ved
+Ġse al
+Ġexc av
+Ġexcav ated
+Ġbe st
+Ġthere after
+Ġpro b
+Ġprob ably
 O ver
- dist in
- distin ct
- fig ure
- g ive
+Ġdist in
+Ġdistin ct
+Ġfig ure
+Ġg ive
 v ara
- e ither
- c ut
- relief s
- A j
- Aj anta
- general ly
- art istic
-  –
- s aw
- domin ance
- C av
- Cav es
- A c
- bronz e
- N at
- Nat ar
- Natar aj
- Nataraj a
- painting s
- p le
- in n
- inn ov
- every day
+Ġe ither
+Ġc ut
+Ġrelief s
+ĠA j
+ĠAj anta
+Ġgeneral ly
+Ġart istic
+Ġ –
+Ġs aw
+Ġdomin ance
+ĠC av
+ĠCav es
+ĠA c
+Ġbronz e
+ĠN at
+ĠNat ar
+ĠNatar aj
+ĠNataraj a
+Ġpainting s
+Ġp le
+Ġin n
+Ġinn ov
+Ġevery day
 B h
- D ance
+ĠD ance
 l it
- V edic
- or ally
- manuscri pt
- mathematic ians
+ĠV edic
+Ġor ally
+Ġmanuscri pt
+Ġmathematic ians
 rig on
 rigon omet
- cos ine
- ser ies
- s it
- sit ar
- f il
- c in
- S ub
+Ġcos ine
+Ġser ies
+Ġs it
+Ġsit ar
+Ġf il
+Ġc in
+ĠS ub
 at han
- s ar
- play ing
+Ġs ar
+Ġplay ing
 D ance
 ex ts
 ad em
 adem i
 at y
 aty am
- Ch h
- Chh au
- Yaksh ag
- Yakshag ana
+ĠCh h
+ĠChh au
+ĠYaksh ag
+ĠYakshag ana
 cent ur
 centur y
 c over
- K ath
- Kath ak
- cl oth
- sh oulder
- dh ot
- dhot i
- t un
- k ur
- kur ta
+ĠK ath
+ĠKath ak
+Ġcl oth
+Ġsh oulder
+Ġdh ot
+Ġdhot i
+Ġt un
+Ġk ur
+Ġkur ta
 yp ically
- n ar
- nar row
- p ants
+Ġn ar
+Ġnar row
+Ġp ants
 am s
- occ as
- occas ions
- shalw ar
- sp orts
- j ac
- jac ket
- jacket s
- g ro
- sp ort
+Ġocc as
+Ġoccas ions
+Ġshalw ar
+Ġsp orts
+Ġj ac
+Ġjac ket
+Ġjacket s
+Ġg ro
+Ġsp ort
 w an
- sh aw
- shaw l
+Ġsh aw
+Ġshaw l
 is ine
- c ere
- cere al
- sav our
- savour y
- ste am
- steam ed
- b read
- sp ic
- veget ar
- vegetar ian
- feat ure
- tech ni
- part ially
- t and
- tand oor
- k h
- kh o
- C hess
- Ch amp
- C up
- Cup s
- h ock
- hock ey
- g old
- Olymp ics
+Ġc ere
+Ġcere al
+Ġsav our
+Ġsavour y
+Ġste am
+Ġsteam ed
+Ġb read
+Ġsp ic
+Ġveget ar
+Ġvegetar ian
+Ġfeat ure
+Ġtech ni
+Ġpart ially
+Ġt and
+Ġtand oor
+Ġk h
+Ġkh o
+ĠC hess
+ĠCh amp
+ĠC up
+ĠCup s
+Ġh ock
+Ġhock ey
+Ġg old
+ĠOlymp ics
 di a
- we b
-  /
- ब ड़
- च ु
- जि स
+Ġwe b
+Ġ /
+Ġब ड़
+Ġच ु
+Ġजि स
 ो ग
 .. .
 4 6
 il e
- 2 9
- F act
- Fact book
+Ġ2 9
+ĠF act
+ĠFact book
 प ू
- स माज
- अ न्त
- व ्य
- अ भ
- व ्या
+Ġस माज
+Ġअ न्त
+Ġव ्य
+Ġअ भ
+Ġव ्या
 ं ड
 ्र ा
- म ि
+Ġम ि
 ो ड़
 ఖ ండ
 వ ుల
 ె ట్
 హ ార
- మ ే
- గ ో
- ద ీ
- వి శ
+Ġమ ే
+Ġగ ో
+Ġద ీ
+Ġవి శ
 ో ళ
- స ు
-  ఫ
+Ġస ు
+Ġ ఫ
 మ న
- ఆ క్రమ
- ల క్ష
+Ġఆ క్రమ
+Ġల క్ష
 ్య ాయ
 త ులు
-  ఘ
+Ġ ఘ
 స ా
- వ ై
+Ġవ ై
 మ ె
 ని క
 ీ ర
@@ -4779,30 +4779,30 @@ il e
 ా స
 ా ఖ
 న్ మ
- ద్వ ీ
- ద్వీ ప
- సం ఘ
- ఆధ ార
+Ġద్వ ీ
+Ġద్వీ ప
+Ġసం ఘ
+Ġఆధ ార
 ుత ున్న
 రా స
 ంట ే
 ట ీ
- వ ల
- గ ు
- సం వత్
+Ġవ ల
+Ġగ ు
+Ġసం వత్
 ాల్ లో
 ా ప
 ు కు
 త్వ ం
 వ రి
 ద ్య
- సభ ్య
+Ġసభ ్య
 ల ే
 ో ర
- సం ఖ్య
- సం క
+Ġసం ఖ్య
+Ġసం క
 ూ చ
- మ ా
+Ġమ ా
 డ ే
 ్ లో
 మ ై
@@ -4811,184 +4811,184 @@ il e
 ె ల
 స్వా మ
 స్వామ ్య
- క ి
+Ġక ి
 దేశ ్
- ఆ ఫ
- ఆఫ ్
- న ా
+Ġఆ ఫ
+Ġఆఫ ్
+Ġన ా
 ిక త
- బ్రి టి
+Ġబ్రి టి
 ం ప
 గ ంగా
 ట్ లు
 ప్పటిక ీ
- ల ే
- ప ొ
- వ ార
- వార స
- చే స
- కార ్య
- చ రిత్ర
+Ġల ే
+Ġప ొ
+Ġవ ార
+Ġవార స
+Ġచే స
+Ġకార ్య
+Ġచ రిత్ర
 ంచ ి
 ద న
 వ ె
- కు టు
- కుటు ంబ
+Ġకు టు
+Ġకుటు ంబ
 డ్ డు
- ర ో
+Ġర ో
 ాల ా
- ప త
- క ్య
+Ġప త
+Ġక ్య
 స ై
- स्था प
+Ġस्था प
 द ोल
 दोल न
 े ष
- २ ००
- ప ై
- పై గా
- ప్రపంచ ంలో
+Ġ२ ००
+Ġప ై
+Ġపై గా
+Ġప్రపంచ ంలో
 పాల ిత
- కలి గి
- ప శ
- పశ ్చ
- పశ్చ ిమ
- పాకి స్తాన్
- సామ ్రా
- సామ్రా జ్య
+Ġకలి గి
+Ġప శ
+Ġపశ ్చ
+Ġపశ్చ ిమ
+Ġపాకి స్తాన్
+Ġసామ ్రా
+Ġసామ్రా జ్య
 ు గా
- ఆర్ థ
- ఆర్థ ిక
- అభి వ
- అభివ ృ
- అభివృ ద్ధి
- వంట ి
+Ġఆర్ థ
+Ġఆర్థ ిక
+Ġఅభి వ
+Ġఅభివ ృ
+Ġఅభివృ ద్ధి
+Ġవంట ి
 ల లో
- దక్షి ణ
- ఉత్ తర
- వచ్చ ిన
- శాస్త ్రం
-  ఢిల్లీ
- ప్రధాన మంత్రి
- ప్ర కారం
+Ġదక్షి ణ
+Ġఉత్ తర
+Ġవచ్చ ిన
+Ġశాస్త ్రం
+Ġ ఢిల్లీ
+Ġప్రధాన మంత్రి
+Ġప్ర కారం
 మైన ది
- అ ని
- కోర్ టు
- మాత ్రం
- సం ప్రదాయ
- సంప్రదాయ ాల
+Ġఅ ని
+Ġకోర్ టు
+Ġమాత ్రం
+Ġసం ప్రదాయ
+Ġసంప్రదాయ ాల
 స్థ ాన్
- ప్రజ ల
- ప ాత్ర
- పరిశ ్రమ
- మూడ ు
- ఉన్న ారు
+Ġప్రజ ల
+Ġప ాత్ర
+Ġపరిశ ్రమ
+Ġమూడ ు
+Ġఉన్న ారు
 % ),
- భాష ల
- అధికార ిక
- ర కాల
- సర్వ ీ
- సర్వీ సు
- రై ళ్ల
- పా క్
- సాం ప్రదాయ
- చె ందిన
- సిని మా
- బె ంగా
- ल ि
- हु आ
+Ġభాష ల
+Ġఅధికార ిక
+Ġర కాల
+Ġసర్వ ీ
+Ġసర్వీ సు
+Ġరై ళ్ల
+Ġపా క్
+Ġసాం ప్రదాయ
+Ġచె ందిన
+Ġసిని మా
+Ġబె ంగా
+Ġल ि
+Ġहु आ
 पू र्ण
- सि ं
+Ġसि ं
 धु निक
- स ह
+Ġस ह
 र् म
 यु क्त
- हु ई
+Ġहु ई
 ं द्र
 न् न
 कर ण
- अ र्थ
+Ġअ र्थ
 प ्
- यु ग
- श ा
+Ġयु ग
+Ġश ा
 ू र
 े ज
- र ह
- के ंद्र
+Ġर ह
+Ġके ंद्र
 ँ च
-  ड
+Ġ ड
 0 7
 6 2
 0 4
 1 4
- ) .
- स ी
+Ġ) .
+Ġस ी
 वा दी
- स ू
- आ धुनिक
- क ृ
- न ी
- प्रा प्त
- श क्ति
- सर्व ो
- सर्वो च्च
- थ ी
- सम य
- द िया
- ब ना
- लि ए
- हिन् दी
+Ġस ू
+Ġआ धुनिक
+Ġक ृ
+Ġन ी
+Ġप्रा प्त
+Ġश क्ति
+Ġसर्व ो
+Ġसर्वो च्च
+Ġथ ी
+Ġसम य
+Ġद िया
+Ġब ना
+Ġलि ए
+Ġहिन् दी
 प ा
 ह ीं
 ना व
 2 3
 5 17
- 3 2
+Ġ3 2
 6 3
 42 2
 4 0
 1 6
 19 9
- 8 2
+Ġ8 2
 8 7
- 7 00
+Ġ7 00
 " ,
 C ount
- B B
- BB C
+ĠB B
+ĠBB C
 ध ी
- स मा
- आ धार
+Ġस मा
+Ġआ धार
 श् मी
 श्मी र
- ज ीव
- उ भ
- कृ ष
- व ाल
+Ġज ीव
+Ġउ भ
+Ġकृ ष
+Ġव ाल
 ब ा
- स ार
- र ू
+Ġस ार
+Ġर ू
 ह िन्
 ंग्र ेज
 स्त ान
- ब ढ़
+Ġब ढ़
 ार ा
- వి స్త
+Ġవి స్త
 ీర్ ణం
 స్థ ాన
- ప ార్
+Ġప ార్
 బ ి
- ప ంచ
- శ ్రీ
+Ġప ంచ
+Ġశ ్రీ
 ట ే
 ట ె
 మ ్
- న ాయ
+Ġన ాయ
 స ం
 ద ర
- అ వ
+Ġఅ వ
 ము ఖ్య
- ఇ వ
+Ġఇ వ
 ర త
 మ ారు
 ర్ ష
@@ -5001,58 +5001,58 @@ C ount
 స ీ
 ద్ధ ం
 జ ి
- న ్యాయ
+Ġన ్యాయ
 ్య వస్థ
 ుత ుంది
 క్ష ం
 ళ ్
 ళ్ ళ
- పేర్ కొ
- మ ై
+Ġపేర్ కొ
+Ġమ ై
 ష్ ణ
- కా శ
- కాశ ్మ
+Ġకా శ
+Ġకాశ ్మ
 ూ ల
 ళ ి
- ర ంగ
-  డ
+Ġర ంగ
+Ġ డ
 ట ా
- బ ా
- క ల
+Ġబ ా
+Ġక ల
 ంద ు
 గ ణ
- సం బ
+Ġసం బ
 ూ రు
- ల ా
+Ġల ా
 మ తి
 క ర
 స్త ున్న
- ని ర్
+Ġని ర్
 మ ాన
- చ ి
- క థ
- ట ై
+Ġచ ి
+Ġక థ
+Ġట ై
 ంట ి
 ం క
 ట్ ల
- స ై
+Ġస ై
 క్ తి
 ట ర్
 టర్ ల
- స ముద
+Ġస ముద
 ార ిత్రక
- ఉత్ త
- ఉత్త రా
- హ ిమ
- హిమ ాల
+Ġఉత్ త
+Ġఉత్త రా
+Ġహ ిమ
+Ġహిమ ాల
 ర ే
- జ న్మ
+Ġజ న్మ
 ప ్రా
- వై వి
- వైవి ధ్య
+Ġవై వి
+Ġవైవి ధ్య
 య ింది
 కోవ డం
- పరి పాల
+Ġపరి పాల
 ాత ్మ
 క్ష రాస
 క్షరాస ్య
@@ -5061,206 +5061,206 @@ C ount
 చ్చ ు
 భా గ
 న ది
- గు ర్
- గుర్ త
+Ġగు ర్
+Ġగుర్ త
 స్ వ
- గ ణ
- స హ
- ఇ ంగ్ల
- వ్య ాప
-  తి
+Ġగ ణ
+Ġస హ
+Ġఇ ంగ్ల
+Ġవ్య ాప
+Ġ తి
 భ ిన్న
- రాజ్య ా
- ప ద
- పద్ధ తి
- సంవత్ సర
+Ġరాజ్య ా
+Ġప ద
+Ġపద్ధ తి
+Ġసంవత్ సర
 ా క
 బ డ్డ
- స ూచ
- వ హించ
+Ġస ూచ
+Ġవ హించ
 ుత ్
- ఎ న్ని
- ఎన్ని క
+Ġఎ న్ని
+Ġఎన్ని క
 డ ిన
- క ుల
- ప ీ
- పీ ఠ
- ఉ ండ
+Ġక ుల
+Ġప ీ
+Ġపీ ఠ
+Ġఉ ండ
 దాయ ం
- త క్కువ
+Ġత క్కువ
 ిక ా
- భ ిన్న
- ము ంబ
- పు రు
- పురు ష
+Ġభ ిన్న
+Ġము ంబ
+Ġపు రు
+Ġపురు ష
 ల ిం
- జ రు
- జరు పు
- క న్న
+Ġజ రు
+Ġజరు పు
+Ġక న్న
 శ ాఖ
- ప్ర ారం
- ప్రారం భ
+Ġప్ర ారం
+Ġప్రారం భ
 ో ర్
- మన దేశం
+Ġమన దేశం
 ప ిక్
 ెల వు
 ది నాలు
- पु रु
- भू मि
- स भ्य
+Ġपु रु
+Ġभू मि
+Ġस भ्य
 व ै
 श ा
 द र्
 वं श
 ण ाली
- सा ं
+Ġसा ं
 स्कृ तिक
 स र
- कृष ि
- ह र
- सिं ह
+Ġकृष ि
+Ġह र
+Ġसिं ह
 ५ ०
 ु ष्
-  ३
+Ġ ३
 र ं
- न ा
+Ġन ा
 ट र
-  ८
- प्र त्य
- मा ध्य
+Ġ ८
+Ġप्र त्य
+Ġमा ध्य
 ण्ड ल
-  झ
+Ġ झ
 ष ी
- స్థాన ంలో
- ప్రజా స్వామ్య
- పాల న
- సమా ఖ్య
- ముఖ్య మైన
- వా ణి
- వాణి జ్య
- బ ంగ్ల
- బంగ్ల ా
- ఆఫ్ ఘ
+Ġస్థాన ంలో
+Ġప్రజా స్వామ్య
+Ġపాల న
+Ġసమా ఖ్య
+Ġముఖ్య మైన
+Ġవా ణి
+Ġవాణి జ్య
+Ġబ ంగ్ల
+Ġబంగ్ల ా
+Ġఆఫ్ ఘ
 ని స్తాన్
- సింధ ు
- నా గర
- నాగర ికత
- బహు ళ
- జ ాతి
- ప్రాంత ాల
- ఒక ే
- రాజ్య ాల
- క ంప
- కంప ె
- కంపె నీ
- గా ంధ
- గాంధ ీ
- స్వ తంత్ర
- వే గంగా
- న ాలు
- నాలు గు
- వ ీ
- వీ టి
- జ ంబ
- జంబ ూ
+Ġసింధ ు
+Ġనా గర
+Ġనాగర ికత
+Ġబహు ళ
+Ġజ ాతి
+Ġప్రాంత ాల
+Ġఒక ే
+Ġరాజ్య ాల
+Ġక ంప
+Ġకంప ె
+Ġకంపె నీ
+Ġగా ంధ
+Ġగాంధ ీ
+Ġస్వ తంత్ర
+Ġవే గంగా
+Ġన ాలు
+Ġనాలు గు
+Ġవ ీ
+Ġవీ టి
+Ġజ ంబ
+Ġజంబ ూ
 బడ ిన
- లే దా
- రాజ ు
- పొ ందిన
- ప్రా చీన
- మొ ట్ట
- మొట్ట మ
- మొట్టమ ొ
- మొట్టమొ ద
- మొట్టమొద టి
- ఏర్ప డ్డ
- సంస్కృ తి
- సాం స్కృ
- సాంస్కృ తిక
- వారస త్వ
- చేస ింది
+Ġలే దా
+Ġరాజ ు
+Ġపొ ందిన
+Ġప్రా చీన
+Ġమొ ట్ట
+Ġమొట్ట మ
+Ġమొట్టమ ొ
+Ġమొట్టమొ ద
+Ġమొట్టమొద టి
+Ġఏర్ప డ్డ
+Ġసంస్కృ తి
+Ġసాం స్కృ
+Ġసాంస్కృ తిక
+Ġవారస త్వ
+Ġచేస ింది
 బడ ింది
- మొదల ైన
+Ġమొదల ైన
 ప ై
- భా గం
- మత ాల
- దేశ ానికి
- కార ణ
- కారణ ంగా
+Ġభా గం
+Ġమత ాల
+Ġదేశ ానికి
+Ġకార ణ
+Ġకారణ ంగా
 లో ను
- అధిక ారం
- నిర్వ హ
- నిర్వహ ణ
- ద్వ ార
- ద్వార ా
- ఉంట ుంది
+Ġఅధిక ారం
+Ġనిర్వ హ
+Ġనిర్వహ ణ
+Ġద్వ ార
+Ġద్వార ా
+Ġఉంట ుంది
 కుంట ారు
- ఇ వి
- దా దా
- దాదా పు
- కలి సి
+Ġఇ వి
+Ġదా దా
+Ġదాదా పు
+Ġకలి సి
 ల్ లో
- ను ంచి
- కొ న్ని
+Ġను ంచి
+Ġకొ న్ని
 రాష్ట్ర ాల
- శాస్త ్ర
- శాస్త్ర ీయ
- సిని మ
- సినిమ ాలు
- మ ంది
+Ġశాస్త ్ర
+Ġశాస్త్ర ీయ
+Ġసిని మ
+Ġసినిమ ాలు
+Ġమ ంది
 జ నాభా
 వె నుక
 వెనుక టి
- కార్య క్రమ
- కార్యక్రమ ాల
- పండు గ
- హింద ీ
- త ెలు
- తెలు గు
- తమిళ ం
- ఇ స్
- ఇస్ లా
+Ġకార్య క్రమ
+Ġకార్యక్రమ ాల
+Ġపండు గ
+Ġహింద ీ
+Ġత ెలు
+Ġతెలు గు
+Ġతమిళ ం
+Ġఇ స్
+Ġఇస్ లా
 ాబ ా
 ాబా ద్
- దక్షిణా సియా
- ప్రతి పా
- ప్రతిపా దన
- శా ఖ
- మార్గ ాల
- రో డ్డు
- కే వ
- కేవ లం
- చ ాలా
- పర ంగా
- క్రీడ ల
- పత కాల
- క్య ాల
- క్యాల ెండ
- క్యాలెండ ర్
- I S
- IS B
- ISB N
+Ġదక్షిణా సియా
+Ġప్రతి పా
+Ġప్రతిపా దన
+Ġశా ఖ
+Ġమార్గ ాల
+Ġరో డ్డు
+Ġకే వ
+Ġకేవ లం
+Ġచ ాలా
+Ġపర ంగా
+Ġక్రీడ ల
+Ġపత కాల
+Ġక్య ాల
+Ġక్యాల ెండ
+Ġక్యాలెండ ర్
+ĠI S
+ĠIS B
+ĠISB N
 సై టు
- अ ंग्रेज
- ए श
- एश िया
+Ġअ ंग्रेज
+Ġए श
+Ġएश िया
 ं ग
- हु ए
- म ै
+Ġहु ए
+Ġम ै
 त ंत्र
- सं घ
- र हा
- क ई
+Ġसं घ
+Ġर हा
+Ġक ई
 िय ों
- हो ता
- देश ों
+Ġहो ता
+Ġदेश ों
 िय े
- चु नाव
+Ġचु नाव
 ो न
- सी मा
+Ġसी मा
 त ार
 भ ु
- व ै
+Ġव ै
 दे व
 ाम ि
 श ेष
@@ -5268,313 +5268,313 @@ C ount
 प श्चिम
 दर् श
 च ा
- १ २
- श ास
- शास क
- क्र म
- विश ाल
-  १९४७
+Ġ१ २
+Ġश ास
+Ġशास क
+Ġक्र म
+Ġविश ाल
+Ġ १९४७
 ट ा
- नि म्
- निम् न
-  ठ
+Ġनि म्
+Ġनिम् न
+Ġ ठ
 ड ु
- क्र य
+Ġक्र य
 ू ह
- इस के
- साम ्रा
- साम्रा ज्य
- कर ने
- प्र मुख
- ब न
- कर ोड़
- अनु सार
+Ġइस के
+Ġसाम ्रा
+Ġसाम्रा ज्य
+Ġकर ने
+Ġप्र मुख
+Ġब न
+Ġकर ोड़
+Ġअनु सार
 ट े
 सम ें
- म ान
-  ख
-  ऊ
+Ġम ान
+Ġ ख
+Ġ ऊ
 ड़ ा
- न हीं
+Ġन हीं
 क्ष ा
 ंत्र ी
- त ्रि
+Ġत ्रि
 वर् त
- अ त्य
- च र
+Ġअ त्य
+Ġच र
 वै दिक
- ग ौ
+Ġग ौ
 क्र म
- प्रा य
- च े
- शा स्त्र
+Ġप्रा य
+Ġच े
+Ġशा स्त्र
 न ो
- भ ो
- प्रा प्
+Ġभ ो
+Ġप्रा प्
 मा ता
 े ल
 ब् ब
- द ्र
+Ġद ्र
 श्र ेण
- २ ९
- अन्त र्
+Ġ२ ९
+Ġअन्त र्
 त् तर
- न र्म
- मु म्ब
- मुम्ब ई
- ज वा
- वि धि
+Ġन र्म
+Ġमु म्ब
+Ġमुम्ब ई
+Ġज वा
+Ġवि धि
 प ति
- न ्य
+Ġन ्य
 त्र ी
 म न
- द्व ीप
+Ġद्व ीप
 क्ष ि
 प क्ष
 ज ना
 क ु
 सा ं
 स् व
- सम ान
+Ġसम ान
 भा षी
- मै दान
- स्व तंत्र
- प ह
- सं बंध
- द्व ारा
-  ओ
- भाषा ओं
- भ ा
- राष्ट्र ीय
+Ġमै दान
+Ġस्व तंत्र
+Ġप ह
+Ġसं बंध
+Ġद्व ारा
+Ġ ओ
+Ġभाषा ओं
+Ġभ ा
+Ġराष्ट्र ीय
 ंग्र ेस
- सं विधान
- प ार्
+Ġसं विधान
+Ġप ार्
 यु ग
 ले ख
 न ौ
- व न्य
+Ġव न्य
 ष्ण ु
- क था
- ऋ ष
- ऋष भ
- आ र
+Ġक था
+Ġऋ ष
+Ġऋष भ
+Ġआ र
 प्रा चीन
- ज्ञा त
+Ġज्ञा त
 वी र
- गौ तम
- ब ु
- बु द्ध
+Ġगौ तम
+Ġब ु
+Ġबु द्ध
 प दा
- उ न्न
- मु क्त
- श क
+Ġउ न्न
+Ġमु क्त
+Ġश क
 म ध्य
- पु न
+Ġपु न
 ल ीप
- १२ ०
+Ġ१२ ०
 ै व
 त ं
 प िता
- सं स्था
+Ġसं स्था
 ब्ब त
 ५ ००
 की र्ण
 उ त्तर
- स्थ ल
- श ्र
- य मु
- यमु ना
- गो दा
- सार ्व
- को ल
- रू ढ
+Ġस्थ ल
+Ġश ्र
+Ġय मु
+Ġयमु ना
+Ġगो दा
+Ġसार ्व
+Ġको ल
+Ġरू ढ
 े य
 स म्
 ता न्त्र
 तान्त्र िक
- श ासित
+Ġश ासित
 त ौ
- प्रत्य क्ष
+Ġप्रत्य क्ष
 मन्त्र ी
 प्र धान
 र ू
- यु ध
- स न्
- ल क्ष
+Ġयु ध
+Ġस न्
+Ġल क्ष
 १ ६
 अ र्थ
 स व
 चि त्र
- २०० ५
+Ġ२०० ५
 र स
- ७ ४
+Ġ७ ४
 सू चित
 भूम ि
 १९ ५०
 ना गर
 व ह
- पार ि
- पारि वार
- पारिवार िक
+Ġपार ि
+Ġपारि वार
+Ġपारिवार िक
 व न
- क थ
+Ġक थ
 ह ू
- ग र
- अभ ि
-  ध्य
- की र्
- श त
- य त्
- व र
- वर िष्ठ
+Ġग र
+Ġअभ ि
+Ġ ध्य
+Ġकी र्
+Ġश त
+Ġय त्
+Ġव र
+Ġवर िष्ठ
 ब ल
 श ै
 ै क
 ter s
 A ustral
 Austral ian
- M on
- Mon soon
+ĠM on
+ĠMon soon
 2 2
 5 00
- 7 2
+Ġ7 2
 6 7
- 9 00
+Ġ9 00
 w a
- 14 0
- P ost
- S um
- पाकि स्तान
- रा जन
+Ġ14 0
+ĠP ost
+ĠS um
+Ġपाकि स्तान
+Ġरा जन
 द्य ोग
 िया ँ
- बहु त
- प्र देश
+Ġबहु त
+Ġप्र देश
 ान े
- ने तृ
- नेतृ त्व
- ह ी
+Ġने तृ
+Ġनेतृ त्व
+Ġह ी
 म ंत्री
- दश क
+Ġदश क
 ख ्य
 ॉ ंग्रेस
- जन जा
- जनजा ति
+Ġजन जा
+Ġजनजा ति
 उ प
 श्च न
 गण राज्यम्
 तम ो
- व ङ्ग
+Ġव ङ्ग
 ा न्त
- व ङ
- वङ ग
- न ार
- नार िक
- नारिक ेल
- श ्याम
+Ġव ङ
+Ġवङ ग
+Ġन ार
+Ġनार िक
+Ġनारिक ेल
+Ġश ्याम
 ब्र ह्म
 श ्या
- अ ङ्ग
+Ġअ ङ्ग
 ज म्ब
 जम्ब ु
 दृ ष्ट
 ए ष
 सिन् धु
 स भ्य
- मा तृ
- च तु
- चतु र्
- तत् त्व
+Ġमा तृ
+Ġच तु
+Ġचतु र्
+Ġतत् त्व
 वि ष्ट
- झ र
+Ġझ र
 तु ष्ट
 र ै
 मत म्
 ष्ट ु
 त ेन
 स ाम
- भ व
+Ġभ व
 क म्प
- अ धु
- अधु ना
+Ġअ धु
+Ġअधु ना
 व ृद्ध
 प थ
 व स्त्र
- व्य य
- दश म
+Ġव्य य
+Ġदश म
 द्व य
 के न्द्र
 पुर ो
 ग ामि
 प ञ्च
 य म
- व स
- वस न्त
+Ġव स
+Ġवस न्त
 खण्ड ः
 क था
- द ुष्
+Ġद ुष्
 पाल ित
- च क्र
+Ġच क्र
 वर् ती
 न ्या
- वि ष्णु
- उ क्त
- य था
+Ġवि ष्णु
+Ġउ क्त
+Ġय था
 .. ..
 इ त्
- ह िमा
+Ġह िमा
 च ै
- त द्
- भारत ी
+Ġत द्
+Ġभारत ी
 त तिः
 मान व
- पुरा तत्त्व
- ३ ४
- ३४ ०००
- इ दान
- इदान ी
- इदानी न्त
- इदानीन्त न
+Ġपुरा तत्त्व
+Ġ३ ४
+Ġ३४ ०००
+Ġइ दान
+Ġइदान ी
+Ġइदानी न्त
+Ġइदानीन्त न
 त ान
- भू ता
+Ġभू ता
 भू त
- अत्य न्त
- पुरा तन
- २ ०००
+Ġअत्य न्त
+Ġपुरा तन
+Ġ२ ०००
 व ेद
 ल ब्ध
- ५ ००
- उभ य
+Ġ५ ००
+Ġउभ य
 वि स्त
 विस्त ी
 विस्ती र्ण
 स्थान े
- ई श
- ईश ान
+Ġई श
+Ġईश ान
 व ृत
 दि शा
- ब ङ्ग
+Ġब ङ्ग
 ल ोप
- अ ण्ड
+Ġअ ण्ड
 निक ोबार
 स मु
 दा यः
 य ै
- प्र देशः
- वा य
+Ġप्र देशः
+Ġवा य
 प र्वत
 ्र ः
- प ङ्क
+Ġप ङ्क
 न्त रे
- का श्मीर
+Ġका श्मीर
 र ्यः
- पु ष्
- पुष् प
- श ो
- शो भ
- शोभ न
+Ġपु ष्
+Ġपुष् प
+Ġश ो
+Ġशो भ
+Ġशोभ न
 ो न्
- ग ङ्गा
+Ġग ङ्गा
 न द्
 ाव ली
 वि न्
@@ -5583,45 +5583,45 @@ w a
 श्रेण ्यः
 नी तिः
 मान स
- ष ष्ठ
+Ġष ष्ठ
 च ्य
 स्था प
 स्थाप ित
- अस् त
+Ġअस् त
 ा धि
 करण म्
 ह त
- उ च्
+Ġउ च्
 स् थि
 स्थि तिः
 दि ल्ली
 स ्र
 मुख ः
- स्व क
- स्वक ीय
+Ġस्व क
+Ġस्वक ीय
 त या
- अध ीन
+Ġअध ीन
 यो जय
 स दः
 ाल यः
- श ी
- शी र्ष
+Ġश ी
+Ġशी र्ष
 स् थः
 ह वः
 नागर िक
 नि र्माण
- स्थाप ्य
+Ġस्थाप ्य
 चि त्
- ए ता
- एता दृ
- एतादृ श
+Ġए ता
+Ġएता दृ
+Ġएतादृ श
 ज र
 द ण्ड
 क्र िया
 ेऽ थ
- ७ ३
- ७३ तमेन
- ७४ तमेन
+Ġ७ ३
+Ġ७३ तमेन
+Ġ७४ तमेन
 प्र णाली
 ी कृ
 स ना
@@ -5638,10 +5638,10 @@ w a
 प त
 क ्री
 क्री डा
- सू र्य
+Ġसू र्य
 मन् द
 ि रा
- म ण्डल
+Ġम ण्डल
 स् वा
 त्व म्
 स प्त
@@ -5652,36 +5652,36 @@ w a
 दि न
 ल भ
 ज वा
- पञ्च ा
- पञ्चा श
- ष ड्
+Ġपञ्च ा
+Ġपञ्चा श
+Ġष ड्
 विंशति तम
 भ ौ
 भौ म
 घ ोष
 े न्द्र
- अ ध्य
- पुन र्
+Ġअ ध्य
+Ġपुन र्
 वि भागः
 धान म्
- बृह द्
+Ġबृह द्
 गा त्र
 क म्
 कार ा
 भू य
- क ुर
+Ġक ुर
 ाधिकार ः
- न्य स्त
- दे ह
+Ġन्य स्त
+Ġदे ह
 नगर म्
 ध्वज ः
 ङ्क ित
 त्र ो
 ध्व ं
- के सर
+Ġके सर
 वर्ण ः
- हर ित
- नी ल
+Ġहर ित
+Ġनी ल
 च क्र
 शी र्ष
 चि ह्
@@ -5690,57 +5690,57 @@ w a
 वा क
 वाक ्यम्
 प्रा ण
- व्या घ
- व्याघ ्र
+Ġव्या घ
+Ġव्याघ ्र
 पक्ष ी
- म य
- मय ूर
+Ġम य
+Ġमय ूर
 न द
- ग ङ
- गङ गा
+Ġग ङ
+Ġगङ गा
 ध ू
- गोदा वरी
+Ġगोदा वरी
 क पि
 कपि ल
- ग ज
+Ġग ज
 कर्ण िका
- का वे
- कावे री
+Ġका वे
+Ġकावे री
 ज ला
 फ ला
- स स्य
+Ġस स्य
 श ्याम
 श्याम ल
- दि लीप
+Ġदि लीप
 र थः
- प ौ
- पौ रा
- पौरा ण
- पौराण िक
+Ġप ौ
+Ġपौ रा
+Ġपौरा ण
+Ġपौराण िक
 च िन्
 चिन् त
 चिन्त क
- कीर् तिः
- स मु
+Ġकीर् तिः
+Ġस मु
 न य
- म न्त्र
- पर म
- ज ्ञान
+Ġम न्त्र
+Ġपर म
+Ġज ्ञान
 ् मी
 व्या स
 न यः
 द ीन
 कृ ष्ण
- अव तार
+Ġअव तार
 पु रु
 पुरु ष
- श ङ्क
- शङ्क र
+Ġश ङ्क
+Ġशङ्क र
 रा म
 ेश ्व
 ेश्व र
 म ध्व
- आ चार्य
+Ġआ चार्य
 त्र ै
 तत्त्व म्
 ाद ि
@@ -5750,34 +5750,34 @@ w a
 मार् ग
 ेण ैव
 प य
- का शी
- उ डु
- ति रु
+Ġका शी
+Ġउ डु
+Ġति रु
 ब ेसेण्टथियोसफिकल
 श ता
 ोत् स
 ोत्स वः
- ब ेसेण्टथियोसफिकल
- त ान
+Ġब ेसेण्टथियोसफिकल
+Ġत ान
 १९४८ तमे
- आ चार
- व य
- व सा
+Ġआ चार
+Ġव य
+Ġव सा
 म ः
 ञ्च न
- प ोष
+Ġप ोष
 ि त्री
 वा ङ्
- र म
- रम ्य
+Ġर म
+Ġरम ्य
 पूर्व ा
- जै मि
- पा णि
+Ġजै मि
+Ġपा णि
 व यः
- क णा
+Ġक णा
 क ः
- व रा
- वरा ह
+Ġव रा
+Ġवरा ह
 मि ह
 भ ट
 भट ः
@@ -5785,1829 +5785,1829 @@ w a
 पुण ्य
 स म्प
 सम्प त्
- स्व र्ग
- वन् दन
- वन्दन ीय
- प न्
+Ġस्व र्ग
+Ġवन् दन
+Ġवन्दन ीय
+Ġप न्
 तन्त्र म्
- को टि
+Ġको टि
 राज ः
 सागर ः
 ति ब्बत
- निक ोबार
- निक ट
+Ġनिक ोबार
+Ġनिक ट
 दे ह
 मुख ्य
- कोल क
- पुण े
+Ġकोल क
+Ġपुण े
 पुरा तन
 रच ना
 सम ूह
- उत् सव
- न ैक
+Ġउत् सव
+Ġन ैक
 पर म्
 परम् परा
- वि ष
+Ġवि ष
 रच य
 लेख नी
 य म्
 खा त
 काल े
 स िता
- उन्न त
+Ġउन्न त
 अ वन
 अवन ति
- सु वर्ण
+Ġसु वर्ण
 देश ीय
- काल े
- विस्त ारः
- प द्
+Ġकाल े
+Ġविस्त ारः
+Ġप द्
 ध त
- ग त
+Ġग त
 य ान
 योजन म्
- उ परि
+Ġउ परि
 स् प
- गु रु
- मा त
+Ġगु रु
+Ġमा त
 ग ङ्गा
 न दी
 आ धार
 ग्र न्थ
 स मा
- ग्रन्थ िः
+Ġग्रन्थ िः
 २ ७
 उ ल्
 ले खा
- off ic
- offic ially
- se vent
- sevent h
- B ound
- Bound ed
- s outheast
- sh a
- sha res
- Bh ut
- Bhut an
- Lank a
- Mal div
- Maldiv es
- mar it
- marit ime
- bor der
- ar ri
- arri ved
- predomin ant
- predominant ly
- S ettled
- evol ving
- d aw
- daw nings
+Ġoff ic
+Ġoffic ially
+Ġse vent
+Ġsevent h
+ĠB ound
+ĠBound ed
+Ġs outheast
+Ġsh a
+Ġsha res
+ĠBh ut
+ĠBhut an
+ĠLank a
+ĠMal div
+ĠMaldiv es
+Ġmar it
+Ġmarit ime
+Ġbor der
+Ġar ri
+Ġarri ved
+Ġpredomin ant
+Ġpredominant ly
+ĠS ettled
+Ġevol ving
+Ġd aw
+Ġdaw nings
 ex isting
- pro c
- proc laiming
- or ders
- un l
- unl in
- unlin ked
- here di
- heredi ty
- consolid ations
- E mp
- Emp ires
- flour ishing
- writ ing
- decl ined
- organ ised
- scri pts
- Jud aism
- inter mitt
- intermitt ently
- cos m
- cosm op
- cosmop olit
- cosmopolit an
- network s
+Ġpro c
+Ġproc laiming
+Ġor ders
+Ġun l
+Ġunl in
+Ġunlin ked
+Ġhere di
+Ġheredi ty
+Ġconsolid ations
+ĠE mp
+ĠEmp ires
+Ġflour ishing
+Ġwrit ing
+Ġdecl ined
+Ġorgan ised
+Ġscri pts
+ĠJud aism
+Ġinter mitt
+Ġintermitt ently
+Ġcos m
+Ġcosm op
+Ġcosmop olit
+Ġcosmopolit an
+Ġnetwork s
 l ast
 last ing
- compos ite
- re ject
- reject ing
- institution al
- institutional ised
- us hered
- architect ural
- leg acy
- G ra
- Gra du
- Gradu ally
- consolid ated
- C row
- Crow n
- prom ised
- gr anted
- slow ly
- techn ological
- ide as
- ro ot
- movement s
- N oted
- res ist
- resist ance
- 19 20
- partition ed
- domin ions
- un p
- unp re
- unpre ced
- unpreced ent
- unprecedent ed
- accom p
- accomp ani
- accompani ed
- govern ed
- pl ural
- plural istic
- mult il
- multil ing
- multiling ual
+Ġcompos ite
+Ġre ject
+Ġreject ing
+Ġinstitution al
+Ġinstitutional ised
+Ġus hered
+Ġarchitect ural
+Ġleg acy
+ĠG ra
+ĠGra du
+ĠGradu ally
+Ġconsolid ated
+ĠC row
+ĠCrow n
+Ġprom ised
+Ġgr anted
+Ġslow ly
+Ġtechn ological
+Ġide as
+Ġro ot
+Ġmovement s
+ĠN oted
+Ġres ist
+Ġresist ance
+Ġ19 20
+Ġpartition ed
+Ġdomin ions
+Ġun p
+Ġunp re
+Ġunpre ced
+Ġunpreced ent
+Ġunprecedent ed
+Ġaccom p
+Ġaccomp ani
+Ġaccompani ed
+Ġgovern ed
+Ġpl ural
+Ġplural istic
+Ġmult il
+Ġmultil ing
+Ġmultiling ual
 eth nic
 6 01
 we ap
 weap on
- r ank
- rank s
- exp en
- expen dit
- expendit ure
- neighb ours
- soc i
- soci o
- ch all
- chall eng
- challeng es
- fac es
- m al
- mal n
- maln ut
- malnut rit
- malnutrit ion
- view ed
- to l
- tol er
- toler ance
- habit ats
+Ġr ank
+Ġrank s
+Ġexp en
+Ġexpen dit
+Ġexpendit ure
+Ġneighb ours
+Ġsoc i
+Ġsoci o
+Ġch all
+Ġchall eng
+Ġchalleng es
+Ġfac es
+Ġm al
+Ġmal n
+Ġmaln ut
+Ġmalnut rit
+Ġmalnutrit ion
+Ġview ed
+Ġto l
+Ġtol er
+Ġtoler ance
+Ġhabit ats
 A ccording
- O x
- Ox f
- Oxf ord
- D ic
- Dic tionary
- prop er
- n oun
- der ives
- Lat in
- refer ence
- loose ly
+ĠO x
+ĠOx f
+ĠOxf ord
+ĠD ic
+ĠDic tionary
+Ġprop er
+Ġn oun
+Ġder ives
+ĠLat in
+Ġrefer ence
+Ġloose ly
 d ef
 def ined
- st ret
- stret ch
- stretch ing
- F urther
- e ty
- ety mon
- etymon s
- H ell
- Hell en
- Hellen istic
- Ἰνδ ί
- Ἰνδί α
- Ind os
- Ἰνδ ό
- Ἰνδό ς
- Achaemen ian
- prov ince
- Achaemen id
- S indh
- Sindh u
+Ġst ret
+Ġstret ch
+Ġstretch ing
+ĠF urther
+Ġe ty
+Ġety mon
+Ġetymon s
+ĠH ell
+ĠHell en
+ĠHellen istic
+ĠἸνδ ί
+ĠἸνδί α
+ĠInd os
+ĠἸνδ ό
+ĠἸνδό ς
+ĠAchaemen ian
+Ġprov ince
+ĠAchaemen id
+ĠS indh
+ĠSindh u
 ri ver
- spec if
- specif ically
- extens ion
+Ġspec if
+Ġspecif ically
+Ġextens ion
 s ettled
- Gree ks
- refer red
- Indo i
+ĠGree ks
+Ġrefer red
+ĠIndo i
 ' .
- Bh ā
- Bhā rat
- p ron
- pron oun
- pronoun ced
-  ˈ
- ˈ b
- ˈb ɦ
- ˈbɦ aː
- ˈbɦaː ɾ
- ˈbɦaːɾ ə
- ˈbɦaːɾə t
- m ent
- ment ion
- mention ed
- e pic
- p o
- po et
- poet ry
- vari ations
- ren der
- render ing
- Bharat av
- Bharatav ar
- Bharatavar sha
- n ative
+ĠBh ā
+ĠBhā rat
+Ġp ron
+Ġpron oun
+Ġpronoun ced
+Ġ ˈ
+Ġˈ b
+Ġˈb ɦ
+Ġˈbɦ aː
+Ġˈbɦaː ɾ
+Ġˈbɦaːɾ ə
+Ġˈbɦaːɾə t
+Ġm ent
+Ġment ion
+Ġmention ed
+Ġe pic
+Ġp o
+Ġpo et
+Ġpoet ry
+Ġvari ations
+Ġren der
+Ġrender ing
+ĠBharat av
+ĠBharatav ar
+ĠBharatavar sha
+Ġn ative
 H in
 Hin dust
 Hindust an
-  ɦ
- ɦ ɪ
- ɦɪ nd
- ɦɪnd ʊ
- ɦɪndʊ ˈ
- ɦɪndʊˈ st
- ɦɪndʊˈst aː
- ɦɪndʊˈstaː n
- Hindust an
- vari ed
- refer ring
- en com
- encom passing
+Ġ ɦ
+Ġɦ ɪ
+Ġɦɪ nd
+Ġɦɪnd ʊ
+Ġɦɪndʊ ˈ
+Ġɦɪndʊˈ st
+Ġɦɪndʊˈst aː
+Ġɦɪndʊˈstaː n
+ĠHindust an
+Ġvari ed
+Ġrefer ring
+Ġen com
+Ġencom passing
 p resent
- entire ty
+Ġentire ty
 B ased
- coal esc
- coalesc ence
- M it
- Mit och
- Mitoch ond
- Mitochond rial
- D N
- DN A
- Ch rom
- Chrom os
- Chromos ome
- l ine
- line ages
- anatom ically
- H om
- Hom o
- s ap
- sap i
- sapi ens
- lik el
- likel ih
- likelih ood
- init ially
- vary ing
- gen etic
- f oss
- foss ils
- d ate
- E vidence
- ne ol
- neol ith
- neolith ic
- M eh
- Meh r
- Mehr garh
- Bal och
- Baloch istan
- d ates
- 7 000
- D omestic
- Domestic ation
- gra in
+Ġcoal esc
+Ġcoalesc ence
+ĠM it
+ĠMit och
+ĠMitoch ond
+ĠMitochond rial
+ĠD N
+ĠDN A
+ĠCh rom
+ĠChrom os
+ĠChromos ome
+Ġl ine
+Ġline ages
+Ġanatom ically
+ĠH om
+ĠHom o
+Ġs ap
+Ġsap i
+Ġsapi ens
+Ġlik el
+Ġlikel ih
+Ġlikelih ood
+Ġinit ially
+Ġvary ing
+Ġgen etic
+Ġf oss
+Ġfoss ils
+Ġd ate
+ĠE vidence
+Ġne ol
+Ġneol ith
+Ġneolith ic
+ĠM eh
+ĠMeh r
+ĠMehr garh
+ĠBal och
+ĠBaloch istan
+Ġd ates
+Ġ7 000
+ĠD omestic
+ĠDomestic ation
+Ġgra in
 pro duc
 produc ing
- pl ants
- bar le
- barle y
- hum ped
- z eb
- zeb u
- evol ved
- flour ished
- 25 00
+Ġpl ants
+Ġbar le
+Ġbarle y
+Ġhum ped
+Ġz eb
+Ġzeb u
+Ġevol ved
+Ġflour ished
+Ġ25 00
 19 00
- Cent red
- H ar
- Har app
- Harapp a
- D hol
- Dhol avira
- G an
- Gan w
- Ganw eri
- Ganweri w
- Ganweriw ala
- R akh
- Rakh ig
- Rakhig ar
- Rakhigar hi
- we igh
- weigh ts
- ste at
- steat ite
- pl an
- plan ning
- c ra
- cra f
- craf ts
- pot ter
- potter y
- stat u
- statu ett
- statuett es
- Network s
- ag ro
+ĠCent red
+ĠH ar
+ĠHar app
+ĠHarapp a
+ĠD hol
+ĠDhol avira
+ĠG an
+ĠGan w
+ĠGanw eri
+ĠGanweri w
+ĠGanweriw ala
+ĠR akh
+ĠRakh ig
+ĠRakhig ar
+ĠRakhigar hi
+Ġwe igh
+Ġweigh ts
+Ġste at
+Ġsteat ite
+Ġpl an
+Ġplan ning
+Ġc ra
+Ġcra f
+Ġcraf ts
+Ġpot ter
+Ġpotter y
+Ġstat u
+Ġstatu ett
+Ġstatuett es
+ĠNetwork s
+Ġag ro
 B etween
- 15 00
- e vidence
- R ig
- V ed
- Ved a
- script ure
+Ġ15 00
+Ġe vidence
+ĠR ig
+ĠV ed
+ĠVed a
+Ġscript ure
 w h
 wh ich
 sp eak
 speak ing
- trib es
- mig r
- migr ating
- Af gh
- Afgh an
- Afghan istan
- sett ling
- sw athe
- swathe s
- ad j
- adj oin
- adjoin ing
- def ore
- defore sted
- f ires
- employ ing
- ir on
- imp lements
- pre p
- prep ared
- dri ving
- p ree
- pree x
- preex isting
-  ens
- ens l
- ensl aving
+Ġtrib es
+Ġmig r
+Ġmigr ating
+ĠAf gh
+ĠAfgh an
+ĠAfghan istan
+Ġsett ling
+Ġsw athe
+Ġswathe s
+Ġad j
+Ġadj oin
+Ġadjoin ing
+Ġdef ore
+Ġdefore sted
+Ġf ires
+Ġemploy ing
+Ġir on
+Ġimp lements
+Ġpre p
+Ġprep ared
+Ġdri ving
+Ġp ree
+Ġpree x
+Ġpreex isting
+Ġ ens
+Ġens l
+Ġensl aving
 div ide
- sp ok
- spok en
- ref ined
- gra m
- gram m
- gramm atical
- e mer
- emer ge
- co dified
- A ṣ
- Aṣ ṭ
- Aṣṭ ā
- Aṣṭā dh
- Aṣṭādh y
- Aṣṭādhy ā
- Aṣṭādhyā y
- Aṣṭādhyāy ī
- ( '
+Ġsp ok
+Ġspok en
+Ġref ined
+Ġgra m
+Ġgram m
+Ġgramm atical
+Ġe mer
+Ġemer ge
+Ġco dified
+ĠA ṣ
+ĠAṣ ṭ
+ĠAṣṭ ā
+ĠAṣṭā dh
+ĠAṣṭādh y
+ĠAṣṭādhy ā
+ĠAṣṭādhyā y
+ĠAṣṭādhyāy ī
+Ġ( '
 E ight
- chap ters
+Ġchap ters
 ' )
- P ā
- Pā ṇ
- Pāṇ in
- Pāṇin i
- e p
- ep ics
- Mah ā
- Mahā b
- Mahāb h
- Mahābh ā
- Mahābhā r
- Mahābhār ata
- R ā
- Rā m
- Rām ā
- Rāmā ya
- Rāmāya ṇ
- Rāmāyaṇ a
- or al
- st ory
- story tell
- storytell ing
- regist ers
- E pic
- r ough
- rough ly
- cont emp
- contemp or
- contempor ary
- tak en
- different i
- differenti ation
- te ach
- teach ings
- Mah avira
- B oth
- st ressed
- ab j
- abj ured
- s ac
- sac ri
- sacri f
- sacrif ices
- Brahm an
- Brahman ism
- f ixed
- eth ically
- soc ially
- m or
- mor ally
- Ch ronic
- Chronic ling
- back d
- backd rop
- emerg ence
- geograph ically
- extens ive
- f oun
- foun der
- gr ands
- grands on
+ĠP ā
+ĠPā ṇ
+ĠPāṇ in
+ĠPāṇin i
+Ġe p
+Ġep ics
+ĠMah ā
+ĠMahā b
+ĠMahāb h
+ĠMahābh ā
+ĠMahābhā r
+ĠMahābhār ata
+ĠR ā
+ĠRā m
+ĠRām ā
+ĠRāmā ya
+ĠRāmāya ṇ
+ĠRāmāyaṇ a
+Ġor al
+Ġst ory
+Ġstory tell
+Ġstorytell ing
+Ġregist ers
+ĠE pic
+Ġr ough
+Ġrough ly
+Ġcont emp
+Ġcontemp or
+Ġcontempor ary
+Ġtak en
+Ġdifferent i
+Ġdifferenti ation
+Ġte ach
+Ġteach ings
+ĠMah avira
+ĠB oth
+Ġst ressed
+Ġab j
+Ġabj ured
+Ġs ac
+Ġsac ri
+Ġsacri f
+Ġsacrif ices
+ĠBrahm an
+ĠBrahman ism
+Ġf ixed
+Ġeth ically
+Ġsoc ially
+Ġm or
+Ġmor ally
+ĠCh ronic
+ĠChronic ling
+Ġback d
+Ġbackd rop
+Ġemerg ence
+Ġgeograph ically
+Ġextens ive
+Ġf oun
+Ġfoun der
+Ġgr ands
+Ġgrands on
 c a
- 26 8
+Ġ26 8
 23 2
- control led
- ar ter
- arter ies
- exce pt
- de ep
- ins cri
- inscri ptions
- decl ining
- main st
- mainst ream
- speak ing
- con qu
- conqu est
- Kal ing
- Kaling a
- for ces
- im m
- imm ense
- adop ting
- dh amm
- dhamm a
- com mission
- commission ing
- num erous
- p ill
- pill ar
- through out
- prom ote
- conduc t
- for b
- forb ade
- k illing
- dest ruc
- destruc tion
- se en
- en v
- env ir
- envir on
- environ mental
- emb odi
- embodi ment
- eth os
- tax ation
- Un der
- G upt
- Gupt as
- renew ed
- man age
- manage ment
- r it
- rit ual
- it sel
- itsel f
- renew al
- refl ected
- Sang am
- re ve
- reve als
- penins ul
- peninsul a
- C her
- Cher as
- Chol as
- respect ively
- P andy
- Pandy as
- f art
- fart her
- Va ig
- Vaig ai
- six th
- grow n
- fav ou
- favou red
- cons erv
- conserv ative
- trans ac
- transac tion
- transaction al
- transactional ism
- rep l
- repl aced
- king ly
- pl ac
- plac es
- Bh ak
- Bhak ti
- tra ded
- R om
- Rom an
+Ġcontrol led
+Ġar ter
+Ġarter ies
+Ġexce pt
+Ġde ep
+Ġins cri
+Ġinscri ptions
+Ġdecl ining
+Ġmain st
+Ġmainst ream
+Ġspeak ing
+Ġcon qu
+Ġconqu est
+ĠKal ing
+ĠKaling a
+Ġfor ces
+Ġim m
+Ġimm ense
+Ġadop ting
+Ġdh amm
+Ġdhamm a
+Ġcom mission
+Ġcommission ing
+Ġnum erous
+Ġp ill
+Ġpill ar
+Ġthrough out
+Ġprom ote
+Ġconduc t
+Ġfor b
+Ġforb ade
+Ġk illing
+Ġdest ruc
+Ġdestruc tion
+Ġse en
+Ġen v
+Ġenv ir
+Ġenvir on
+Ġenviron mental
+Ġemb odi
+Ġembodi ment
+Ġeth os
+Ġtax ation
+ĠUn der
+ĠG upt
+ĠGupt as
+Ġrenew ed
+Ġman age
+Ġmanage ment
+Ġr it
+Ġrit ual
+Ġit sel
+Ġitsel f
+Ġrenew al
+Ġrefl ected
+ĠSang am
+Ġre ve
+Ġreve als
+Ġpenins ul
+Ġpeninsul a
+ĠC her
+ĠCher as
+ĠChol as
+Ġrespect ively
+ĠP andy
+ĠPandy as
+Ġf art
+Ġfart her
+ĠVa ig
+ĠVaig ai
+Ġsix th
+Ġgrow n
+Ġfav ou
+Ġfavou red
+Ġcons erv
+Ġconserv ative
+Ġtrans ac
+Ġtransac tion
+Ġtransaction al
+Ġtransactional ism
+Ġrep l
+Ġrepl aced
+Ġking ly
+Ġpl ac
+Ġplac es
+ĠBh ak
+ĠBhak ti
+Ġtra ded
+ĠR om
+ĠRom an
 Me dieval
- 6 00
- def ined
- N o
- rul er
- cre ate
- cons ist
- consist ently
- be y
- bey ond
- co re
- peop les
- accom m
- accomm od
- accommod ated
+Ġ6 00
+Ġdef ined
+ĠN o
+Ġrul er
+Ġcre ate
+Ġcons ist
+Ġconsist ently
+Ġbe y
+Ġbey ond
+Ġco re
+Ġpeop les
+Ġaccom m
+Ġaccomm od
+Ġaccommod ated
 tra dition
 tradition al
- con sequ
- consequ ently
- differ ences
- devotion al
- im itated
- res ur
- resur g
- resurg ence
- ro yalty
- b ig
- patron ised
- capit al
- siz es
- every where
- under w
- underw ent
- eff ec
- effec ts
- f el
- fel t
- L a
- La os
- B r
- Br une
- Brune i
- C am
- Cam b
- Camb odi
- Cambodi a
- V iet
- Viet nam
- P h
- Ph ili
- Phili pp
- Philipp ines
- Mal ays
- Malays ia
- sch ol
- schol ars
- trans mission
- initi ative
- so j
- soj our
- sojour ning
- s em
- sem in
- semin aries
- trans l
- transl ating
- n om
- nom a
- noma dic
- cl ans
- us ing
- sw if
- swif t
+Ġcon sequ
+Ġconsequ ently
+Ġdiffer ences
+Ġdevotion al
+Ġim itated
+Ġres ur
+Ġresur g
+Ġresurg ence
+Ġro yalty
+Ġb ig
+Ġpatron ised
+Ġcapit al
+Ġsiz es
+Ġevery where
+Ġunder w
+Ġunderw ent
+Ġeff ec
+Ġeffec ts
+Ġf el
+Ġfel t
+ĠL a
+ĠLa os
+ĠB r
+ĠBr une
+ĠBrune i
+ĠC am
+ĠCam b
+ĠCamb odi
+ĠCambodi a
+ĠV iet
+ĠViet nam
+ĠP h
+ĠPh ili
+ĠPhili pp
+ĠPhilipp ines
+ĠMal ays
+ĠMalays ia
+Ġsch ol
+Ġschol ars
+Ġtrans mission
+Ġiniti ative
+Ġso j
+Ġsoj our
+Ġsojour ning
+Ġs em
+Ġsem in
+Ġsemin aries
+Ġtrans l
+Ġtransl ating
+Ġn om
+Ġnom a
+Ġnoma dic
+Ġcl ans
+Ġus ing
+Ġsw if
+Ġswif t
 h orse
- c aval
- caval ry
- ra ising
- eth nic
- ethnic ity
- estab lish
- establish ment
- 12 0
- 120 6
- for ays
- dis r
- disr upt
- disrupt ive
+Ġc aval
+Ġcaval ry
+Ġra ising
+Ġeth nic
+Ġethnic ity
+Ġestab lish
+Ġestablish ment
+Ġ12 0
+Ġ120 6
+Ġfor ays
+Ġdis r
+Ġdisr upt
+Ġdisrupt ive
 M uslim
- sub ject
- cust oms
- rep uls
- repuls ing
- M ong
- Mong ol
- raid ers
- sav ed
- devast ation
- vis ited
- scen e
- f le
- fle e
- flee ing
- s ol
- sol di
- soldi ers
- l ear
- lear n
- learn ed
- m y
- my st
- myst ics
- tra ders
- there b
- thereb y
- syn c
- sync re
- syncre tic
+Ġsub ject
+Ġcust oms
+Ġrep uls
+Ġrepuls ing
+ĠM ong
+ĠMong ol
+Ġraid ers
+Ġsav ed
+Ġdevast ation
+Ġvis ited
+Ġscen e
+Ġf le
+Ġfle e
+Ġflee ing
+Ġs ol
+Ġsol di
+Ġsoldi ers
+Ġl ear
+Ġlear n
+Ġlearn ed
+Ġm y
+Ġmy st
+Ġmyst ics
+Ġtra ders
+Ġthere b
+Ġthereb y
+Ġsyn c
+Ġsync re
+Ġsyncre tic
 I sl
 Isl am
 Islam ic
- raid ing
- we ak
- weak ening
- p av
- pav ed
- E mb
- Emb rac
- Embrac ing
- Sh a
- Sha iv
- Shaiv ite
- up on
- after wards
+Ġraid ing
+Ġwe ak
+Ġweak ening
+Ġp av
+Ġpav ed
+ĠE mb
+ĠEmb rac
+ĠEmbrac ing
+ĠSh a
+ĠSha iv
+ĠShaiv ite
+Ġup on
+Ġafter wards
 E arly
- f ell
- sup eri
- superi or
- mo b
- mob il
- mobil ity
- f ire
- fire p
- firep ower
- gen eration
- st amp
- societ ies
- In st
- Inst ead
- bal an
- balan ced
- p ac
- pac ified
- administ rative
- inc lus
- inclus ive
- system atic
- central ised
- un if
- unif orm
- E sc
- Esc he
- Esche wing
-  ident
- ident ity
- Mugh als
+Ġf ell
+Ġsup eri
+Ġsuperi or
+Ġmo b
+Ġmob il
+Ġmobil ity
+Ġf ire
+Ġfire p
+Ġfirep ower
+Ġgen eration
+Ġst amp
+Ġsociet ies
+ĠIn st
+ĠInst ead
+Ġbal an
+Ġbalan ced
+Ġp ac
+Ġpac ified
+Ġadminist rative
+Ġinc lus
+Ġinclus ive
+Ġsystem atic
+Ġcentral ised
+Ġun if
+Ġunif orm
+ĠE sc
+ĠEsc he
+ĠEsche wing
+Ġ ident
+Ġident ity
+ĠMugh als
 f lung
- re al
- real ms
- lo yalty
+Ġre al
+Ġreal ms
+Ġlo yalty
 ex p
 exp ressed
- Persian ised
+ĠPersian ised
 t o
 div ine
- der iving
- mand ating
- pa id
+Ġder iving
+Ġmand ating
+Ġpa id
 reg ul
 regul ated
- sil ver
- pe as
- peas ants
- maint ained
- patron age
- textil es
- New ly
- co he
- cohe rent
- Marat has
- govern ing
- a mb
- amb itions
- coll ab
- collab oration
- ad versity
- recogn ition
- exp eri
- experi ence
- Ex p
- Exp anding
- inc re
- incre mental
- fra g
- frag ment
- fragment ation
- a u
- au th
- auth ority
- fac il
- facil itated
- dec ent
- decent ral
- decentral isation
- enab ling
- prov inc
- provinc ial
- local ised
- aut onom
- autonom y
- consolid ate
- l ines
- enter p
- enterp r
- enterpr ise
- bl urred
- char ter
- charter ed
+Ġsil ver
+Ġpe as
+Ġpeas ants
+Ġmaint ained
+Ġpatron age
+Ġtextil es
+ĠNew ly
+Ġco he
+Ġcohe rent
+ĠMarat has
+Ġgovern ing
+Ġa mb
+Ġamb itions
+Ġcoll ab
+Ġcollab oration
+Ġad versity
+Ġrecogn ition
+Ġexp eri
+Ġexperi ence
+ĠEx p
+ĠExp anding
+Ġinc re
+Ġincre mental
+Ġfra g
+Ġfrag ment
+Ġfragment ation
+Ġa u
+Ġau th
+Ġauth ority
+Ġfac il
+Ġfacil itated
+Ġdec ent
+Ġdecent ral
+Ġdecentral isation
+Ġenab ling
+Ġprov inc
+Ġprovinc ial
+Ġlocal ised
+Ġaut onom
+Ġautonom y
+Ġconsolid ate
+Ġl ines
+Ġenter p
+Ġenterp r
+Ġenterpr ise
+Ġbl urred
+Ġchar ter
+Ġcharter ed
 n ot
 not ably
 s oli
 soli dified
- out p
- outp osts
- se as
- tra ining
- attract ive
- el ite
- fact ors
- al lowing
- g ain
- 17 6
- 176 5
- s idel
- sidel ine
- r ic
- ric hes
- arm y
- enab led
- ann ex
- annex e
- sub du
- subdu e
- 18 20
- export ing
- manufact ured
- inst ead
- supp ly
- supply ing
- ra w
- cur ta
- curta il
- curtail ed
- effect ively
- cons ci
- consci ously
- are n
- aren as
- appoin t
- appoint ment
- 184 8
- L ord
- Dal h
- Dalh ous
- Dalhous ie
- G overn
- Govern or
- G eneral
- st age
- consolid ation
- dem ar
- demar c
- demarc ation
- sur ve
- surve ill
- surveill ance
- T ech
- Tech n
- Techn ological
+Ġout p
+Ġoutp osts
+Ġse as
+Ġtra ining
+Ġattract ive
+Ġel ite
+Ġfact ors
+Ġal lowing
+Ġg ain
+Ġ17 6
+Ġ176 5
+Ġs idel
+Ġsidel ine
+Ġr ic
+Ġric hes
+Ġarm y
+Ġenab led
+Ġann ex
+Ġannex e
+Ġsub du
+Ġsubdu e
+Ġ18 20
+Ġexport ing
+Ġmanufact ured
+Ġinst ead
+Ġsupp ly
+Ġsupply ing
+Ġra w
+Ġcur ta
+Ġcurta il
+Ġcurtail ed
+Ġeffect ively
+Ġcons ci
+Ġconsci ously
+Ġare n
+Ġaren as
+Ġappoin t
+Ġappoint ment
+Ġ184 8
+ĠL ord
+ĠDal h
+ĠDalh ous
+ĠDalhous ie
+ĠG overn
+ĠGovern or
+ĠG eneral
+Ġst age
+Ġconsolid ation
+Ġdem ar
+Ġdemar c
+Ġdemarc ation
+Ġsur ve
+Ġsurve ill
+Ġsurveill ance
+ĠT ech
+ĠTech n
+ĠTechn ological
 am ong
- can als
- te leg
- teleg raph
+Ġcan als
+Ġte leg
+Ġteleg raph
 w ere
- intro duction
- Dis a
- Disa ff
- Disaff ection
- R eb
- Reb ellion
- 185 7
- F ed
- res ent
- resent ments
- per ce
- perce ptions
- in vasive
- har sh
- sum mary
- t reat
- treat ment
- we alth
- wealth y
- land own
- landown ers
- roc ked
- sh ook
- found ations
- supp ressed
- dis b
- disb anded
- administ er
- P roc
- Proc laiming
- gradu al
- land ed
- g ent
- gent ry
- fe ud
- feud al
- f uture
- un re
- unre st
- found ing
- 188 5
- r ush
- commercial isation
- set back
- setback s
- wh im
- whim s
- far aw
- faraw ay
- increas e
- fam ines
- d espite
- r is
- ris ks
- inf ra
- infra struc
- infrastruc ture
- bor n
- born e
- tax pay
- taxpay ers
- lit t
- litt le
- employ ment
- c ropp
- cropp ing
- new ly
- can alled
- produc tion
- in ternal
- railw ay
- crit ical
- fam ine
- not ably
- mo ving
- he l
- hel ped
- n as
- nas cent
+Ġintro duction
+ĠDis a
+ĠDisa ff
+ĠDisaff ection
+ĠR eb
+ĠReb ellion
+Ġ185 7
+ĠF ed
+Ġres ent
+Ġresent ments
+Ġper ce
+Ġperce ptions
+Ġin vasive
+Ġhar sh
+Ġsum mary
+Ġt reat
+Ġtreat ment
+Ġwe alth
+Ġwealth y
+Ġland own
+Ġlandown ers
+Ġroc ked
+Ġsh ook
+Ġfound ations
+Ġsupp ressed
+Ġdis b
+Ġdisb anded
+Ġadminist er
+ĠP roc
+ĠProc laiming
+Ġgradu al
+Ġland ed
+Ġg ent
+Ġgent ry
+Ġfe ud
+Ġfeud al
+Ġf uture
+Ġun re
+Ġunre st
+Ġfound ing
+Ġ188 5
+Ġr ush
+Ġcommercial isation
+Ġset back
+Ġsetback s
+Ġwh im
+Ġwhim s
+Ġfar aw
+Ġfaraw ay
+Ġincreas e
+Ġfam ines
+Ġd espite
+Ġr is
+Ġris ks
+Ġinf ra
+Ġinfra struc
+Ġinfrastruc ture
+Ġbor n
+Ġborn e
+Ġtax pay
+Ġtaxpay ers
+Ġlit t
+Ġlitt le
+Ġemploy ment
+Ġc ropp
+Ġcropp ing
+Ġnew ly
+Ġcan alled
+Ġproduc tion
+Ġin ternal
+Ġrailw ay
+Ġcrit ical
+Ġfam ine
+Ġnot ably
+Ġmo ving
+Ġhe l
+Ġhel ped
+Ġn as
+Ġnas cent
 own ed
- Gandhi an
- rep ressive
- legisl ation
- st rid
- strid ent
- c alls
+ĠGandhi an
+Ġrep ressive
+Ġlegisl ation
+Ġst rid
+Ġstrid ent
+Ġc alls
 r ule
- Mah at
- Mahat ma
- legisl ative
- b es
- bes et
- cr ises
- partic ip
- particip ation
- fin al
- up s
- ups ur
- upsur ge
- national ism
- cap ped
- temp ered
- E conom
- Econom ic
- h am
- ham st
- hamst r
- hamstr ung
- persist ent
+ĠMah at
+ĠMahat ma
+Ġlegisl ative
+Ġb es
+Ġbes et
+Ġcr ises
+Ġpartic ip
+Ġparticip ation
+Ġfin al
+Ġup s
+Ġups ur
+Ġupsur ge
+Ġnational ism
+Ġcap ped
+Ġtemp ered
+ĠE conom
+ĠEconom ic
+Ġh am
+Ġham st
+Ġhamst r
+Ġhamstr ung
+Ġpersist ent
 re l
 rel ated
- Ma o
- Mao ist
+ĠMa o
+ĠMao ist
 ins p
 insp i
 inspi red
- Na x
- Nax al
- Naxal ite
- ins ur
- insur gen
- insurgen c
- insurgenc ies
- separat ism
- acc oun
- accoun ts
- l ying
- at op
- t ect
- tect onic
- def ining
- geolog ic
- process es
+ĠNa x
+ĠNax al
+ĠNaxal ite
+Ġins ur
+Ġinsur gen
+Ġinsurgen c
+Ġinsurgenc ies
+Ġseparat ism
+Ġacc oun
+Ġaccoun ts
+Ġl ying
+Ġat op
+Ġt ect
+Ġtect onic
+Ġdef ining
+Ġgeolog ic
+Ġprocess es
 east w
 eastw ard
- dri ft
- se af
- seaf lo
- seaflo or
- T eth
- Teth yan
- o cean
- ocean ic
- nort heast
- sub duc
- subduc t
- contin ent
- continent al
- obstruc ted
- she ared
- h or
- hor iz
- horiz on
- horizon t
- horizont ally
- m ant
- mant le
- s l
- sl id
- pil ed
- she ets
- n app
- napp es
- a head
- sub duction
- o ro
- oro gen
- orogen y
- mount ain
- stiff er
- caus ing
- crust al
- th ick
- thick ening
- I m
- Im mediately
- emerg ing
- c res
- cres cent
+Ġdri ft
+Ġse af
+Ġseaf lo
+Ġseaflo or
+ĠT eth
+ĠTeth yan
+Ġo cean
+Ġocean ic
+Ġnort heast
+Ġsub duc
+Ġsubduc t
+Ġcontin ent
+Ġcontinent al
+Ġobstruc ted
+Ġshe ared
+Ġh or
+Ġhor iz
+Ġhoriz on
+Ġhorizon t
+Ġhorizont ally
+Ġm ant
+Ġmant le
+Ġs l
+Ġsl id
+Ġpil ed
+Ġshe ets
+Ġn app
+Ġnapp es
+Ġa head
+Ġsub duction
+Ġo ro
+Ġoro gen
+Ġorogen y
+Ġmount ain
+Ġstiff er
+Ġcaus ing
+Ġcrust al
+Ġth ick
+Ġthick ening
+ĠI m
+ĠIm mediately
+Ġemerg ing
+Ġc res
+Ġcres cent
 sh ap
 shap ed
- t rough
- f illed
+Ġt rough
+Ġf illed
 b orn
 born e
- con stitutes
- appear ance
- Ara val
- Araval li
- R id
- Rid ge
- southwest er
- southwester ly
- direc tion
- che c
- chec ked
- Ara v
- Arav all
- Aravall is
- geolog ically
- st able
- V indh
- Vindh ya
- par alle
- paralle l
+Ġcon stitutes
+Ġappear ance
+ĠAra val
+ĠAraval li
+ĠR id
+ĠRid ge
+Ġsouthwest er
+Ġsouthwester ly
+Ġdirec tion
+Ġche c
+Ġchec ked
+ĠAra v
+ĠArav all
+ĠAravall is
+Ġgeolog ically
+Ġst able
+ĠV indh
+ĠVindh ya
+Ġpar alle
+Ġparalle l
 r ich
- Ch ot
- Chot a
- Nag pur
- land m
- landm ass
- flank ed
- plate au
- form ations
- Constit uted
- fash ion
- equ at
- equat or
- 4 4
- 3 5
- latitud e
- 6 8
- 9 7
- long itud
- longitud e
+ĠCh ot
+ĠChot a
+ĠNag pur
+Ġland m
+Ġlandm ass
+Ġflank ed
+Ġplate au
+Ġform ations
+ĠConstit uted
+Ġfash ion
+Ġequ at
+Ġequat or
+Ġ4 4
+Ġ3 5
+Ġlatitud e
+Ġ6 8
+Ġ9 7
+Ġlong itud
+Ġlongitud e
 M ajor
 or ig
 orig in
- I mp
- Imp ortant
- t ribut
- tribut aries
- Y am
- Yam un
- Yamun a
+ĠI mp
+ĠImp ortant
+Ġt ribut
+Ġtribut aries
+ĠY am
+ĠYam un
+ĠYamun a
 ter m
- sil t
- dep os
- depos ition
- lead s
- sever e
- flood s
- cour se
- M ajor
- ste ep
- steep er
- gradient s
- w at
- wat ers
- flood ing
- G od
- God av
- Godav ari
- Mah ana
- Mahana di
- Nar m
- Narm ada
- T ap
- Tap ti
- meas ures
+Ġsil t
+Ġdep os
+Ġdepos ition
+Ġlead s
+Ġsever e
+Ġflood s
+Ġcour se
+ĠM ajor
+Ġste ep
+Ġsteep er
+Ġgradient s
+Ġw at
+Ġwat ers
+Ġflood ing
+ĠG od
+ĠGod av
+ĠGodav ari
+ĠMah ana
+ĠMahana di
+ĠNar m
+ĠNarm ada
+ĠT ap
+ĠTap ti
+Ġmeas ures
 7 00
- dist ance
+Ġdist ance
 42 3
 0 94
 3 00
- is land
- n aval
- hy d
- hyd ro
- hydro g
- hydrog raph
- hydrograph ic
- char ts
- main land
- s andy
- be ac
- beac hes
- c li
- cli ff
- cliff s
- 4 6
- m ud
- mud f
- mudf l
- mudfl ats
- C o
- Co ast
- Coast al
- R ann
- K ut
- Kut ch
- al lu
- allu v
- alluv ial
- d el
- del ta
- arch ip
- archip elag
- archipelag os
- at ol
- atol ls
- volcan ic
- ch ain
- panoram ic
- G arh
- Garh w
- Garhw al
- K um
- Kum a
- Kuma on
- P eak
- Peak s
- surround ings
- Tr is
- Tris ul
- entire ly
- K ot
- mount ains
- do es
+Ġis land
+Ġn aval
+Ġhy d
+Ġhyd ro
+Ġhydro g
+Ġhydrog raph
+Ġhydrograph ic
+Ġchar ts
+Ġmain land
+Ġs andy
+Ġbe ac
+Ġbeac hes
+Ġc li
+Ġcli ff
+Ġcliff s
+Ġ4 6
+Ġm ud
+Ġmud f
+Ġmudf l
+Ġmudfl ats
+ĠC o
+ĠCo ast
+ĠCoast al
+ĠR ann
+ĠK ut
+ĠKut ch
+Ġal lu
+Ġallu v
+Ġalluv ial
+Ġd el
+Ġdel ta
+Ġarch ip
+Ġarchip elag
+Ġarchipelag os
+Ġat ol
+Ġatol ls
+Ġvolcan ic
+Ġch ain
+Ġpanoram ic
+ĠG arh
+ĠGarh w
+ĠGarhw al
+ĠK um
+ĠKum a
+ĠKuma on
+ĠP eak
+ĠPeak s
+Ġsurround ings
+ĠTr is
+ĠTris ul
+Ġentire ly
+ĠK ot
+Ġmount ains
+Ġdo es
 Y arlung
- s uture
- cont our
- we ld
- weld ed
- M ount
- K ail
- Kail ash
- L ake
- Man as
- Manas aro
- Manasaro v
- Manasarov ar
- Tr ans
+Ġs uture
+Ġcont our
+Ġwe ld
+Ġweld ed
+ĠM ount
+ĠK ail
+ĠKail ash
+ĠL ake
+ĠMan as
+ĠManas aro
+ĠManasaro v
+ĠManasarov ar
+ĠTr ans
 H imalay
 Himalay a
 s ac
 sac red
- m yth
- myth ology
+Ġm yth
+Ġmyth ology
 li e
- Y arlung
- T s
- Ts ang
- Tsang p
- Tsangp o
- mar k
- lim its
- Himalay a
- l ake
- T ung
- Tung abh
- Tungabh adra
- out c
- outc rop
- outcrop s
- flow s
+ĠY arlung
+ĠT s
+ĠTs ang
+ĠTsang p
+ĠTsangp o
+Ġmar k
+Ġlim its
+ĠHimalay a
+Ġl ake
+ĠT ung
+ĠTung abh
+ĠTungabh adra
+Ġout c
+Ġoutc rop
+Ġoutcrop s
+Ġflow s
 B rahm
 Brahm aputra
- Del ta
- S ent
- Sent in
- Sentin el
- im age
- m ang
- mang ro
- mangro ve
- be ach
- Have l
- Havel ock
- Isl and
+ĠDel ta
+ĠS ent
+ĠSent in
+ĠSentin el
+Ġim age
+Ġm ang
+Ġmang ro
+Ġmangro ve
+Ġbe ach
+ĠHave l
+ĠHavel ock
+ĠIsl and
 C limate
- clim ate
- dri ve
- econom ically
- cult ur
- cultur ally
- p iv
- piv ot
- pivot al
- win ter
- mon so
- monso ons
- col d
- k at
- kat ab
- katab atic
- b lowing
- k e
- ke ep
- keep ing
- war mer
- l oc
- loc ations
- latitud es
- play s
- attract ing
- moist ure
+Ġclim ate
+Ġdri ve
+Ġeconom ically
+Ġcult ur
+Ġcultur ally
+Ġp iv
+Ġpiv ot
+Ġpivot al
+Ġwin ter
+Ġmon so
+Ġmonso ons
+Ġcol d
+Ġk at
+Ġkat ab
+Ġkatab atic
+Ġb lowing
+Ġk e
+Ġke ep
+Ġkeep ing
+Ġwar mer
+Ġl oc
+Ġloc ations
+Ġlatitud es
+Ġplay s
+Ġattract ing
+Ġmoist ure
 lad en
- mon soon
- prov ide
- ra in
- rain f
- rainf all
+Ġmon soon
+Ġprov ide
+Ġra in
+Ġrain f
+Ġrainf all
 F our
- group ings
- predomin ate
- sub t
- subt ropical
- hum id
- mon t
- mont an
- montan e
- Temp er
- Temper atures
- r isen
- 19 01
- C limate
- ch ange
- ret reat
- g l
- gl ac
- glac i
- glaci ers
- ad verse
- adverse ly
- aff ected
- curren t
- proj ections
- sever ity
- d rough
- drough ts
- w ill
- marked ly
- b lo
- blo om
- m ist
- South west
- M all
- Mall al
- Mallal li
- F alls
- H ass
- Hass an
- d rom
- drom ed
- dromed ary
- d es
- des ert
+Ġgroup ings
+Ġpredomin ate
+Ġsub t
+Ġsubt ropical
+Ġhum id
+Ġmon t
+Ġmont an
+Ġmontan e
+ĠTemp er
+ĠTemper atures
+Ġr isen
+Ġ19 01
+ĠC limate
+Ġch ange
+Ġret reat
+Ġg l
+Ġgl ac
+Ġglac i
+Ġglaci ers
+Ġad verse
+Ġadverse ly
+Ġaff ected
+Ġcurren t
+Ġproj ections
+Ġsever ity
+Ġd rough
+Ġdrough ts
+Ġw ill
+Ġmarked ly
+Ġb lo
+Ġblo om
+Ġm ist
+ĠSouth west
+ĠM all
+ĠMall al
+ĠMallal li
+ĠF alls
+ĠH ass
+ĠHass an
+Ġd rom
+Ġdrom ed
+Ġdromed ary
+Ġd es
+Ġdes ert
 N ew
- s n
- sn ow
- B as
- Bas p
- Basp a
- Sang la
- H imachal
- h ost
- bi ological
- b ird
- reptil e
- amphi bian
- F ul
- Ful ly
- over l
- overl aps
- occup y
- Mo der
- Moder ately
- can op
- canop y
- d ens
- dens ity
- occup ies
+Ġs n
+Ġsn ow
+ĠB as
+ĠBas p
+ĠBasp a
+ĠSang la
+ĠH imachal
+Ġh ost
+Ġbi ological
+Ġb ird
+Ġreptil e
+Ġamphi bian
+ĠF ul
+ĠFul ly
+Ġover l
+Ġoverl aps
+Ġoccup y
+ĠMo der
+ĠModer ately
+Ġcan op
+Ġcanop y
+Ġd ens
+Ġdens ity
+Ġoccup ies
 3 9
- predomin ates
- temp er
- temper ate
- con if
- conif erous
- te ak
- nat ural
- z ones
- ir rig
- irrig ation
- vis ible
- t re
- tre es
- a string
- astring ent
- A z
- Az a
- Aza di
- Azadi ra
- Azadira ch
- Azadirach ta
- in dic
- indic a
- ne em
- her bal
- medic ine
- l u
- lu x
- lux ur
- luxur iant
- F ic
- Fic us
- religi osa
- pe ep
- peep ul
- display ed
- P ali
- can on
- s ought
- en l
- enl igh
- enligh ten
- enlighten ment
+Ġpredomin ates
+Ġtemp er
+Ġtemper ate
+Ġcon if
+Ġconif erous
+Ġte ak
+Ġnat ural
+Ġz ones
+Ġir rig
+Ġirrig ation
+Ġvis ible
+Ġt re
+Ġtre es
+Ġa string
+Ġastring ent
+ĠA z
+ĠAz a
+ĠAza di
+ĠAzadi ra
+ĠAzadira ch
+ĠAzadirach ta
+Ġin dic
+Ġindic a
+Ġne em
+Ġher bal
+Ġmedic ine
+Ġl u
+Ġlu x
+Ġlux ur
+Ġluxur iant
+ĠF ic
+ĠFic us
+Ġreligi osa
+Ġpe ep
+Ġpeep ul
+Ġdisplay ed
+ĠP ali
+Ġcan on
+Ġs ought
+Ġen l
+Ġenl igh
+Ġenligh ten
+Ġenlighten ment
 M any
- desc end
- descend ed
- sep ar
- separ ated
- coll ision
- m ass
- volcan ism
- extin c
- extinc tion
- ent ered
- z oo
- zoo ge
- zooge ograph
- zoogeograph ic
- pass es
- flank ing
- lower ed
- st ands
- contra st
- contrast ing
- 4 5
- reptil es
- amphi b
- amphib ians
- endem ics
- h ood
- hood ed
- le af
- mon k
- monk ey
- B edd
- Bedd ome
- to ad
- 17 2
- I U
- IU C
- IUC N
+Ġdesc end
+Ġdescend ed
+Ġsep ar
+Ġsepar ated
+Ġcoll ision
+Ġm ass
+Ġvolcan ism
+Ġextin c
+Ġextinc tion
+Ġent ered
+Ġz oo
+Ġzoo ge
+Ġzooge ograph
+Ġzoogeograph ic
+Ġpass es
+Ġflank ing
+Ġlower ed
+Ġst ands
+Ġcontra st
+Ġcontrast ing
+Ġ4 5
+Ġreptil es
+Ġamphi b
+Ġamphib ians
+Ġendem ics
+Ġh ood
+Ġhood ed
+Ġle af
+Ġmon k
+Ġmonk ey
+ĠB edd
+ĠBedd ome
+Ġto ad
+Ġ17 2
+ĠI U
+ĠIU C
+ĠIUC N
 des ign
 design ated
- tig er
- d ol
- dol ph
- dolph in
- C rit
- Crit ically
- g har
- ghar ial
- crocodi li
- crocodili an
- b ust
- bust ard
- wh ite
+Ġtig er
+Ġd ol
+Ġdol ph
+Ġdolph in
+ĠC rit
+ĠCrit ically
+Ġg har
+Ġghar ial
+Ġcrocodi li
+Ġcrocodili an
+Ġb ust
+Ġbust ard
+Ġwh ite
 r um
 rum ped
- v ulture
- in ge
- inge sted
- car r
- carr ion
- di c
- dic lo
- diclo f
- diclof en
- diclofen ac
+Ġv ulture
+Ġin ge
+Ġinge sted
+Ġcar r
+Ġcarr ion
+Ġdi c
+Ġdic lo
+Ġdiclo f
+Ġdiclof en
+Ġdiclofen ac
 tre ated
- B ef
- Bef ore
- m ing
- ming led
- inter v
- interv als
- gr ass
- grass lands
- gra zed
- her ds
- pre y
- prey ed
- As i
- Asi atic
- per vasive
- e c
- ec olog
- ecolog ically
- devast ating
- en c
- enc ro
- encro ach
- encroach ment
- crit ically
- par ks
- exp anded
- W ild
- Wild life
- Pro t
- Prot ection
- Pro ject
- T ig
- Tig er
- w il
- wil dern
- wildern ess
- Fore st
- Con s
- Cons erv
- Conserv ation
- 198 8
- h osts
- h und
- hund red
- s an
- san ct
- sanct u
- sanctu aries
- eight e
- eighte en
- bi osphere
- res erves
- Bi osphere
- R es
- Res erves
- e igh
- eigh ty
+ĠB ef
+ĠBef ore
+Ġm ing
+Ġming led
+Ġinter v
+Ġinterv als
+Ġgr ass
+Ġgrass lands
+Ġgra zed
+Ġher ds
+Ġpre y
+Ġprey ed
+ĠAs i
+ĠAsi atic
+Ġper vasive
+Ġe c
+Ġec olog
+Ġecolog ically
+Ġdevast ating
+Ġen c
+Ġenc ro
+Ġencro ach
+Ġencroach ment
+Ġcrit ically
+Ġpar ks
+Ġexp anded
+ĠW ild
+ĠWild life
+ĠPro t
+ĠProt ection
+ĠPro ject
+ĠT ig
+ĠTig er
+Ġw il
+Ġwil dern
+Ġwildern ess
+ĠFore st
+ĠCon s
+ĠCons erv
+ĠConserv ation
+Ġ198 8
+Ġh osts
+Ġh und
+Ġhund red
+Ġs an
+Ġsan ct
+Ġsanct u
+Ġsanctu aries
+Ġeight e
+Ġeighte en
+Ġbi osphere
+Ġres erves
+ĠBi osphere
+ĠR es
+ĠRes erves
+Ġe igh
+Ġeigh ty
 n ine
- wet lands
- regist ered
- Ram sar
- Con vention
- A tt
- Att ac
- Attac us
- t ap
- tap ro
- tapro ban
- taproban is
- mo th
- K ad
- Kad av
- Kadav oor
- tig ers
+Ġwet lands
+Ġregist ered
+ĠRam sar
+ĠCon vention
+ĠA tt
+ĠAtt ac
+ĠAttac us
+Ġt ap
+Ġtap ro
+Ġtapro ban
+Ġtaproban is
+Ġmo th
+ĠK ad
+ĠKad av
+ĠKadav oor
+Ġtig ers
 17 0
- pur ple
- s un
- sun b
- sunb ird
- per ched
- J im
- C orb
- Corb ett
- Uttar akhand
- Cre sted
- h aw
- haw k
+Ġpur ple
+Ġs un
+Ġsun b
+Ġsunb ird
+Ġper ched
+ĠJ im
+ĠC orb
+ĠCorb ett
+ĠUttar akhand
+ĠCre sted
+Ġh aw
+Ġhaw k
 e ag
 eag le
- l iz
- liz ard
- Madh ya
+Ġl iz
+Ġliz ard
+ĠMadh ya
 S al
 Sal t
 Salt w
 Saltw at
 Saltwat er
- crocodi le
- polit ics
+Ġcrocodi le
+Ġpolit ics
 p arty
- recogn ised
+Ġrecogn ised
 gen erally
- Bhar ati
- Bharati ya
+ĠBhar ati
+ĠBharati ya
 B JP
 ) ;
- consid ered
- ide ological
+Ġconsid ered
+Ġide ological
 ri gh
 righ t
- A u
- Au g
- Aug ust
- D omin
- Domin ion
- ca ret
- caret ak
- caretak er
- 195 7
- M ay
- L al
- Bah ad
- Bahad ur
- un an
- unan im
- unanim ously
- th us
+ĠA u
+ĠAu g
+ĠAug ust
+ĠD omin
+ĠDomin ion
+Ġca ret
+Ġcaret ak
+Ġcaretak er
+Ġ195 7
+ĠM ay
+ĠL al
+ĠBah ad
+ĠBahad ur
+Ġun an
+Ġunan im
+Ġunanim ously
+Ġth us
 P akistan
- 196 6
- sign ing
- T ash
- Tash k
- Tashk ent
- P e
- Pe ace
- Dec l
- Decl ar
- Declar ation
- land sl
- landsl ide
- defe at
- L iber
- Liber ation
- 197 5
- emerg ency
- s us
- sus p
- susp ending
- liber t
- libert ies
- dis con
- discon t
- discont ent
- 197 7
- oppos ed
- M or
- Mor ar
- Morar j
- Morarj i
- Des ai
- Ch aran
- op eration
- mil it
- milit ants
- occup ying
- body guard
- suc ce
- succe ed
- succeed ed
- vict ory
- 198 9
- L ef
- Lef t
- Chand ra
- She k
- Shek har
- r ound
- poll ing
- separat ist
- se ek
- seek ing
- a ven
- aven ge
- Nar as
- Naras im
- Narasim h
- Narasimh a
- Ra o
- min ority
- f ul
- ful l
- 199 6
- re lied
- De ve
- G ow
- Gow d
- Gowd a
- Guj ral
- ser ving
- A tal
- Bihar i
+Ġ196 6
+Ġsign ing
+ĠT ash
+ĠTash k
+ĠTashk ent
+ĠP e
+ĠPe ace
+ĠDec l
+ĠDecl ar
+ĠDeclar ation
+Ġland sl
+Ġlandsl ide
+Ġdefe at
+ĠL iber
+ĠLiber ation
+Ġ197 5
+Ġemerg ency
+Ġs us
+Ġsus p
+Ġsusp ending
+Ġliber t
+Ġlibert ies
+Ġdis con
+Ġdiscon t
+Ġdiscont ent
+Ġ197 7
+Ġoppos ed
+ĠM or
+ĠMor ar
+ĠMorar j
+ĠMorarj i
+ĠDes ai
+ĠCh aran
+Ġop eration
+Ġmil it
+Ġmilit ants
+Ġoccup ying
+Ġbody guard
+Ġsuc ce
+Ġsucce ed
+Ġsucceed ed
+Ġvict ory
+Ġ198 9
+ĠL ef
+ĠLef t
+ĠChand ra
+ĠShe k
+ĠShek har
+Ġr ound
+Ġpoll ing
+Ġseparat ist
+Ġse ek
+Ġseek ing
+Ġa ven
+Ġaven ge
+ĠNar as
+ĠNaras im
+ĠNarasim h
+ĠNarasimh a
+ĠRa o
+Ġmin ority
+Ġf ul
+Ġful l
+Ġ199 6
+Ġre lied
+ĠDe ve
+ĠG ow
+ĠGow d
+ĠGowd a
+ĠGuj ral
+Ġser ving
+ĠA tal
+ĠBihar i
 li ved
- l ack
- mand ate
- El ections
+Ġl ack
+Ġmand ate
+ĠEl ections
 N DA
- comple te
- 200 4
- Pro g
- Prog ressive
+Ġcomple te
+Ġ200 4
+ĠPro g
+ĠProg ressive
 U PA
- Man m
- Manm o
- Manmo han
- prop os
- propos ed
- S on
- Son ia
+ĠMan m
+ĠManm o
+ĠManmo han
+Ġprop os
+Ġpropos ed
+ĠS on
+ĠSon ia
 el ected
- 201 4
- Na ren
- Naren dra
- abs ol
- absol ute
- l os
- los ing
- part n
- partn ers
- l on
- lon ge
- longe st
+Ġ201 4
+ĠNa ren
+ĠNaren dra
+Ġabs ol
+Ġabsol ute
+Ġl os
+Ġlos ing
+Ġpart n
+Ġpartn ers
+Ġl on
+Ġlon ge
+Ġlonge st
 ser ving
- back sl
- backsl id
- backslid ing
- Democ racy
- Rep ort
- dra f
- draf ted
- spe ed
- abs ence
- ir reg
- irreg ular
- irregular ities
- 194 6
- L ong
- pass ages
- desc rib
- describ es
- st ruc
- struc ture
- cons pic
- conspic uous
- exc lus
- exclus ively
- exerc ised
- def ence
- p orts
- reser ve
- p ow
- pow ers
- tak ing
- L ok
- Raj ya
- nomin ated
- represent atives
- defin ition
- direct ives
- g o
- go als
- end e
- ende av
- endeav or
- I re
- Ire land
- rec om
- recom mend
- recommend ed
- pan ch
- panch ay
- panchay at
- committ ees
- Un touchability
-  il
- il leg
- illeg al
+Ġback sl
+Ġbacksl id
+Ġbackslid ing
+ĠDemoc racy
+ĠRep ort
+Ġdra f
+Ġdraf ted
+Ġspe ed
+Ġabs ence
+Ġir reg
+Ġirreg ular
+Ġirregular ities
+Ġ194 6
+ĠL ong
+Ġpass ages
+Ġdesc rib
+Ġdescrib es
+Ġst ruc
+Ġstruc ture
+Ġcons pic
+Ġconspic uous
+Ġexc lus
+Ġexclus ively
+Ġexerc ised
+Ġdef ence
+Ġp orts
+Ġreser ve
+Ġp ow
+Ġpow ers
+Ġtak ing
+ĠL ok
+ĠRaj ya
+Ġnomin ated
+Ġrepresent atives
+Ġdefin ition
+Ġdirect ives
+Ġg o
+Ġgo als
+Ġend e
+Ġende av
+Ġendeav or
+ĠI re
+ĠIre land
+Ġrec om
+Ġrecom mend
+Ġrecommend ed
+Ġpan ch
+Ġpanch ay
+Ġpanchay at
+Ġcommitt ees
+ĠUn touchability
+Ġ il
+Ġil leg
+Ġilleg al
 Artic le
- dist inc
- distinc tions
- der ec
- derec og
- derecog ni
- derecogni zed
+Ġdist inc
+Ġdistinc tions
+Ġder ec
+Ġderec og
+Ġderecog ni
+Ġderecogni zed
 Artic les
 ) ).
- prom ul
- promul g
- promulg ation
- exerc ises
- A pp
- App oin
- Appoin ted
- v ice
+Ġprom ul
+Ġpromul g
+Ġpromulg ation
+Ġexerc ises
+ĠA pp
+ĠApp oin
+ĠAppoin ted
+Ġv ice
 p resident
- C oun
- Coun cil
- M inist
- Minist ers
+ĠC oun
+ĠCoun cil
+ĠM inist
+ĠMinist ers
 w ith
- c ab
- cab in
- cabin et
- committ ee
+Ġc ab
+Ġcab in
+Ġcabin et
+Ġcommitt ee
 head ed
- An y
- h old
- hold ing
- port f
- portf oli
- portfoli o
- m ust
- sub ord
- subord in
- subordin ate
- coun cil
- resp ons
- respons ible
- serv ants
- a ct
- per m
- perm an
- perman ent
- execut ives
- decis ions
- imp lement
- implement ed
+ĠAn y
+Ġh old
+Ġhold ing
+Ġport f
+Ġportf oli
+Ġportfoli o
+Ġm ust
+Ġsub ord
+Ġsubord in
+Ġsubordin ate
+Ġcoun cil
+Ġresp ons
+Ġrespons ible
+Ġserv ants
+Ġa ct
+Ġper m
+Ġperm an
+Ġperman ent
+Ġexecut ives
+Ġdecis ions
+Ġimp lement
+Ġimplement ed
 ti er
- j u
- ju di
- judi ci
- judici ary
- head ed
- Ch i
- Chi ef
- J ust
- Just ice
- t rial
- c as
- cas es
- app ell
- appell ate
- st ri
- stri ke
- contra vene
- in val
- inval id
- invalid ate
- de em
- deem s
- un con
- uncon stitution
- unconstitution al
+Ġj u
+Ġju di
+Ġjudi ci
+Ġjudici ary
+Ġhead ed
+ĠCh i
+ĠChi ef
+ĠJ ust
+ĠJust ice
+Ġt rial
+Ġc as
+Ġcas es
+Ġapp ell
+Ġappell ate
+Ġst ri
+Ġstri ke
+Ġcontra vene
+Ġin val
+Ġinval id
+Ġinvalid ate
+Ġde em
+Ġdeem s
+Ġun con
+Ġuncon stitution
+Ġunconstitution al
 A d
 Ad minist
 Administ rative
- div is
- divis ions
- legisl atures
- West min
- Westmin st
- Westminst er
- appoin ted
- administ rat
- administrat ors
- 195 6
- Re organ
- Reorgan isation
- re organ
- reorgan ised
- ling u
- lingu istic
- bas is
- qu ar
- quar ter
- dist ric
- distric t
- bl ock
+Ġdiv is
+Ġdivis ions
+Ġlegisl atures
+ĠWest min
+ĠWestmin st
+ĠWestminst er
+Ġappoin ted
+Ġadminist rat
+Ġadministrat ors
+Ġ195 6
+ĠRe organ
+ĠReorgan isation
+Ġre organ
+Ġreorgan ised
+Ġling u
+Ġlingu istic
+Ġbas is
+Ġqu ar
+Ġquar ter
+Ġdist ric
+Ġdistric t
+Ġbl ock
 S t
 St ates
 An dh
@@ -7667,797 +7667,797 @@ C han
 Chan di
 Chandi garh
 D adra
- Nag ar
- Have li
- D aman
- D i
- Di u
+ĠNag ar
+ĠHave li
+ĠD aman
+ĠD i
+ĠDi u
 J ammu
 L ad
 Lad akh
 L akshadweep
 N ational
 P uducherry
- N ations
- dec ol
- decol on
- decolon isation
+ĠN ations
+Ġdec ol
+Ġdecol on
+Ġdecolon isation
 Al ign
 Align ed
- Mo vement
- cor di
- cordi al
- decis ively
- f end
- exc ur
- excur s
- excurs ions
- un eas
- uneas y
- neighb our
- Th ree
- f ought
- disput ed
- territ ory
- pur s
- purs ue
- t ies
- supp li
- suppli er
- 5 9
- 59 6
- threat s
- inter vene
- 197 4
- car ri
- carri ed
- under ground
- test ing
- ne ither
- Comp re
- Compre hen
- Comprehen s
- Comprehens ive
+ĠMo vement
+Ġcor di
+Ġcordi al
+Ġdecis ively
+Ġf end
+Ġexc ur
+Ġexcur s
+Ġexcurs ions
+Ġun eas
+Ġuneas y
+Ġneighb our
+ĠTh ree
+Ġf ought
+Ġdisput ed
+Ġterrit ory
+Ġpur s
+Ġpurs ue
+Ġt ies
+Ġsupp li
+Ġsuppli er
+Ġ5 9
+Ġ59 6
+Ġthreat s
+Ġinter vene
+Ġ197 4
+Ġcar ri
+Ġcarri ed
+Ġunder ground
+Ġtest ing
+Ġne ither
+ĠComp re
+ĠCompre hen
+ĠComprehen s
+ĠComprehens ive
 T est
 B an
- n or
- consid ering
- fl aw
- flaw ed
- discrimin atory
- maint ains
- develop ing
- t ri
- tri ad
- cap ability
- M in
- Min im
- Minim um
- Cre di
- Credi ble
- D eter
- Deter ren
- Deterren ce
- doc tr
- doctr ine
+Ġn or
+Ġconsid ering
+Ġfl aw
+Ġflaw ed
+Ġdiscrimin atory
+Ġmaint ains
+Ġdevelop ing
+Ġt ri
+Ġtri ad
+Ġcap ability
+ĠM in
+ĠMin im
+ĠMinim um
+ĠCre di
+ĠCredi ble
+ĠD eter
+ĠDeter ren
+ĠDeterren ce
+Ġdoc tr
+Ġdoctr ine
 S ince
- C old
- str ate
- strate g
- strateg ic
- co operation
- agree ment
- p oss
- poss ess
- possess ed
- rece ived
- w ai
- wai vers
- A tom
- Atom ic
- En ergy
- S upp
- Supp li
- Suppli ers
- G r
- Gr oup
- earli er
- rest ric
- restric tions
- agree ments
- R us
- Rus sia
- F r
- Fr ance
- K ing
- King d
- Kingd om
- Can ada
- g ross
+ĠC old
+Ġstr ate
+Ġstrate g
+Ġstrateg ic
+Ġco operation
+Ġagree ment
+Ġp oss
+Ġposs ess
+Ġpossess ed
+Ġrece ived
+Ġw ai
+Ġwai vers
+ĠA tom
+ĠAtom ic
+ĠEn ergy
+ĠS upp
+ĠSupp li
+ĠSuppli ers
+ĠG r
+ĠGr oup
+Ġearli er
+Ġrest ric
+Ġrestric tions
+Ġagree ments
+ĠR us
+ĠRus sia
+ĠF r
+ĠFr ance
+ĠK ing
+ĠKing d
+ĠKingd om
+ĠCan ada
+Ġg ross
 G DP
- pl aced
- M eas
- Meas ured
- pur ch
- purch as
- purchas ing
- par ity
+Ġpl aced
+ĠM eas
+ĠMeas ured
+Ġpur ch
+Ġpurch as
+Ġpurchas ing
+Ġpar ity
 PP P
- fast est
- exce ed
- exceed ing
- 199 0
- Dem ographics
- st ra
- stra in
- maint ain
- maintain ing
- region ally
- meas ured
- glo b
- glob ally
+Ġfast est
+Ġexce ed
+Ġexceed ing
+Ġ199 0
+ĠDem ographics
+Ġst ra
+Ġstra in
+Ġmaint ain
+Ġmaintain ing
+Ġregion ally
+Ġmeas ured
+Ġglo b
+Ġglob ally
 inc ome
- d ai
- dai ly
+Ġd ai
+Ġdai ly
 Un til
- prot ection
- protection ist
- social ist
- econom ics
- W idespread
- reg ul
- regul ation
- w alled
- out side
- ac ute
- bal ance
- p ay
- pay ments
- cr is
- cris is
- for ced
- liberal ise
- mo ved
- to wards
- f ree
+Ġprot ection
+Ġprotection ist
+Ġsocial ist
+Ġeconom ics
+ĠW idespread
+Ġreg ul
+Ġregul ation
+Ġw alled
+Ġout side
+Ġac ute
+Ġbal ance
+Ġp ay
+Ġpay ments
+Ġcr is
+Ġcris is
+Ġfor ced
+Ġliberal ise
+Ġmo ved
+Ġto wards
+Ġf ree
 mar ket
- emphas ising
- in ve
- inve st
- invest ment
- inf lows
- T rad
- Trad e
- 199 5
- 5 22
+Ġemphas ising
+Ġin ve
+Ġinve st
+Ġinvest ment
+Ġinf lows
+ĠT rad
+ĠTrad e
+Ġ199 5
+Ġ5 22
 m illion
 work er
- lab our
- for ce
- re mitt
- remitt ances
- work ing
- 200 6
- st ood
+Ġlab our
+Ġfor ce
+Ġre mitt
+Ġremitt ances
+Ġwork ing
+Ġ200 6
+Ġst ood
 % ;
- imp orter
- six te
- sixte ent
- sixteent h
- B etween
- cont rib
- contrib ution
- pet roc
- petroc he
- petroche m
- petrochem ical
- textil e
- calend ar
+Ġimp orter
+Ġsix te
+Ġsixte ent
+Ġsixteent h
+ĠB etween
+Ġcont rib
+Ġcontrib ution
+Ġpet roc
+Ġpetroc he
+Ġpetroche m
+Ġpetrochem ical
+Ġtextil e
+Ġcalend ar
 A ver
 Aver ag
 Averag ing
- d ou
- dou b
- doub led
- h our
- hour ly
- w age
- 43 1
- proj ected
- 5 80
- 20 30
- consum er
- st ea
- stea di
- steadi ly
+Ġd ou
+Ġdou b
+Ġdoub led
+Ġh our
+Ġhour ly
+Ġw age
+Ġ43 1
+Ġproj ected
+Ġ5 80
+Ġ20 30
+Ġconsum er
+Ġst ea
+Ġstea di
+Ġsteadi ly
 30 8
 3 80
 7 3
 73 1
- exp ected
+Ġexp ected
 2 64
- wom an
- ra di
- radi sh
- fore ground
- N il
- Nil g
- Nilg ir
- Nilgir is
- s our
- sour ced
- far ms
- her d
- har ve
- harve sted
- h and
- milk ing
+Ġwom an
+Ġra di
+Ġradi sh
+Ġfore ground
+ĠN il
+ĠNil g
+ĠNilg ir
+ĠNilgir is
+Ġs our
+Ġsour ced
+Ġfar ms
+Ġher d
+Ġhar ve
+Ġharve sted
+Ġh and
+Ġmilk ing
 In dust
 Indust ries
- aut om
- autom ot
- automot ive
+Ġaut om
+Ġautom ot
+Ġautomot ive
 fast est
- s ales
+Ġs ales
 201 0
 200 9
- ve h
- veh ic
- vehic le
- sur passing
- J ap
- Jap an
- I T
- pro f
- prof ess
- profess ion
- profession als
- equ all
- equall ing
- merch an
- merchan di
- merchandi se
- manufact uring
- un its
- gener ic
- medic ines
- suppl ies
+Ġve h
+Ġveh ic
+Ġvehic le
+Ġsur passing
+ĠJ ap
+ĠJap an
+ĠI T
+Ġpro f
+Ġprof ess
+Ġprofess ion
+Ġprofession als
+Ġequ all
+Ġequall ing
+Ġmerch an
+Ġmerchan di
+Ġmerchandi se
+Ġmanufact uring
+Ġun its
+Ġgener ic
+Ġmedic ines
+Ġsuppl ies
 6 0
- v ac
- vac c
- vacc ines
- dem and
- contribut ing
+Ġv ac
+Ġvac c
+Ġvacc ines
+Ġdem and
+Ġcontribut ing
 4 4
- dest in
- destin ations
- 201 2
+Ġdest in
+Ġdestin ations
+Ġ201 2
 201 3
- 20 4
- r up
- rup ees
- 2 35
+Ġ20 4
+Ġr up
+Ġrup ees
+Ġ2 35
 U S
- cap ac
- capac ity
- gener ate
- elect rical
- us age
- e mit
- emit s
- equ ates
- t ons
- car b
- carb on
- di o
- dio x
- diox ide
- pers on
- elect ric
- electric ity
- cle an
- l iqu
- liqu ef
- liquef ied
- pet rol
- petrol e
- petrole um
- pri or
- prior ities
+Ġcap ac
+Ġcapac ity
+Ġgener ate
+Ġelect rical
+Ġus age
+Ġe mit
+Ġemit s
+Ġequ ates
+Ġt ons
+Ġcar b
+Ġcarb on
+Ġdi o
+Ġdio x
+Ġdiox ide
+Ġpers on
+Ġelect ric
+Ġelectric ity
+Ġcle an
+Ġl iqu
+Ġliqu ef
+Ġliquef ied
+Ġpet rol
+Ġpetrol e
+Ġpetrole um
+Ġpri or
+Ġprior ities
 M umbai
- ter ti
- terti ary
- fin ance
- t our
- tour ism
- Sh own
- T aj
- Mah al
- Pal ace
- H ot
- Hot el
- G ate
- Gate w
- Gatew ay
- d rin
- drin k
- drink ers
- consum e
- panoram a
- so ft
- soft w
- softw are
- mult in
- multin ational
- cor p
- corp or
- corpor ations
- cent res
- bec ause
- p ool
- s k
- sk illed
- gradu ates
- surround ing
- fish ing
- n et
- ra ised
- K oc
- Koc hi
- F ishing
- supp orts
+Ġter ti
+Ġterti ary
+Ġfin ance
+Ġt our
+Ġtour ism
+ĠSh own
+ĠT aj
+ĠMah al
+ĠPal ace
+ĠH ot
+ĠHot el
+ĠG ate
+ĠGate w
+ĠGatew ay
+Ġd rin
+Ġdrin k
+Ġdrink ers
+Ġconsum e
+Ġpanoram a
+Ġso ft
+Ġsoft w
+Ġsoftw are
+Ġmult in
+Ġmultin ational
+Ġcor p
+Ġcorp or
+Ġcorpor ations
+Ġcent res
+Ġbec ause
+Ġp ool
+Ġs k
+Ġsk illed
+Ġgradu ates
+Ġsurround ing
+Ġfish ing
+Ġn et
+Ġra ised
+ĠK oc
+ĠKoc hi
+ĠF ishing
+Ġsupp orts
 W ith
 42 8
 62 7
 6 63
 21 0
 19 3
- report ed
- prov ision
- provision al
- me dian
- 202 0
- M edic
- Medic al
- ad v
- adv ances
- produc t
- product ivity
- G reen
- Re vol
- Revol ution
- dec en
- decen n
- decenn ial
- comp ared
+Ġreport ed
+Ġprov ision
+Ġprovision al
+Ġme dian
+Ġ202 0
+ĠM edic
+ĠMedic al
+Ġad v
+Ġadv ances
+Ġproduc t
+Ġproduct ivity
+ĠG reen
+ĠRe vol
+ĠRevol ution
+Ġdec en
+Ġdecen n
+Ġdecenn ial
+Ġcomp ared
 5 4
- pre vi
- previ ous
+Ġpre vi
+Ġprevi ous
 19 91
 200 1
- p ost
+Ġp ost
 c ol
 col onial
- coun ted
- 4 9
- 197 0
+Ġcoun ted
+Ġ4 9
+Ġ197 0
 19 75
 f ive
- 11 3
- 199 4
- rati o
- 9 40
- F emale
- inf ant
- infant ic
- infantic ide
- l ately
- l op
+Ġ11 3
+Ġ199 4
+Ġrati o
+Ġ9 40
+ĠF emale
+Ġinf ant
+Ġinfant ic
+Ġinfantic ide
+Ġl ately
+Ġl op
 s ided
- rati os
- m iss
- miss ing
- qu ad
- quad r
- quadr up
- quadrup led
+Ġrati os
+Ġm iss
+Ġmiss ing
+Ġqu ad
+Ġquad r
+Ġquadr up
+Ġquadrup led
 201 4
- fast er
- s ame
- g ir
- gir ls
- un w
- unw anted
- rece ive
- ad equ
- adequ ate
- ca re
- D espite
- b an
+Ġfast er
+Ġs ame
+Ġg ir
+Ġgir ls
+Ġun w
+Ġunw anted
+Ġrece ive
+Ġad equ
+Ġadequ ate
+Ġca re
+ĠD espite
+Ġb an
 sel ect
 select ive
- pract ice
- st op
- stop ped
+Ġpract ice
+Ġst op
+Ġstop ped
 M ig
 Mig ration
- dy nam
- dynam ic
- l ived
+Ġdy nam
+Ġdynam ic
+Ġl ived
 8 1
- s lowing
- over all
- s har
- shar p
- dec line
+Ġs lowing
+Ġover all
+Ġs har
+Ġshar p
+Ġdec line
 pl us
- ag g
- agg l
- aggl om
- agglom er
- agglomer ations
- C hen
- Chen n
- Chenn ai
- Bengal ur
- Bengalur u
- H y
- Hy der
- Hyder abad
- or der
- 188 1
- C ensus
- g ives
- break down
+Ġag g
+Ġagg l
+Ġaggl om
+Ġagglom er
+Ġagglomer ations
+ĠC hen
+ĠChen n
+ĠChenn ai
+ĠBengal ur
+ĠBengalur u
+ĠH y
+ĠHy der
+ĠHyder abad
+Ġor der
+Ġ188 1
+ĠC ensus
+Ġg ives
+Ġbreak down
 The re
- T ai
+ĠT ai
 K ad
 Kad ai
- Andaman ese
- min or
- isol ates
- S ep
- Sep t
- Sept em
- Septem ber
- de b
- deb ate
- oppos ing
- c amp
- camp s
- prot ag
- protag on
- protagon ists
- w anted
- De van
- Devan ag
- Devanag ari
+ĠAndaman ese
+Ġmin or
+Ġisol ates
+ĠS ep
+ĠSep t
+ĠSept em
+ĠSeptem ber
+Ġde b
+Ġdeb ate
+Ġoppos ing
+Ġc amp
+Ġcamp s
+Ġprot ag
+Ġprotag on
+Ġprotagon ists
+Ġw anted
+ĠDe van
+ĠDevan ag
+ĠDevanag ari
 n ational
- pre f
- pref er
- prefer red
+Ġpre f
+Ġpref er
+Ġprefer red
 o fficial
- associ ate
- le x
- lex ic
- lexic on
+Ġassoci ate
+Ġle x
+Ġlex ic
+Ġlexic on
 ii i
 A ra
 Ara b
 Arab ic
- res ol
- resol ution
- artic les
- 34 3
+Ġres ol
+Ġresol ution
+Ġartic les
+Ġ34 3
 35 1
- b it
- bit ter
- oppos ition
- w here
- contin ue
+Ġb it
+Ġbit ter
+Ġoppos ition
+Ġw here
+Ġcontin ue
 ass oci
 associ ate
- ind efin
- indefin ite
- indefinite ly
- E igh
- Eigh th
- S ched
- Sched ule
- recogn ises
- ob l
- obl ig
- oblig ated
+Ġind efin
+Ġindefin ite
+Ġindefinite ly
+ĠE igh
+ĠEigh th
+ĠS ched
+ĠSched ule
+Ġrecogn ises
+Ġob l
+Ġobl ig
+Ġoblig ated
 sc heduled
 s uch
 sp ec
 spec ific
 b ec
 bec ause
- v al
- val ue
- her it
- herit age
- S ind
- Sind hi
+Ġv al
+Ġval ue
+Ġher it
+Ġherit age
+ĠS ind
+ĠSind hi
 19 67
- Manipur i
+ĠManipur i
 199 2
- Ma ith
- Maith ili
- D og
- Dog ri
- Sant ali
- B od
- Bod o
+ĠMa ith
+ĠMaith ili
+ĠD og
+ĠDog ri
+ĠSant ali
+ĠB od
+ĠBod o
 200 4
 l angu
 langu age
- spe ech
+Ġspe ech
 O n
- re verse
- mon ey
- not es
- d en
- den omin
- denomin ation
- list ed
- pan el
- promin ently
- el se
- else where
- character ised
- belief s
- Th rough
- Through out
- birth pl
- birthpl ace
- J ains
- Buddhist s
- ad her
- adher ing
- P ars
- Pars is
- I ran
- Iran is
- Bah á
- F aith
- P ream
- Pream ble
- decla res
- f re
- fre ed
- freed om
- (" ...
- liber ty
- f aith
+Ġre verse
+Ġmon ey
+Ġnot es
+Ġd en
+Ġden omin
+Ġdenomin ation
+Ġlist ed
+Ġpan el
+Ġpromin ently
+Ġel se
+Ġelse where
+Ġcharacter ised
+Ġbelief s
+ĠTh rough
+ĠThrough out
+Ġbirth pl
+Ġbirthpl ace
+ĠJ ains
+ĠBuddhist s
+Ġad her
+Ġadher ing
+ĠP ars
+ĠPars is
+ĠI ran
+ĠIran is
+ĠBah á
+ĠF aith
+ĠP ream
+ĠPream ble
+Ġdecla res
+Ġf re
+Ġfre ed
+Ġfreed om
+Ġ(" ...
+Ġliber ty
+Ġf aith
 . ")
- 7 9
- follow s
- S everal
- D on
- Don y
- Dony i
+Ġ7 9
+Ġfollow s
+ĠS everal
+ĠD on
+ĠDon y
+ĠDony i
 P ol
 Pol o
- San am
- Sanam ah
- Sanamah ism
- Sarn aism
- N i
- Ni am
- Niam tre
+ĠSan am
+ĠSanam ah
+ĠSanamah ism
+ĠSarn aism
+ĠN i
+ĠNi am
+ĠNiam tre
 J ain
- Sh ra
- Shra van
- Shravan ab
- Shravanab elag
- Shravanabelag ol
- Shravanabelagol a
- ex terior
- Jud es
- Ch ur
- Chur ch
- Chin n
- Chinn athur
- Chinnathur ai
- ag i
- agi ary
+ĠSh ra
+ĠShra van
+ĠShravan ab
+ĠShravanab elag
+ĠShravanabelag ol
+ĠShravanabelagol a
+Ġex terior
+ĠJud es
+ĠCh ur
+ĠChur ch
+ĠChin n
+ĠChinn athur
+ĠChinnathur ai
+Ġag i
+Ġagi ary
 In terior
- M ag
- Mag en
- D av
- Dav id
- S y
- Sy n
- Syn ag
- Synag og
- Synagog ue
+ĠM ag
+ĠMag en
+ĠD av
+ĠDav id
+ĠS y
+ĠSy n
+ĠSyn ag
+ĠSynag og
+ĠSynagog ue
 E duc
 Educ ation
 % :
- 6 5
- g ap
- d ropp
- dropp ed
- impro vement
- tw ice
- 9 3
- low est
+Ġ6 5
+Ġg ap
+Ġd ropp
+Ġdropp ed
+Ġimpro vement
+Ġtw ice
+Ġ9 3
+Ġlow est
 8 2
- 198 1
- respect ive
- 19 21
- 18 91
- Lat ika
- Ch a
- Cha ud
- Chaud h
- Chaudh ary
- 19 1
- 191 1
- St at
- Stat ist
- Statist ically
- pri v
- priv ate
- sp ending
- P ri
- Pri mary
- ta ugh
- taugh t
- un i
- uni vers
- univers ities
- hig her
- reser ved
- affirm ative
- dis ad
- disad v
- disadv ant
- disadvant ag
- disadvantag ed
- impro ved
- c ited
- contribut ors
+Ġ198 1
+Ġrespect ive
+Ġ19 21
+Ġ18 91
+ĠLat ika
+ĠCh a
+ĠCha ud
+ĠChaud h
+ĠChaudh ary
+Ġ19 1
+Ġ191 1
+ĠSt at
+ĠStat ist
+ĠStatist ically
+Ġpri v
+Ġpriv ate
+Ġsp ending
+ĠP ri
+ĠPri mary
+Ġta ugh
+Ġtaugh t
+Ġun i
+Ġuni vers
+Ġunivers ities
+Ġhig her
+Ġreser ved
+Ġaffirm ative
+Ġdis ad
+Ġdisad v
+Ġdisadv ant
+Ġdisadvant ag
+Ġdisadvantag ed
+Ġimpro ved
+Ġc ited
+Ġcontribut ors
 Ch ild
 Child ren
- a wa
- awa it
- l un
- lun ch
- R ay
- Ray k
- Rayk a
+Ġa wa
+Ġawa it
+Ġl un
+Ġlun ch
+ĠR ay
+ĠRay k
+ĠRayk a
 al so
- Ra ika
- sal ut
- salut ation
- J ai
- Bh im
- blackb o
- blackbo ard
- hon ours
- jur ist
- ref or
- refor mer
- A mb
- Amb ed
- Ambed k
- Ambedk ar
- Mad r
- Madr as
- Madras ah
- M as
- Mas j
- Masj id
+ĠRa ika
+Ġsal ut
+Ġsalut ation
+ĠJ ai
+ĠBh im
+Ġblackb o
+Ġblackbo ard
+Ġhon ours
+Ġjur ist
+Ġref or
+Ġrefor mer
+ĠA mb
+ĠAmb ed
+ĠAmbed k
+ĠAmbedk ar
+ĠMad r
+ĠMadr as
+ĠMadras ah
+ĠM as
+ĠMas j
+ĠMasj id
 A la
- mo s
- mos que
- Sri r
- Srir ang
- Srirang ap
- Srirangap at
- Srirangapat na
- bu il
- buil t
- 17 8
- 178 6
- T ip
- Tip u
- S ultan
+Ġmo s
+Ġmos que
+ĠSri r
+ĠSrir ang
+ĠSrirang ap
+ĠSrirangap at
+ĠSrirangapat na
+Ġbu il
+Ġbuil t
+Ġ17 8
+Ġ178 6
+ĠT ip
+ĠTip u
+ĠS ultan
 I I
 II T
- R o
- Ro ork
- Roork ee
- Th om
- Thom as
- Thomas on
- Col lege
- Eng ineering
- col lege
- founded in
- 184 7
- tra in
- con struc
- construc tion
- Can al
+ĠR o
+ĠRo ork
+ĠRoork ee
+ĠTh om
+ĠThom as
+ĠThomas on
+ĠCol lege
+ĠEng ineering
+Ġcol lege
+Ġfounded in
+Ġ184 7
+Ġtra in
+Ġcon struc
+Ġconstruc tion
+ĠCan al
 H ealth
- be ars
- dis p
- disp rop
- disprop ortion
- disproportion ately
- b ur
- bur den
- H ealth
+Ġbe ars
+Ġdis p
+Ġdisp rop
+Ġdisprop ortion
+Ġdisproportion ately
+Ġb ur
+Ġbur den
+ĠH ealth
 W HO
- stat ist
- statist ics
- estim ating
- inf ections
- acc ount
- account ing
- car ry
- inf ection
- ch ronic
- obstruc t
- obstruct ive
- p ul
- pul mon
- pulmon ary
- de ath
- he art
- poll uted
- lim it
- qu ality
- rep orts
- me ets
- sa f
- saf ety
- g u
- gu idel
- guidel ines
- lik e
- equ ival
- equival ent
- sm ok
- smok ing
- c ig
- cig are
- cigare tt
- cigarett es
- d ay
- k illed
+Ġstat ist
+Ġstatist ics
+Ġestim ating
+Ġinf ections
+Ġacc ount
+Ġaccount ing
+Ġcar ry
+Ġinf ection
+Ġch ronic
+Ġobstruc t
+Ġobstruct ive
+Ġp ul
+Ġpul mon
+Ġpulmon ary
+Ġde ath
+Ġhe art
+Ġpoll uted
+Ġlim it
+Ġqu ality
+Ġrep orts
+Ġme ets
+Ġsa f
+Ġsaf ety
+Ġg u
+Ġgu idel
+Ġguidel ines
+Ġlik e
+Ġequ ival
+Ġequival ent
+Ġsm ok
+Ġsmok ing
+Ġc ig
+Ġcig are
+Ġcigare tt
+Ġcigarett es
+Ġd ay
+Ġk illed
 S oc
 Soc iet
 Societ y
 Al though
- un iqu
- uniqu ely
- broad ly
- cast es
- varn as
- Brahm in
- pri est
- priest s
- K sh
- Ksh at
- Kshat riya
- Va ish
- Vaish ya
- Sh ud
- Shud ra
- O ut
- Out side
- l ie
+Ġun iqu
+Ġuniqu ely
+Ġbroad ly
+Ġcast es
+Ġvarn as
+ĠBrahm in
+Ġpri est
+Ġpriest s
+ĠK sh
+ĠKsh at
+ĠKshat riya
+ĠVa ish
+ĠVaish ya
+ĠSh ud
+ĠShud ra
+ĠO ut
+ĠOut side
+Ġl ie
 out castes
 un touch
 untouch ables
 des cri
 descri ption
- pri de
+Ġpri de
 b ro
 bro k
 brok en
@@ -8465,274 +8465,274 @@ down t
 downt ro
 downtro d
 downtrod den
- E ach
- div ided
- j at
- jat is
- t ied
- occup ations
- cust om
- end ogamy
- marry ing
- sub cast
- subcast e
- lab el
- occup ational
- ch o
- cho ice
- ent ren
- entren ched
- ab ol
- abol ished
- an ti
+ĠE ach
+Ġdiv ided
+Ġj at
+Ġjat is
+Ġt ied
+Ġoccup ations
+Ġcust om
+Ġend ogamy
+Ġmarry ing
+Ġsub cast
+Ġsubcast e
+Ġlab el
+Ġoccup ational
+Ġch o
+Ġcho ice
+Ġent ren
+Ġentren ched
+Ġab ol
+Ġabol ished
+Ġan ti
 dis crimin
 discrimin atory
- initi atives
+Ġiniti atives
 b ased
- discrimin ation
- se g
- seg reg
- segreg ation
+Ġdiscrimin ation
+Ġse g
+Ġseg reg
+Ġsegreg ation
 M ult
 Mult i
 gen er
 gener ational
- pat r
- patr il
- patril ine
- patriline al
- j oin
- join t
- n orm
- ar r
- arr anged
- e ld
- eld ers
- M ar
- Mar ri
- Marri age
- th ous
- thous and
- re ach
- reach ing
- leg al
- marri age
- marriage able
- more over
- ex ogamy
- ob ser
- obser ved
- marri es
- vis it
- h ome
- r ite
- ra k
- rak sha
- band han
- h om
- hom es
- off er
- rec our
- recour se
- mar ital
- st ress
- trib e
- D and
- Dand ari
- Jain oor
- Tel angana
- pred ates
- syn t
- synt hes
- synthes is
+Ġpat r
+Ġpatr il
+Ġpatril ine
+Ġpatriline al
+Ġj oin
+Ġjoin t
+Ġn orm
+Ġar r
+Ġarr anged
+Ġe ld
+Ġeld ers
+ĠM ar
+ĠMar ri
+ĠMarri age
+Ġth ous
+Ġthous and
+Ġre ach
+Ġreach ing
+Ġleg al
+Ġmarri age
+Ġmarriage able
+Ġmore over
+Ġex ogamy
+Ġob ser
+Ġobser ved
+Ġmarri es
+Ġvis it
+Ġh ome
+Ġr ite
+Ġra k
+Ġrak sha
+Ġband han
+Ġh om
+Ġhom es
+Ġoff er
+Ġrec our
+Ġrecour se
+Ġmar ital
+Ġst ress
+Ġtrib e
+ĠD and
+ĠDand ari
+ĠJain oor
+ĠTel angana
+Ġpred ates
+Ġsyn t
+Ġsynt hes
+Ġsynthes is
 f irst
- Ram nam
- Ramnam i
- S am
- Sam aj
- Dal its
- de ity
- Ram a
- t att
- tatt oo
+ĠRam nam
+ĠRamnam i
+ĠS am
+ĠSam aj
+ĠDal its
+Ġde ity
+ĠRam a
+Ġt att
+Ġtatt oo
 V is
 Vis ual
- exch anged
- great ly
- Th ous
- Thous ands
- civil isation
- P ash
- Pash up
- Pashup ati
- 19 2
- 192 8
+Ġexch anged
+Ġgreat ly
+ĠTh ous
+ĠThous ands
+Ġcivil isation
+ĠP ash
+ĠPash up
+ĠPashup ati
+Ġ19 2
+Ġ192 8
 2 9
- V irt
- Virt ually
- Al m
- Alm ost
- surv iving
- d ur
- dur able
- co ins
- w ood
- l ost
- Maur yan
- distinct ly
- sculpt ing
- inter est
- artic ul
- articul ating
- pre c
- prec ise
- anatom y
- show ing
- sm o
- smo oth
- smooth ly
- f lowing
- express ing
- pr ana
+ĠV irt
+ĠVirt ually
+ĠAl m
+ĠAlm ost
+Ġsurv iving
+Ġd ur
+Ġdur able
+Ġco ins
+Ġw ood
+Ġl ost
+ĠMaur yan
+Ġdistinct ly
+Ġsculpt ing
+Ġinter est
+Ġartic ul
+Ġarticul ating
+Ġpre c
+Ġprec ise
+Ġanatom y
+Ġshow ing
+Ġsm o
+Ġsmo oth
+Ġsmooth ly
+Ġf lowing
+Ġexpress ing
+Ġpr ana
 b reath
- comp lic
- complic ated
- ne ed
- mult ip
- multip le
- head s
- gen ders
- Ar dh
- Ardh an
- Ardhan ar
- Ardhanar ish
- Ardhanarish vara
- Par v
- Parv ati
+Ġcomp lic
+Ġcomplic ated
+Ġne ed
+Ġmult ip
+Ġmultip le
+Ġhead s
+Ġgen ders
+ĠAr dh
+ĠArdh an
+ĠArdhan ar
+ĠArdhanar ish
+ĠArdhanarish vara
+ĠPar v
+ĠParv ati
 M ost
- st up
- stup as
- San ch
- Sanch i
- Sarn ath
- A mar
- Amar av
- Amarav ati
- K ar
- Kar la
- El l
- Ell or
- Ellor a
- sp ite
- m ix
- mix ture
- pre v
- prev ail
- prevail ing
- sculpt ors
- reg ard
- regard ed
- ling ered
- E le
- Ele ph
- Eleph anta
- Ac ross
- form ul
- formul aic
- 8 00
- f ine
- fine ly
- d et
- det ail
- surround s
- stat ues
- B ut
- Pallav a
- Chol a
- dy n
- dyn ast
- dynast ies
- st one
- s ust
- sust ained
- a ch
- ach ie
- achie vement
- bronz es
-  ic
- ic onic
- sy mb
- symb ol
- surv ived
- f ew
- c row
- crow ded
- scen es
- P ain
- Pain ted
- manuscri pts
- surv ive
- on wards
- significant ly
+Ġst up
+Ġstup as
+ĠSan ch
+ĠSanch i
+ĠSarn ath
+ĠA mar
+ĠAmar av
+ĠAmarav ati
+ĠK ar
+ĠKar la
+ĠEl l
+ĠEll or
+ĠEllor a
+Ġsp ite
+Ġm ix
+Ġmix ture
+Ġpre v
+Ġprev ail
+Ġprevail ing
+Ġsculpt ors
+Ġreg ard
+Ġregard ed
+Ġling ered
+ĠE le
+ĠEle ph
+ĠEleph anta
+ĠAc ross
+Ġform ul
+Ġformul aic
+Ġ8 00
+Ġf ine
+Ġfine ly
+Ġd et
+Ġdet ail
+Ġsurround s
+Ġstat ues
+ĠB ut
+ĠPallav a
+ĠChol a
+Ġdy n
+Ġdyn ast
+Ġdynast ies
+Ġst one
+Ġs ust
+Ġsust ained
+Ġa ch
+Ġach ie
+Ġachie vement
+Ġbronz es
+Ġ ic
+Ġic onic
+Ġsy mb
+Ġsymb ol
+Ġsurv ived
+Ġf ew
+Ġc row
+Ġcrow ded
+Ġscen es
+ĠP ain
+ĠPain ted
+Ġmanuscri pts
+Ġsurv ive
+Ġon wards
+Ġsignificant ly
 der ived
- st art
- start ing
- min i
- mini ature
- emphas is
- port ra
- portra its
- rec ording
- pr ince
- prince ly
- ple as
- pleas ures
- vari ety
- small er
- innov ative
- N ih
- Nih â
- Nihâ l
- N ains
- Nains u
- Nainsu kh
- supp lied
- consider able
- che ap
- Kal igh
- Kaligh at
- d one
- C al
- Cal c
- Calc ut
- Calcut ta
- S ch
- Sch ool
- Ar t
- refl ect
- reflect ing
+Ġst art
+Ġstart ing
+Ġmin i
+Ġmini ature
+Ġemphas is
+Ġport ra
+Ġportra its
+Ġrec ording
+Ġpr ince
+Ġprince ly
+Ġple as
+Ġpleas ures
+Ġvari ety
+Ġsmall er
+Ġinnov ative
+ĠN ih
+ĠNih â
+ĠNihâ l
+ĠN ains
+ĠNains u
+ĠNainsu kh
+Ġsupp lied
+Ġconsider able
+Ġche ap
+ĠKal igh
+ĠKaligh at
+Ġd one
+ĠC al
+ĠCal c
+ĠCalc ut
+ĠCalcut ta
+ĠS ch
+ĠSch ool
+ĠAr t
+Ġrefl ect
+Ġreflect ing
 Bh utes
 Bhutes vara
- Yaksh is
- M athur
- Mathur a
+ĠYaksh is
+ĠM athur
+ĠMathur a
 G upta
- K illing
- H orse
- Dem on
- K es
- Kes hi
+ĠK illing
+ĠH orse
+ĠDem on
+ĠK es
+ĠKes hi
 K rishna
- F l
- Fl ut
- Flut ing
- M il
- Mil k
- Milk ma
- Milkma id
- Milkmaid s
- K angra
- 17 75
+ĠF l
+ĠFl ut
+ĠFlut ing
+ĠM il
+ĠMil k
+ĠMilk ma
+ĠMilkma id
+ĠMilkmaid s
+ĠK angra
+Ġ17 75
 17 8
 178 5
 C hol
@@ -8744,715 +8744,715 @@ Mathem atic
 Mathematic s
 S ign
 Sign ificant
-  Ś
- Ś ul
- Śul b
- Śulb a
- S ū
- Sū tr
- Sūtr as
+Ġ Ś
+ĠŚ ul
+ĠŚul b
+ĠŚulb a
+ĠS ū
+ĠSū tr
+ĠSūtr as
 lit erally
 A ph
 Aph or
 Aphor ism
 Aphorism s
- Ch ord
- Chord s
-  ver
- ver bal
- P yth
- Pyth ag
- Pythag ore
- Pythagore an
- the ore
- theore m
+ĠCh ord
+ĠChord s
+Ġ ver
+Ġver bal
+ĠP yth
+ĠPyth ag
+ĠPythag ore
+ĠPythagore an
+Ġthe ore
+Ġtheore m
 al though
- lik ely
- B ab
- Bab y
- Baby l
- Babyl on
- Babylon ians
- . )
- doc u
- docu ment
- bir ch
- bar k
- B akh
- Bakh sh
- Bakhsh ali
- A ry
- Ary abh
- Aryabh ata
- Brahm ag
- Brahmag upta
- Bh as
- Bhas k
- Bhask ara
- V ar
- Var ā
- Varā h
- Varāh am
- Varāham i
- Varāhami hi
- Varāhamihi ra
- Madh av
- Madhav a
- dec imal
- conce pt
- z er
- zer o
- ne g
- neg ative
- ar ith
- arith m
- arithm etic
- al ge
- alge b
- algeb ra
- T rigonomet
- Trigonomet ry
- defin itions
- s ine
- conce pts
- land mar
- landmar k
- expans ions
- t rigonomet
- trigonomet ric
- f un
- fun c
- func tions
+Ġlik ely
+ĠB ab
+ĠBab y
+ĠBaby l
+ĠBabyl on
+ĠBabylon ians
+Ġ. )
+Ġdoc u
+Ġdocu ment
+Ġbir ch
+Ġbar k
+ĠB akh
+ĠBakh sh
+ĠBakhsh ali
+ĠA ry
+ĠAry abh
+ĠAryabh ata
+ĠBrahm ag
+ĠBrahmag upta
+ĠBh as
+ĠBhas k
+ĠBhask ara
+ĠV ar
+ĠVar ā
+ĠVarā h
+ĠVarāh am
+ĠVarāham i
+ĠVarāhami hi
+ĠVarāhamihi ra
+ĠMadh av
+ĠMadhav a
+Ġdec imal
+Ġconce pt
+Ġz er
+Ġzer o
+Ġne g
+Ġneg ative
+Ġar ith
+Ġarith m
+Ġarithm etic
+Ġal ge
+Ġalge b
+Ġalgeb ra
+ĠT rigonomet
+ĠTrigonomet ry
+Ġdefin itions
+Ġs ine
+Ġconce pts
+Ġland mar
+Ġlandmar k
+Ġexpans ions
+Ġt rigonomet
+Ġtrigonomet ric
+Ġf un
+Ġfun c
+Ġfunc tions
 s ine
- ar c
- t ang
- tang ent
- comple ted
- in vention
- cal c
- calc ul
- calcul us
- S rin
- Srin iv
- Sriniv as
- Srinivas a
- R aman
- Raman uj
- Ramanuj an
- the ory
+Ġar c
+Ġt ang
+Ġtang ent
+Ġcomple ted
+Ġin vention
+Ġcal c
+Ġcalc ul
+Ġcalcul us
+ĠS rin
+ĠSrin iv
+ĠSriniv as
+ĠSrinivas a
+ĠR aman
+ĠRaman uj
+ĠRamanuj an
+Ġthe ory
 M us
 Mus ic
- ar ra
- arra y
- mus ical
- mus ics
- orig ins
- sp lit
- impro v
- improv is
- improvis ational
- feat uring
- inst ru
- instru ments
- t ab
- tab la
- f oc
- foc used
- compos itions
- k rit
- krit i
- wh ile
- e lements
- ra ga
- m el
- mel odi
- melodi c
- t ala
- r h
- rh yth
- rhyth m
- rhythm ic
- m eter
- gen res
- j a
- ja z
- jaz z
- music ians
- coun ter
- counter c
- counterc ulture
- fil m
- cin em
- cinem a
- direct ors
- s ung
- play back
- sing ers
- Mo dern
- t akes
- Sub b
- Subb ul
- Subbul ak
- Subbulak s
- Subbulaks hm
- Subbulakshm i
- v ocal
- vocal ist
+Ġar ra
+Ġarra y
+Ġmus ical
+Ġmus ics
+Ġorig ins
+Ġsp lit
+Ġimpro v
+Ġimprov is
+Ġimprovis ational
+Ġfeat uring
+Ġinst ru
+Ġinstru ments
+Ġt ab
+Ġtab la
+Ġf oc
+Ġfoc used
+Ġcompos itions
+Ġk rit
+Ġkrit i
+Ġwh ile
+Ġe lements
+Ġra ga
+Ġm el
+Ġmel odi
+Ġmelodi c
+Ġt ala
+Ġr h
+Ġrh yth
+Ġrhyth m
+Ġrhythm ic
+Ġm eter
+Ġgen res
+Ġj a
+Ġja z
+Ġjaz z
+Ġmusic ians
+Ġcoun ter
+Ġcounter c
+Ġcounterc ulture
+Ġfil m
+Ġcin em
+Ġcinem a
+Ġdirect ors
+Ġs ung
+Ġplay back
+Ġsing ers
+ĠMo dern
+Ġt akes
+ĠSub b
+ĠSubb ul
+ĠSubbul ak
+ĠSubbulak s
+ĠSubbulaks hm
+ĠSubbulakshm i
+Ġv ocal
+Ġvocal ist
 C arnatic
- m rid
- mrid ang
- mridang am
- Pal gh
- Palgh at
- M ani
- I y
- Iy er
+Ġm rid
+Ġmrid ang
+Ġmridang am
+ĠPal gh
+ĠPalgh at
+ĠM ani
+ĠI y
+ĠIy er
 le ft
- viol inist
- violinist s
+Ġviol inist
+Ġviolinist s
 . :
- Va id
- Vaid yan
- Vaidyan athan
- Sub ra
- Subra m
- Subram ani
- Subramani am
+ĠVa id
+ĠVaid yan
+ĠVaidyan athan
+ĠSub ra
+ĠSubra m
+ĠSubram ani
+ĠSubramani am
 Al la
 Alla ud
 Allaud d
 Allaudd in
- K han
- sar od
- te ac
- teac her
+ĠK han
+Ġsar od
+Ġte ac
+Ġteac her
 R avi
- W ood
- Wood st
- Woodst ock
- dra wn
- he avi
- heavi ly
- ar ose
- cont exts
- sp ons
- spons ors
- sponsors hip
- prom otion
- W he
- Whe ther
- d eter
- deter m
- determ ined
- S ange
- Sange et
- N atak
- Ac ademi
- per form
- perform ing
- per h
- perh aps
- me et
- crit er
- criter ia
- Ak ademi
+ĠW ood
+ĠWood st
+ĠWoodst ock
+Ġdra wn
+Ġhe avi
+Ġheavi ly
+Ġar ose
+Ġcont exts
+Ġsp ons
+Ġspons ors
+Ġsponsors hip
+Ġprom otion
+ĠW he
+ĠWhe ther
+Ġd eter
+Ġdeter m
+Ġdeterm ined
+ĠS ange
+ĠSange et
+ĠN atak
+ĠAc ademi
+Ġper form
+Ġperform ing
+Ġper h
+Ġperh aps
+Ġme et
+Ġcrit er
+Ġcriter ia
+ĠAk ademi
 kn own
- Bharat n
- Bharatn atyam
- temp le
- dev ad
- devad as
- devadas is
- I d
- Id ent
- Ident ified
+ĠBharat n
+ĠBharatn atyam
+Ġtemp le
+Ġdev ad
+Ġdevad as
+Ġdevadas is
+ĠI d
+ĠId ent
+ĠIdent ified
 pro stitutes
- court es
- courtes ans
- d an
- dan c
- danc ing
- b ann
- bann ed
- Con c
- Conc ur
- Concur rent
- Concurrent ly
- re h
- reh abil
- rehabil itated
+Ġcourt es
+Ġcourtes ans
+Ġd an
+Ġdan c
+Ġdanc ing
+Ġb ann
+Ġbann ed
+ĠCon c
+ĠConc ur
+ĠConcur rent
+ĠConcurrent ly
+Ġre h
+Ġreh abil
+Ġrehabil itated
 p ure
- R uk
- Ruk min
- Rukmin i
- Ar und
- Arund ale
- promin ent
- dev d
- devd asi
- att ain
- promin ence
- Th an
- Than j
- Thanj av
- Thanjav ur
- Bal as
- Balas ar
- Balasar as
- Balasaras w
- Balasarasw ati
- s ources
- O disha
+ĠR uk
+ĠRuk min
+ĠRukmin i
+ĠAr und
+ĠArund ale
+Ġpromin ent
+Ġdev d
+Ġdevd asi
+Ġatt ain
+Ġpromin ence
+ĠTh an
+ĠThan j
+ĠThanj av
+ĠThanjav ur
+ĠBal as
+ĠBalas ar
+ĠBalasar as
+ĠBalasaras w
+ĠBalasarasw ati
+Ġs ources
+ĠO disha
 L ocal
- R as
- Ras l
- Rasl il
- Raslil a
- Ter uk
- Teruk k
- Terukk ut
- Terukkut t
- Terukkutt u
- calend rical
- Bh angra
- Va is
- Vais ak
- Vaisak hi
- sp ring
- G arb
- Garb a
- N av
- Nav rat
- Navrat ri
- A div
- Adiv asi
- Sant al
- T od
- Tod a
- hon our
-  Ö
- Ö n
- bu ff
- buff al
- buffal o
- ear th
+ĠR as
+ĠRas l
+ĠRasl il
+ĠRaslil a
+ĠTer uk
+ĠTeruk k
+ĠTerukk ut
+ĠTerukkut t
+ĠTerukkutt u
+Ġcalend rical
+ĠBh angra
+ĠVa is
+ĠVais ak
+ĠVaisak hi
+Ġsp ring
+ĠG arb
+ĠGarb a
+ĠN av
+ĠNav rat
+ĠNavrat ri
+ĠA div
+ĠAdiv asi
+ĠSant al
+ĠT od
+ĠTod a
+Ġhon our
+Ġ Ö
+ĠÖ n
+Ġbu ff
+Ġbuff al
+Ġbuffal o
+Ġear th
 A mong
- direc tions
- U day
- ad hered
- ri g
- rig idly
- Ex amp
- Examp les
- f ables
- P an
- Pan ch
- Panch at
- Panchat ant
- Panchatant ra
- me dit
- medit ation
- Dis cover
- Discover y
- as p
- asp ect
- fil ms
- t al
- tal k
- talk ies
- in div
- indiv id
- individ ual
- B ol
- Bol ly
- Bolly w
- Bollyw ood
- T ow
- Tow ards
- innov ations
+Ġdirec tions
+ĠU day
+Ġad hered
+Ġri g
+Ġrig idly
+ĠEx amp
+ĠExamp les
+Ġf ables
+ĠP an
+ĠPan ch
+ĠPanch at
+ĠPanchat ant
+ĠPanchatant ra
+Ġme dit
+Ġmedit ation
+ĠDis cover
+ĠDiscover y
+Ġas p
+Ġasp ect
+Ġfil ms
+Ġt al
+Ġtal k
+Ġtalk ies
+Ġin div
+Ġindiv id
+Ġindivid ual
+ĠB ol
+ĠBol ly
+ĠBolly w
+ĠBollyw ood
+ĠT ow
+ĠTow ards
+Ġinnov ations
 Bh angra
- Kathak ali
- Bharat an
- Bharatan atyam
- abs orb
- absorb ed
+ĠKathak ali
+ĠBharat an
+ĠBharatan atyam
+Ġabs orb
+Ġabsorb ed
 C l
 Cl oth
 Cloth ing
 F rom
- d ress
- dra ped
- p i
- pi ec
- piec e
- y ards
- w ra
- wra pp
- wrapp ed
- com b
- comb ined
- under s
- unders k
- undersk irt
- p ett
- pett ico
- pettico at
- t uc
- tuc ked
- sec ure
- fast ening
- bl ouse
- ch oli
- serv es
+Ġd ress
+Ġdra ped
+Ġp i
+Ġpi ec
+Ġpiec e
+Ġy ards
+Ġw ra
+Ġwra pp
+Ġwrapp ed
+Ġcom b
+Ġcomb ined
+Ġunder s
+Ġunders k
+Ġundersk irt
+Ġp ett
+Ġpett ico
+Ġpettico at
+Ġt uc
+Ġtuc ked
+Ġsec ure
+Ġfast ening
+Ġbl ouse
+Ġch oli
+Ġserv es
 cover ing
- mid ri
- midri ff
- ob sc
- obsc uring
- cont ours
- sh orter
- st it
- stit ched
- cl ot
- clot hes
- w idespread
- 13 00
- 15 2
- 152 5
- gar ments
- st ill
- shalw ars
- p y
- py j
- pyj am
- pyjam as
- tr ous
- trous ers
- tun ics
- Sh alw
- Shalw ars
- at ypically
- cu ff
- cuff ed
- dra w
- draw string
- caus es
- ple ated
- W hen
- qu ite
- bi as
- sh irt
- tun ic
- s ide
- se ams
- waist line
- coll ar
- collar les
- collarles s
- c ot
- cot t
- cott on
- sil k
- emb ro
- embro id
- embroid ered
- dec oration
- ch ik
- chik ank
- chikank ari
- t ypically
- f alls
- wear er
- kn ees
- fash ions
- ch anged
- de al
- Increasing ly
- app are
- appare l
- ra re
- rare ly
- y oun
- youn ger
- fav our
- j e
- je ans
- setting s
-  ub
- ub iqu
- ubiqu it
- ubiquit ous
- con dition
- condition ing
- al lows
- w edd
- wedd ings
- band h
- bandh g
- bandhg ala
- gro om
- gro oms
- grooms m
- groomsm en
- sport ing
- s her
- sher wan
- sherwan is
- w ool
- wool l
- wooll en
- V aran
- Varan asi
+Ġmid ri
+Ġmidri ff
+Ġob sc
+Ġobsc uring
+Ġcont ours
+Ġsh orter
+Ġst it
+Ġstit ched
+Ġcl ot
+Ġclot hes
+Ġw idespread
+Ġ13 00
+Ġ15 2
+Ġ152 5
+Ġgar ments
+Ġst ill
+Ġshalw ars
+Ġp y
+Ġpy j
+Ġpyj am
+Ġpyjam as
+Ġtr ous
+Ġtrous ers
+Ġtun ics
+ĠSh alw
+ĠShalw ars
+Ġat ypically
+Ġcu ff
+Ġcuff ed
+Ġdra w
+Ġdraw string
+Ġcaus es
+Ġple ated
+ĠW hen
+Ġqu ite
+Ġbi as
+Ġsh irt
+Ġtun ic
+Ġs ide
+Ġse ams
+Ġwaist line
+Ġcoll ar
+Ġcollar les
+Ġcollarles s
+Ġc ot
+Ġcot t
+Ġcott on
+Ġsil k
+Ġemb ro
+Ġembro id
+Ġembroid ered
+Ġdec oration
+Ġch ik
+Ġchik ank
+Ġchikank ari
+Ġt ypically
+Ġf alls
+Ġwear er
+Ġkn ees
+Ġfash ions
+Ġch anged
+Ġde al
+ĠIncreasing ly
+Ġapp are
+Ġappare l
+Ġra re
+Ġrare ly
+Ġy oun
+Ġyoun ger
+Ġfav our
+Ġj e
+Ġje ans
+Ġsetting s
+Ġ ub
+Ġub iqu
+Ġubiqu it
+Ġubiquit ous
+Ġcon dition
+Ġcondition ing
+Ġal lows
+Ġw edd
+Ġwedd ings
+Ġband h
+Ġbandh g
+Ġbandhg ala
+Ġgro om
+Ġgro oms
+Ġgrooms m
+Ġgroomsm en
+Ġsport ing
+Ġs her
+Ġsher wan
+Ġsherwan is
+Ġw ool
+Ġwool l
+Ġwooll en
+ĠV aran
+ĠVaran asi
 F emale
- t ou
- tou rist
- tourist s
- p han
- phan ek
+Ġt ou
+Ġtou rist
+Ġtourist s
+Ġp han
+Ġphan ek
 low er
- sar ong
+Ġsar ong
 W om
 Wom en
 k ameez
 C u
 Cu isine
- found ation
- t yp
- typ ical
- me al
- plain ly
- comple ment
- complement ed
- r ice
- chap ati
- th in
- un le
- unle av
- unleav ened
-  id
- id li
- break fast
- c ake
- d osa
- g rid
- grid d
- gridd led
- pan c
- panc ake
- m ight
- l ent
- lent ils
- p uls
- puls es
- veget ables
- p ou
- pou l
- poul t
- poult ry
- spic ed
- g ing
- ging er
- cor i
- cori and
- coriand er
- c um
- cum in
- t ur
- tur mer
- turmer ic
- cin nam
- cinnam on
- c ard
- card am
- cardam om
- inst ances
- in g
- ing re
- ingre dient
- ingredient s
- m ixed
- distinct ive
- cu is
- cuis ines
- geograph ical
- histor ies
- ad he
- adhe rents
- A b
- Ab out
- 3 9
- veget ari
- vegetari ans
- prop ortion
- proportion al
- imp ort
- techni qu
- techniqu es
- pil af
- O n
- On ions
- al m
- alm onds
- sp ices
- sim ple
- y og
- yog ur
- yogur t
- mar in
- marin ade
- Pers ia
- R ice
- lay ered
- al tern
- altern ately
- sa ute
- saute ed
- seal ed
- t ight
- tight ly
- techni que
- bir y
- biry ani
- fest ive
- d ining
- world w
- worldw ide
- conce al
- conceal ed
- cu isine
- popular ity
- tandoor i
- ch ick
- chick en
+Ġfound ation
+Ġt yp
+Ġtyp ical
+Ġme al
+Ġplain ly
+Ġcomple ment
+Ġcomplement ed
+Ġr ice
+Ġchap ati
+Ġth in
+Ġun le
+Ġunle av
+Ġunleav ened
+Ġ id
+Ġid li
+Ġbreak fast
+Ġc ake
+Ġd osa
+Ġg rid
+Ġgrid d
+Ġgridd led
+Ġpan c
+Ġpanc ake
+Ġm ight
+Ġl ent
+Ġlent ils
+Ġp uls
+Ġpuls es
+Ġveget ables
+Ġp ou
+Ġpou l
+Ġpoul t
+Ġpoult ry
+Ġspic ed
+Ġg ing
+Ġging er
+Ġcor i
+Ġcori and
+Ġcoriand er
+Ġc um
+Ġcum in
+Ġt ur
+Ġtur mer
+Ġturmer ic
+Ġcin nam
+Ġcinnam on
+Ġc ard
+Ġcard am
+Ġcardam om
+Ġinst ances
+Ġin g
+Ġing re
+Ġingre dient
+Ġingredient s
+Ġm ixed
+Ġdistinct ive
+Ġcu is
+Ġcuis ines
+Ġgeograph ical
+Ġhistor ies
+Ġad he
+Ġadhe rents
+ĠA b
+ĠAb out
+Ġ3 9
+Ġveget ari
+Ġvegetari ans
+Ġprop ortion
+Ġproportion al
+Ġimp ort
+Ġtechni qu
+Ġtechniqu es
+Ġpil af
+ĠO n
+ĠOn ions
+Ġal m
+Ġalm onds
+Ġsp ices
+Ġsim ple
+Ġy og
+Ġyog ur
+Ġyogur t
+Ġmar in
+Ġmarin ade
+ĠPers ia
+ĠR ice
+Ġlay ered
+Ġal tern
+Ġaltern ately
+Ġsa ute
+Ġsaute ed
+Ġseal ed
+Ġt ight
+Ġtight ly
+Ġtechni que
+Ġbir y
+Ġbiry ani
+Ġfest ive
+Ġd ining
+Ġworld w
+Ġworldw ide
+Ġconce al
+Ġconceal ed
+Ġcu isine
+Ġpopular ity
+Ġtandoor i
+Ġch ick
+Ġchick en
 c ook
 cook ed
- o ven
- b ak
- bak ing
+Ġo ven
+Ġb ak
+Ġbak ing
 d ates
- ent re
- entre p
- entrep ren
- entrepren e
- entreprene ur
- entrepreneur ial
- displ aced
+Ġent re
+Ġentre p
+Ġentrep ren
+Ġentrepren e
+Ġentreprene ur
+Ġentrepreneur ial
+Ġdispl aced
 S outh
- th ali
- pl at
- plat ter
+Ġth ali
+Ġpl at
+Ġplat ter
 M ach
 Mach her
- j hol
- spic y
- cur ry
+Ġj hol
+Ġspic y
+Ġcur ry
 M ang
 Mang o
- f ru
- fru it
- mon th
- month s
+Ġf ru
+Ġfru it
+Ġmon th
+Ġmonth s
 S p
 Sp orts
 S everal
- k abad
- kabad di
- pe h
- peh l
- pehl w
- pehlw ani
- g ill
- gill i
+Ġk abad
+Ġkabad di
+Ġpe h
+Ġpeh l
+Ġpehl w
+Ġpehlw ani
+Ġg ill
+Ġgill i
 d anda
- m art
- mart ial
- Kal ari
- Kalari pp
- Kalaripp ay
- Kalarippay att
- Kalarippayatt u
- mar ma
- a di
- origin ated
- ch at
- chat ur
- chatur a
- chatura ṅ
- chaturaṅ ga
- gr and
- grand m
- grandm ast
- grandmast ers
- V is
- Vis wan
- Viswan athan
- An and
- un dis
- undis put
- undisput ed
- Champ ion
- Par c
- Parc he
- Parche es
- Parchees i
- der ived
- P ach
- Pach is
- Pachis i
- past ime
- g iant
- mar ble
+Ġm art
+Ġmart ial
+ĠKal ari
+ĠKalari pp
+ĠKalaripp ay
+ĠKalarippay att
+ĠKalarippayatt u
+Ġmar ma
+Ġa di
+Ġorigin ated
+Ġch at
+Ġchat ur
+Ġchatur a
+Ġchatura ṅ
+Ġchaturaṅ ga
+Ġgr and
+Ġgrand m
+Ġgrandm ast
+Ġgrandmast ers
+ĠV is
+ĠVis wan
+ĠViswan athan
+ĠAn and
+Ġun dis
+Ġundis put
+Ġundisput ed
+ĠChamp ion
+ĠPar c
+ĠParc he
+ĠParche es
+ĠParchees i
+Ġder ived
+ĠP ach
+ĠPach is
+ĠPachis i
+Ġpast ime
+Ġg iant
+Ġmar ble
 C ricket
- suc cess
- success f
- successf ul
- te ams
- C ricket
- Champ ions
- T ro
- Tro ph
- Troph ies
- f ie
- fie ld
- m ed
- med als
- te am
- cap t
- capt ained
- D h
- Dh yan
+Ġsuc cess
+Ġsuccess f
+Ġsuccessf ul
+Ġte ams
+ĠC ricket
+ĠChamp ions
+ĠT ro
+ĠTro ph
+ĠTroph ies
+Ġf ie
+Ġfie ld
+Ġm ed
+Ġmed als
+Ġte am
+Ġcap t
+Ġcapt ained
+ĠD h
+ĠDh yan
 st anding
 . ),
- fin als
- 193 6
- Sum mer
- cons ecut
- consecut ive
- Olymp ic
- gold s
+Ġfin als
+Ġ193 6
+ĠSum mer
+Ġcons ecut
+Ġconsecut ive
+ĠOlymp ic
+Ġgold s
 G uk
 Guk esh
- D om
- Dom mar
- Dommar aj
- Dommaraj u
- re ign
- reign ing
- c hess
- ch amp
- champ ion
- S ach
- Sach in
- T end
- Tend ulk
- Tendulk ar
+ĠD om
+ĠDom mar
+ĠDommar aj
+ĠDommaraj u
+Ġre ign
+Ġreign ing
+Ġc hess
+Ġch amp
+Ġchamp ion
+ĠS ach
+ĠSach in
+ĠT end
+ĠTend ulk
+ĠTendulk ar
 get ter
- def ens
- defens ive
- st ro
- stro ke
- A ustral
- Austral ia
+Ġdef ens
+Ġdefens ive
+Ġst ro
+Ġstro ke
+ĠA ustral
+ĠAustral ia
 S ee
 Count ries
 A sia
@@ -9471,107 +9471,107 @@ Over vi
 Overvi ew
 E x
 Ex ternal
- l in
- lin ks
+Ġl in
+Ġlin ks
 D efin
 Defin itions
- Wik tionary
+ĠWik tionary
 Me dia
- Common s
+ĠCommon s
 Q u
 Qu ot
 Quot ations
- Wik iqu
- Wikiqu ote
+ĠWik iqu
+ĠWikiqu ote
 T exts
- Wik is
- Wikis our
- Wikisour ce
+ĠWik is
+ĠWikis our
+ĠWikisour ce
 T ex
 Tex t
 Text book
 Textbook s
- Wik ib
- Wikib ook
- Wikibook s
+ĠWik ib
+ĠWikib ook
+ĠWikibook s
 R es
 Res ources
- Wik i
- Wiki versity
+ĠWik i
+ĠWiki versity
 T ra
 Tra vel
- Wik iv
- Wikiv o
- Wikivo y
- Wikivoy age
+ĠWik iv
+ĠWikiv o
+ĠWikivo y
+ĠWikivoy age
 O fficial
- web s
- webs ite
- W eb
- D ire
- Dire ct
- Direct ory
+Ġweb s
+Ġwebs ite
+ĠW eb
+ĠD ire
+ĠDire ct
+ĠDirect ory
 G eneral
- In tell
- Intell ig
- Intellig ence
- G ov
- Gov P
- GovP ub
- GovPub s
- U ni
- Uni versity
- Col or
- Color ad
- Colorad o
- B oulder
- L ib
- Lib r
- Libr aries
- New s
+ĠIn tell
+ĠIntell ig
+ĠIntellig ence
+ĠG ov
+ĠGov P
+ĠGovP ub
+ĠGovPub s
+ĠU ni
+ĠUni versity
+ĠCol or
+ĠColor ad
+ĠColorad o
+ĠB oulder
+ĠL ib
+ĠLib r
+ĠLibr aries
+ĠNew s
 W ik
 Wik ime
 Wikime dia
- At l
- Atl as
+ĠAt l
+ĠAtl as
 Geograph ic
- O p
- Op en
- Open S
- OpenS tre
- OpenStre et
- OpenStreet M
- OpenStreetM ap
+ĠO p
+ĠOp en
+ĠOpen S
+ĠOpenS tre
+ĠOpenStre et
+ĠOpenStreet M
+ĠOpenStreetM ap
 K ey
- De velop
- Develop ment
- Fore cast
- Forecast s
- F ut
- Fut ures
+ĠDe velop
+ĠDevelop ment
+ĠFore cast
+ĠForecast s
+ĠF ut
+ĠFut ures
 र ब
 ं गा
- उ न
- पर माण
- परमाण ु
- मि ल
- नि र्माण
- प ू
- स ै
- जा ती
+Ġउ न
+Ġपर माण
+Ġपरमाण ु
+Ġमि ल
+Ġनि र्माण
+Ġप ू
+Ġस ै
+Ġजा ती
 ब र
- मु ख्य
- क ॉंग्रेस
- పార్ ల
- పార్ల మె
- పార్లమె ంట
- అ ణ
+Ġमु ख्य
+Ġक ॉंग्रेस
+Ġపార్ ల
+Ġపార్ల మె
+Ġపార్లమె ంట
+Ġఅ ణ
 వ స్త
 ాత ం
 ో ంది
 లం క
- ఇ ండ
- ఇండ ో
+Ġఇ ండ
+Ġఇండ ో
 ము ల
 భా ష
 ౌ ర్య
@@ -9579,53 +9579,53 @@ K ey
 ప రి
 ా ధ
 ిం గ్
- నాయ క
+Ġనాయ క
 స ాయ
- త ర్వ
+Ġత ర్వ
 భ వ
 భవ ించి
 కా హార
 ప ే
 ు కోవ
- వే ద
+Ġవే ద
 ార్ థ
- క ృ
- గో దా
+Ġక ృ
+Ġగో దా
 వర ీ
 ండ ్
- భ రత
- ఇ త
- విశ ్వ
+Ġభ రత
+Ġఇ త
+Ġవిశ ్వ
 ా మ
- పూ ర్వ
+Ġపూ ర్వ
 య ు
- శ ి
+Ġశ ి
 చ ిత్ర
- మ ాన
+Ġమ ాన
 ార ాల
- క ్రి
- మ ె
+Ġక ్రి
+Ġమ ె
 హ ర్
 గ ర్
- వి లు
+Ġవి లు
 వ ైన
 ో క
- వ ం
+Ġవ ం
 ణ ించ
- ప ల్ల
+Ġప ల్ల
 జ ్
- త త్వ
- మొ గ
+Ġత త్వ
+Ġమొ గ
 ట్ట ు
 ర ెండ
 ర్ చు
- ఇ క్క
+Ġఇ క్క
 ి తి
 ుకు న్న
 ంచ ిన
 త్ తా
 ర్ష ణ
- చ వి
+Ġచ వి
 జ ా
- లక్ష ణ
- కా పా
+Ġలక్ష ణ
+Ġకా పా

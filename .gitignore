@@ -4,3 +4,6 @@ __pycache__/
 *.pyc
 .DS_Store
 indic_nlp_resources-master/
+
+# Local Netlify folder
+.netlify
