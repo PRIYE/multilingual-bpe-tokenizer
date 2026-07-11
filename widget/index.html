@@ -353,6 +353,11 @@
 
     async function loadTokenizerAndStats() {
       try {
+        // Check if BPE object is available
+        if (typeof window.BPE === 'undefined') {
+          throw new Error('tokenizer.js script not loaded - BPE object is undefined');
+        }
+        
         await window.BPE.init();
         document.getElementById('tokenize-btn').disabled = false;
         
@@ -458,9 +463,19 @@
       }
     });
 
+    // Wait for tokenizer.js to load, then initialize
+    function waitForTokenizer() {
+      if (typeof window.BPE !== 'undefined') {
+        loadTokenizerAndStats();
+      } else {
+        // Tokenizer not ready yet, wait a bit more
+        setTimeout(waitForTokenizer, 100);
+      }
+    }
+    
     // Run
     initUI();
-    loadTokenizerAndStats();
+    waitForTokenizer();
   </script>
 </body>
 </html>
