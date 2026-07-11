@@ -34,9 +34,7 @@ def save(vocab: dict, merges: list, output_dir: str):
 
     Asserts that len(vocab) == 10,000 before writing.
     """
-    # Allow saving smaller vocabs for testing
-    if len(vocab) != 10_000:
-        print(f"  Warning: Saving vocab with {len(vocab)} tokens, expected 10,000.")
+    assert len(vocab) == 10_000, f"Saving vocab with {len(vocab)} tokens, expected 10,000."
         
     os.makedirs(output_dir, exist_ok=True)
 
@@ -74,8 +72,7 @@ def load(output_dir: str) -> tuple:
     with open(vocab_path, encoding="utf-8") as f:
         vocab = json.load(f)
 
-    if len(vocab) != 10_000:
-        print(f"  Warning: Loaded vocab has {len(vocab)} tokens, expected 10,000.")
+    assert len(vocab) == 10_000, f"Loaded vocab must have exactly 10,000 tokens, got {len(vocab)}"
 
     merges = []
     with open(merges_path, encoding="utf-8") as f:

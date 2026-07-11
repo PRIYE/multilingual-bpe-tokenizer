@@ -113,7 +113,7 @@
 ### Implementation for User Story 4
 
 - [x] T033 [P] [US4] Implement `script_distribution(vocab: dict) -> dict[str, int]` in `tokenizer/src/tokenizer.py`: iterate all token strings; for each token, classify its dominant Unicode script using `unicodedata.name(char)` checks for Devanagari (U+0900–U+097F), Telugu (U+0C00–U+0C7F), Latin (A-Z / a-z / U+0000–U+007F); tokens with chars from multiple scripts → "Mixed"; return `{"Devanagari": N, "Telugu": N, "Latin": N, "Mixed": N}`
-- [ ] T034 [US4] Add script distribution cell to `tokenizer/MultilingualBPE.ipynb`: call `script_distribution(vocab)`, print as a formatted table, and add a simple bar chart using `matplotlib`
+- [x] T034 [US4] Add script distribution cell to `tokenizer/MultilingualBPE.ipynb`: call `script_distribution(vocab)`, print as a formatted table, and add a simple bar chart using `matplotlib`
 - [x] T035 [US4] Wire Section 4 vocabulary bars in `widget/index.html` to live `script_distribution` computation from `tokenizer.json` (runs after `BPE.init()` resolves); display as CSS-width percentage bars with counts
 
 **Checkpoint**: Section 4 script distribution bars are non-zero and sum to 10,000. Notebook cell produces matching numbers.
@@ -124,11 +124,11 @@
 
 **Purpose**: Final validation, score hardening, and submission preparation.
 
-- [ ] T036 Run full end-to-end validation per `quickstart.md` Steps 1–6: confirm each step passes; fix any discrepancies between training-time scores and standalone encoder scores
-- [ ] T037 [P] Add `README.md` at repo root: project description, score summary table (X1–X4 + final score), widget URL, reproduction instructions (`pip install -r requirements.txt` + `python tokenizer/src/score.py`)
-- [ ] T038 [P] Verify vocabulary size exactly 10,000: add assertion in `train.py` final step `assert len(vocab) == 10000`; add same check in `tokenizer.py` `load()` function
-- [ ] T039 Freeze scoring corpus: commit `tokenizer/data/clean/*.txt` to version control so graders use the exact same text as training; add note in `README.md`
-- [ ] T040 [P] Cross-check: run `python tokenizer/src/score.py` three times; confirm X1–X4 are deterministic (same values every run); if any variance, identify source and fix
+- [x] T036 Run full end-to-end validation per `quickstart.md` Steps 1–6: confirm each step passes; fix any discrepancies between training-time scores and standalone encoder scores
+- [x] T037 [P] Add `README.md` at repo root: project description, score summary table (X1–X4 + final score), widget URL, reproduction instructions (`pip install -r requirements.txt` + `python tokenizer/src/score.py`)
+- [x] T038 [P] Verify vocabulary size exactly 10,000: add assertion in `train.py` final step `assert len(vocab) == 10000`; add same check in `tokenizer.py` `load()` function
+- [x] T039 Freeze scoring corpus: commit `tokenizer/data/clean/*.txt` to version control so graders use the exact same text as training; add note in `README.md`
+- [x] T040 [P] Cross-check: run `python tokenizer/src/score.py` three times; confirm X1–X4 are deterministic (same values every run); if any variance, identify source and fix
 - [x] T041 Update widget hardcoded score constants to final trained values: replace placeholder X1–X4 JS constants in `widget/index.html` with the values from final `score.py` run; redeploy to Netlify
 
 ---

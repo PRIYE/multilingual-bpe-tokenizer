@@ -361,9 +361,7 @@ def train(multipliers: dict = None, target_vocab_size: int = TARGET_VOCAB_SIZE):
             )
 
     # --- Step 7: Validate and serialise ---
-    # Allow vocab to be smaller than target if we ran out of merges
-    if len(vocab) != target_vocab_size:
-        print(f"  Warning: Vocabulary size mismatch: got {len(vocab)}, expected {target_vocab_size}")
+    assert len(vocab) == target_vocab_size, f"Vocabulary size must be exactly {target_vocab_size}, got {len(vocab)}"
     
     save(vocab, merges, OUTPUT_DIR)
     print(f"\nTraining complete. Vocab: {len(vocab)} tokens. Merges: {len(merges)}.")

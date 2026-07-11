@@ -53,3 +53,19 @@ $$X_i = \frac{\text{Number of BPE tokens}}{\text{Total whitespace-delimited word
 
 The final score is calculated as:
 $$\text{Score} = \frac{1000}{X_{max} - X_{min}}$$
+
+### Final Results
+
+| Language | Tokens | Total Words | Fertility (X) |
+|----------|--------|-------------|---------------|
+| English  | 13,700 | 11,589      | 1.1822        |
+| Hindi    | 15,947 | 7,713       | 2.0675        |
+| Telugu   | 6,779  | 2,604       | 2.6033        |
+| Sanskrit | 4,319  | 1,550       | 2.7865        |
+
+**Final Score**: `1000 / (2.7865 - 1.1822) = 623.33`
+
+## Web Widget
+
+A live web widget is available to visualize the tokenizer statistics and test live tokenization. 
+You can view the deployed widget at: **[Insert Netlify URL Here]**
