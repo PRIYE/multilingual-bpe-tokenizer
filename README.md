@@ -68,4 +68,4 @@ $$\text{Score} = \frac{1000}{X_{max} - X_{min}}$$
 ## Web Widget
 
 A live web widget is available to visualize the tokenizer statistics and test live tokenization. 
-You can view the deployed widget at: **[Insert Netlify URL Here]**
+You can view the deployed widget at: **[NetlifyApp](https://multilingual-bpe-tokenizer-priyemultilingual-bpe-tokenizer.netlify.app/)**
