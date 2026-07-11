@@ -271,17 +271,17 @@
   </section>
 
   <script>
-    // Hardcoded results from score.py
+    // Current results from latest training run (train.py output)
     const scoreResults = [
-      { lang: "en", name: "English", url: "https://en.wikipedia.org/wiki/India", tokens: 36847, words: 11589, ratio: 3.1795 },
-      { lang: "hi", name: "Hindi", url: "https://hi.wikipedia.org/wiki/भारत", tokens: 26449, words: 7713, ratio: 3.4291 },
-      { lang: "sa", name: "Sanskrit", url: "https://sa.wikipedia.org/wiki/भारतम्", tokens: 6211, words: 1550, ratio: 4.0071 },
-      { lang: "te", name: "Telugu", url: "https://te.wikipedia.org/wiki/భారతదేశం", tokens: 11358, words: 2604, ratio: 4.3618 }
+      { lang: "en", name: "English", url: "https://en.wikipedia.org/wiki/India", tokens: 13700, words: 11589, ratio: 1.1822 },
+      { lang: "hi", name: "Hindi", url: "https://hi.wikipedia.org/wiki/भारत", tokens: 15940, words: 7713, ratio: 2.0675 },
+      { lang: "te", name: "Telugu", url: "https://te.wikipedia.org/wiki/భారతదేశం", tokens: 6778, words: 2604, ratio: 2.6033 },
+      { lang: "sa", name: "Sanskrit", url: "https://sa.wikipedia.org/wiki/भारतम्", tokens: 4318, words: 1550, ratio: 2.7865 }
     ];
     
-    const finalScore = 845.83;
-    const xMax = 4.3618;
-    const xMin = 3.1795;
+    const finalScore = 623.3;
+    const xMax = 2.7865;
+    const xMin = 1.1822;
 
     // Initialize UI with hardcoded data
     function initUI() {
