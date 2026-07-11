@@ -1,0 +1,17 @@
+[project]
+name = "tokenizer"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "beautifulsoup4>=4.12",
+    "datasets>=3.0",
+    "indic-nlp-library>=0.92",
+    "matplotlib>=3.7",
+    "mlcroissant>=1.1.0",
+    "regex>=2026.7.10",
+    "requests>=2.31",
+    "setuptools>=83.0.0",
+    "wikipedia-api>=0.7",
+]

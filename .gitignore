@@ -1,0 +1,6 @@
+tokenizer/data/raw/*.json
+tokenizer/data/raw/*.txt
+__pycache__/
+*.pyc
+.DS_Store
+indic_nlp_resources-master/

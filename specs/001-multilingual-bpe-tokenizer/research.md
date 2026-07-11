@@ -173,3 +173,14 @@ LANGUAGE_MULTIPLIERS = {
     "te": 4,#4,    #4,   #4, #5, #3,
     "sa": 5, #5     #4    #4 #5 #3
 }
+
+Training complete. Vocab: 10000 tokens. Merges: 9630.
+
+Estimated fertility on training text (final):
+  en: 1.1822
+  hi: 2.4761
+  te: 3.5361
+  sa: 3.7548
+  Score estimate: 1000 / 2.5727 = 388.7
+Combined tokenizer copied to widget/data/tokenizer.json
+With new regex 
