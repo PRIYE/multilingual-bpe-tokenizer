@@ -15,7 +15,7 @@ window.BPE = (function () {
    * Load tokenizer.json and initialise vocab + merges.
    * @returns {Promise<void>}
    */
-  async function init(url = '/data/tokenizer.json') {
+  async function init(url = 'data/tokenizer.json') {
     try {
       const response = await fetch(url);
       if (!response.ok) {

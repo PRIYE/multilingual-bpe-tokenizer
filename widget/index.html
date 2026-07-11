@@ -265,7 +265,7 @@
 
   <!-- Section 6: Download Button -->
   <section id="download">
-    <a id="download-btn" href="/data/tokenizer.json" download="multilingual-bpe-10k.json">
+    <a id="download-btn" href="data/tokenizer.json" download="multilingual-bpe-10k.json">
       Download Tokenizer
     </a>
   </section>
@@ -360,7 +360,10 @@
         // We need to fetch the JSON again just to get the vocab keys, 
         // or we can expose vocab from tokenizer.js. 
         // Let's just fetch it since it's cached.
-        const res = await fetch('/data/tokenizer.json');
+        const res = await fetch('data/tokenizer.json');
+        if (!res.ok) {
+          throw new Error(`Failed to fetch tokenizer.json: ${res.status} ${res.statusText}`);
+        }
         const data = await res.json();
         
         const counts = { Devanagari: 0, Telugu: 0, Latin: 0, Mixed: 0, Other: 0 };
@@ -392,7 +395,10 @@
         }
         
       } catch (err) {
-        document.getElementById('error-banner').style.display = 'block';
+        console.error('Tokenizer loading error:', err);
+        const errorBanner = document.getElementById('error-banner');
+        errorBanner.textContent = `Failed to load tokenizer: ${err.message}`;
+        errorBanner.style.display = 'block';
       }
     }
 
