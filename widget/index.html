@@ -7,54 +7,454 @@
   <meta name="description" content="Assignment widget showing fertility ratios, score, and live tokenization for a 10,000-token BPE vocabulary trained on English, Hindi, Telugu, and Sanskrit Wikipedia India articles." />
   <script src="tokenizer.js" defer></script>
   <style>
-    /* Placeholder styles — full implementation in Phase 5 (T024-T030) */
-    body { font-family: system-ui, sans-serif; max-width: 960px; margin: 0 auto; padding: 2rem; }
+    :root {
+      --primary: #2563eb;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --text: #1e293b;
+      --border: #e2e8f0;
+      
+      /* Script colors */
+      --color-devanagari: #3b82f6; /* blue */
+      --color-telugu: #10b981;     /* green */
+      --color-latin: #64748b;      /* gray */
+      --color-mixed: #f59e0b;      /* orange */
+      --color-other: #ef4444;      /* red */
+    }
+    
+    body { 
+      font-family: system-ui, -apple-system, sans-serif; 
+      max-width: 960px; 
+      margin: 0 auto; 
+      padding: 2rem;
+      background-color: var(--bg);
+      color: var(--text);
+      line-height: 1.5;
+    }
+    
+    h1, h2, h3 { color: #0f172a; }
+    
+    section {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 1.5rem;
+      margin-bottom: 2rem;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+    }
+    
+    /* Section 1: Score Summary */
+    #score-summary {
+      text-align: center;
+      background: linear-gradient(to right, #eff6ff, #f0fdf4);
+    }
+    #score-summary h1 { margin-top: 0; font-size: 2.5rem; color: var(--primary); }
+    #score-summary .subtitle { font-size: 1.1rem; color: #475569; }
+    
+    /* Section 2: Fertility Cards */
+    #fertility-cards {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 1rem;
+      background: transparent;
+      border: none;
+      padding: 0;
+      box-shadow: none;
+    }
+    .card {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 1.25rem;
+      position: relative;
+    }
+    .card h3 { margin: 0 0 0.5rem 0; font-size: 1.1rem; }
+    .card a { color: var(--primary); text-decoration: none; font-size: 0.9rem; }
+    .card a:hover { text-decoration: underline; }
+    .card .ratio { font-size: 1.8rem; font-weight: bold; margin: 1rem 0; }
+    .card .stats { font-size: 0.85rem; color: #64748b; }
+    .badge {
+      position: absolute;
+      top: 1rem;
+      right: 1rem;
+      background: #e2e8f0;
+      color: #334155;
+      padding: 0.2rem 0.5rem;
+      border-radius: 9999px;
+      font-size: 0.75rem;
+      font-weight: bold;
+    }
+    .badge.rank-1 { background: #dcfce7; color: #166534; }
+    .badge.rank-4 { background: #fee2e2; color: #991b1b; }
+    
+    /* Section 3: Ranking Table */
+    table { width: 100%; border-collapse: collapse; }
+    th, td { padding: 0.75rem; text-align: left; border-bottom: 1px solid var(--border); }
+    th { background: #f8fafc; font-weight: 600; }
+    
+    /* Section 4: Vocab Stats */
+    .bar-container {
+      display: flex;
+      height: 2rem;
+      border-radius: 4px;
+      overflow: hidden;
+      margin: 1rem 0;
+    }
+    .bar-segment {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: white;
+      font-size: 0.8rem;
+      font-weight: bold;
+      transition: width 0.3s ease;
+    }
+    .legend {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1rem;
+      font-size: 0.9rem;
+    }
+    .legend-item { display: flex; align-items: center; gap: 0.5rem; }
+    .legend-color { width: 1rem; height: 1rem; border-radius: 2px; }
+    
+    /* Section 5: Playground */
+    textarea {
+      width: 100%;
+      padding: 0.75rem;
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      font-family: inherit;
+      font-size: 1rem;
+      resize: vertical;
+      box-sizing: border-box;
+      margin-bottom: 1rem;
+    }
+    button {
+      background: var(--primary);
+      color: white;
+      border: none;
+      padding: 0.5rem 1.5rem;
+      border-radius: 4px;
+      font-size: 1rem;
+      cursor: pointer;
+      font-weight: 500;
+    }
+    button:hover { background: #1d4ed8; }
+    button:disabled { background: #94a3b8; cursor: not-allowed; }
+    
+    #token-output {
+      margin-top: 1.5rem;
+      padding: 1rem;
+      background: #f1f5f9;
+      border-radius: 4px;
+      min-height: 3rem;
+      line-height: 1.8;
+      word-wrap: break-word;
+    }
+    .token {
+      display: inline-block;
+      padding: 0.1rem 0.3rem;
+      margin: 0.1rem;
+      border-radius: 3px;
+      background: white;
+      border: 1px solid #cbd5e1;
+      font-family: monospace;
+      font-size: 0.9rem;
+    }
+    .token.devanagari { border-color: var(--color-devanagari); color: var(--color-devanagari); }
+    .token.telugu { border-color: var(--color-telugu); color: var(--color-telugu); }
+    .token.latin { border-color: var(--color-latin); color: var(--color-latin); }
+    .token.mixed { border-color: var(--color-mixed); color: var(--color-mixed); }
+    .token.other { border-color: var(--color-other); color: var(--color-other); }
+    
+    #token-count {
+      margin-top: 0.5rem;
+      font-weight: 600;
+      color: #475569;
+    }
+    
+    /* Section 6: Download */
+    #download { text-align: center; }
+    #download-btn {
+      display: inline-block;
+      background: white;
+      color: var(--primary);
+      border: 2px solid var(--primary);
+      padding: 0.75rem 2rem;
+      border-radius: 4px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    #download-btn:hover { background: #eff6ff; }
+    
+    #error-banner {
+      display: none;
+      background: #fee2e2;
+      color: #991b1b;
+      padding: 1rem;
+      border-radius: 8px;
+      margin-bottom: 2rem;
+      text-align: center;
+      font-weight: bold;
+    }
   </style>
 </head>
 <body>
 
-  <!-- Section 1: Score Summary — T024 -->
+  <div id="error-banner">Failed to load tokenizer — please refresh</div>
+
+  <!-- Section 1: Score Summary -->
   <section id="score-summary">
-    <h1>Assignment Score: —</h1>
-    <p>Score = 1000 / (X_max − X_min)</p>
+    <h1>Assignment Score: <span id="final-score">Loading...</span></h1>
+    <div class="subtitle">Score = 1000 / (X_max − X_min)</div>
+    <div class="subtitle" style="margin-top: 0.5rem; font-size: 0.9rem;" id="score-math"></div>
   </section>
 
-  <!-- Section 2: Fertility Ratio Cards — T025 -->
+  <!-- Section 2: Fertility Ratio Cards -->
   <section id="fertility-cards">
-    <div class="card" id="card-en">English (en) — X1: —</div>
-    <div class="card" id="card-hi">Hindi (hi) — X2: —</div>
-    <div class="card" id="card-te">Telugu (te) — X3: —</div>
-    <div class="card" id="card-sa">Sanskrit (sa) — X4: —</div>
+    <!-- Populated by JS -->
   </section>
 
-  <!-- Section 3: Sorted Ranking Table — T026 -->
+  <!-- Section 3: Sorted Ranking Table -->
   <section id="ranking-table">
+    <h2>Language Ranking</h2>
     <table id="ranking">
-      <thead><tr><th>Rank</th><th>Language</th><th>Fertility Ratio</th><th>Tokens</th><th>Unique Words</th></tr></thead>
-      <tbody></tbody>
+      <thead>
+        <tr>
+          <th>Rank</th>
+          <th>Language</th>
+          <th>Fertility Ratio</th>
+          <th>Tokens</th>
+          <th>Unique Words</th>
+        </tr>
+      </thead>
+      <tbody>
+        <!-- Populated by JS -->
+      </tbody>
     </table>
   </section>
 
-  <!-- Section 4: Vocabulary Statistics — T027 / T035 -->
+  <!-- Section 4: Vocabulary Statistics -->
   <section id="vocab-stats">
-    <p>Total vocabulary: 10,000 tokens</p>
-    <div id="script-bars"></div>
+    <h2>Vocabulary Statistics</h2>
+    <p>Total vocabulary: <strong>10,000 tokens</strong></p>
+    <div class="bar-container" id="script-bars">
+      <!-- Populated by JS -->
+    </div>
+    <div class="legend">
+      <div class="legend-item"><div class="legend-color" style="background: var(--color-devanagari)"></div> Devanagari</div>
+      <div class="legend-item"><div class="legend-color" style="background: var(--color-telugu)"></div> Telugu</div>
+      <div class="legend-item"><div class="legend-color" style="background: var(--color-latin)"></div> Latin</div>
+      <div class="legend-item"><div class="legend-color" style="background: var(--color-mixed)"></div> Mixed</div>
+      <div class="legend-item"><div class="legend-color" style="background: var(--color-other)"></div> Other</div>
+    </div>
   </section>
 
-  <!-- Section 5: Live Tokenization Playground — T028 -->
+  <!-- Section 5: Live Tokenization Playground -->
   <section id="playground">
-    <textarea id="input-text" placeholder="Type any text in English, Hindi (हिन्दी), Telugu (తెలుగు), or Sanskrit (संस्कृतम्)…" rows="3"></textarea>
-    <button id="tokenize-btn">Tokenize</button>
-    <div id="token-output"><em>Enter text above to see tokenization</em></div>
+    <h2>Live Tokenization</h2>
+    <textarea id="input-text" placeholder="Type any text in English, Hindi (हिन्दी), Telugu (తెలుగు), or Sanskrit (संस्कृतम्)…" rows="4"></textarea>
+    <div style="display: flex; justify-content: space-between; align-items: center;">
+      <button id="tokenize-btn" disabled>Tokenize</button>
+      <span id="lang-hint" style="color: #64748b; font-size: 0.9rem;"></span>
+    </div>
+    <div id="token-output"><em>Enter text above and click Tokenize to see BPE tokens</em></div>
     <div id="token-count"></div>
   </section>
 
-  <!-- Section 6: Download Button — T029 -->
+  <!-- Section 6: Download Button -->
   <section id="download">
     <a id="download-btn" href="./data/tokenizer.json" download="multilingual-bpe-10k.json">
       Download Tokenizer
     </a>
   </section>
 
+  <script>
+    // Hardcoded results from score.py
+    const scoreResults = [
+      { lang: "en", name: "English", url: "https://en.wikipedia.org/wiki/India", tokens: 36847, words: 11589, ratio: 3.1795 },
+      { lang: "hi", name: "Hindi", url: "https://hi.wikipedia.org/wiki/भारत", tokens: 26449, words: 7713, ratio: 3.4291 },
+      { lang: "sa", name: "Sanskrit", url: "https://sa.wikipedia.org/wiki/भारतम्", tokens: 6211, words: 1550, ratio: 4.0071 },
+      { lang: "te", name: "Telugu", url: "https://te.wikipedia.org/wiki/భారతదేశం", tokens: 11358, words: 2604, ratio: 4.3618 }
+    ];
+    
+    const finalScore = 845.83;
+    const xMax = 4.3618;
+    const xMin = 3.1795;
+
+    // Initialize UI with hardcoded data
+    function initUI() {
+      // Sort results
+      scoreResults.sort((a, b) => a.ratio - b.ratio);
+      
+      // Update Score Summary
+      document.getElementById('final-score').textContent = finalScore.toFixed(2);
+      document.getElementById('score-math').textContent = `X_max (${xMax.toFixed(4)}) - X_min (${xMin.toFixed(4)}) = ${(xMax - xMin).toFixed(4)}`;
+      
+      // Update Cards and Table
+      const cardsContainer = document.getElementById('fertility-cards');
+      const tbody = document.querySelector('#ranking tbody');
+      
+      scoreResults.forEach((r, idx) => {
+        const rank = idx + 1;
+        
+        // Card
+        const card = document.createElement('div');
+        card.className = 'card';
+        let badgeClass = '';
+        if (rank === 1) badgeClass = 'rank-1';
+        if (rank === 4) badgeClass = 'rank-4';
+        
+        card.innerHTML = `
+          <div class="badge ${badgeClass}">Rank ${rank}</div>
+          <h3>${r.name} (${r.lang})</h3>
+          <a href="${r.url}" target="_blank" rel="noopener">Wikipedia Article</a>
+          <div class="ratio">${r.ratio.toFixed(4)}</div>
+          <div class="stats">Tokens: ${r.tokens.toLocaleString()}<br>Words: ${r.words.toLocaleString()}</div>
+        `;
+        cardsContainer.appendChild(card);
+        
+        // Table row
+        const tr = document.createElement('tr');
+        tr.innerHTML = `
+          <td>${rank}</td>
+          <td>${r.name}</td>
+          <td><strong>${r.ratio.toFixed(4)}</strong></td>
+          <td>${r.tokens.toLocaleString()}</td>
+          <td>${r.words.toLocaleString()}</td>
+        `;
+        tbody.appendChild(tr);
+      });
+    }
+
+    // Script classification logic (matching Python)
+    function classifyChar(ch) {
+      const cp = ch.codePointAt(0);
+      if (cp >= 0x0900 && cp < 0x0980) return "Devanagari";
+      if (cp >= 0x0C00 && cp < 0x0C80) return "Telugu";
+      if (cp < 0x0080) return "Latin";
+      return "Other";
+    }
+
+    function classifyToken(token) {
+      if (!token) return "Other";
+      const scripts = new Set();
+      for (const ch of Array.from(token)) {
+        if (ch.trim() === '') continue;
+        const s = classifyChar(ch);
+        if (s !== "Other") scripts.add(s);
+      }
+      
+      if (scripts.size === 0) return "Other";
+      if (scripts.size === 1) return Array.from(scripts)[0];
+      return "Mixed";
+    }
+
+    async function loadTokenizerAndStats() {
+      try {
+        await window.BPE.init();
+        document.getElementById('tokenize-btn').disabled = false;
+        
+        // Compute stats
+        // We need to fetch the JSON again just to get the vocab keys, 
+        // or we can expose vocab from tokenizer.js. 
+        // Let's just fetch it since it's cached.
+        const res = await fetch('./data/tokenizer.json');
+        const data = await res.json();
+        
+        const counts = { Devanagari: 0, Telugu: 0, Latin: 0, Mixed: 0, Other: 0 };
+        for (const token of Object.keys(data.vocab)) {
+          counts[classifyToken(token)]++;
+        }
+        
+        const total = 10000;
+        const bars = document.getElementById('script-bars');
+        
+        const colors = {
+          Devanagari: 'var(--color-devanagari)',
+          Telugu: 'var(--color-telugu)',
+          Latin: 'var(--color-latin)',
+          Mixed: 'var(--color-mixed)',
+          Other: 'var(--color-other)'
+        };
+        
+        for (const [script, count] of Object.entries(counts)) {
+          if (count === 0) continue;
+          const pct = (count / total * 100).toFixed(1);
+          const div = document.createElement('div');
+          div.className = 'bar-segment';
+          div.style.width = `${pct}%`;
+          div.style.backgroundColor = colors[script];
+          div.title = `${script}: ${count} (${pct}%)`;
+          if (pct > 5) div.textContent = `${pct}%`;
+          bars.appendChild(div);
+        }
+        
+      } catch (err) {
+        document.getElementById('error-banner').style.display = 'block';
+      }
+    }
+
+    // Playground Logic
+    document.getElementById('tokenize-btn').addEventListener('click', async () => {
+      const text = document.getElementById('input-text').value;
+      const outDiv = document.getElementById('token-output');
+      const countDiv = document.getElementById('token-count');
+      const hintSpan = document.getElementById('lang-hint');
+      
+      if (!text.trim()) {
+        outDiv.innerHTML = '<em>Enter text above and click Tokenize to see BPE tokens</em>';
+        countDiv.textContent = '';
+        hintSpan.textContent = '';
+        return;
+      }
+      
+      if (text.length > 1000) {
+        alert("Input too long. Truncating to 1000 characters.");
+      }
+      const safeText = text.substring(0, 1000);
+      
+      const ids = window.BPE.encode(safeText);
+      
+      // We need to decode each ID to show the string
+      // Since window.BPE.decode takes an array, we can decode individually
+      outDiv.innerHTML = '';
+      
+      // Detect dominant script
+      const scriptCounts = { Devanagari: 0, Telugu: 0, Latin: 0 };
+      
+      for (const id of ids) {
+        const tokenStr = window.BPE.decode([id]);
+        const script = classifyToken(tokenStr);
+        
+        if (script in scriptCounts) scriptCounts[script]++;
+        
+        const span = document.createElement('span');
+        span.className = `token ${script.toLowerCase()}`;
+        // replace spaces with middle dot for visibility
+        span.textContent = tokenStr.replace(/ /g, '·');
+        outDiv.appendChild(span);
+      }
+      
+      countDiv.textContent = `${ids.length} tokens`;
+      
+      // Update hint
+      let dominant = "Unknown";
+      let max = 0;
+      for (const [s, c] of Object.entries(scriptCounts)) {
+        if (c > max) { max = c; dominant = s; }
+      }
+      if (max > 0) {
+        hintSpan.textContent = `Detected dominant script: ${dominant}`;
+      } else {
+        hintSpan.textContent = '';
+      }
+    });
+
+    // Run
+    initUI();
+    loadTokenizerAndStats();
+  </script>
 </body>
 </html>

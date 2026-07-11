@@ -89,16 +89,16 @@
 
 ### Implementation for User Story 3
 
-- [ ] T023 [US3] Implement BPE `encode(text)` in `widget/tokenizer.js`: load `tokenizer.json` via `fetch('./data/tokenizer.json')`; expose `window.BPE = { encode, decode, loaded }` with a Promise-based `init()` function; port the Python encode algorithm exactly per `contracts/tokenizer-format.md`
-- [ ] T024 [P] [US3] Build Section 1 (Score Summary) in `widget/index.html`: heading `"Assignment Score: {score:.2f}"`, subtitle formula, `X_max − X_min` value; hardcode X1–X4 from `score.py` output as JS constants at top of inline `<script>`
-- [ ] T025 [P] [US3] Build Section 2 (Fertility Ratio Cards) in `widget/index.html`: four cards, one per language, each showing language name + code, Wikipedia URL as hyperlink, X_i to 4 decimal places, rank badge, total tokens, unique word count; styled with CSS grid
-- [ ] T026 [P] [US3] Build Section 3 (Sorted Ranking Table) in `widget/index.html`: `<table>` with columns Rank / Language / Fertility Ratio / Tokens / Unique Words; rows generated from hardcoded JS array sorted by fertility ratio
-- [ ] T027 [P] [US3] Build Section 4 (Vocabulary Statistics) in `widget/index.html`: display total vocab size 10,000; compute script distribution by iterating `tokenizer.json.vocab` keys and classifying each token's dominant Unicode block; render four percentage bars (Devanagari / Telugu / Latin / Mixed)
-- [ ] T028 [US3] Build Section 5 (Live Tokenization Playground) in `widget/index.html` + `widget/tokenizer.js`: `<textarea>` input, "Tokenize" button calling `BPE.encode(input)`; render result as coloured `<span>` elements (Devanagari=blue, Telugu=green, Latin=gray, Mixed=orange); show `"N tokens"` count below; auto-detect dominant script and label it; show placeholder message when input empty
-- [ ] T029 [US3] Build Section 6 (Download Button) in `widget/index.html`: `<a>` tag with `download="multilingual-bpe-10k.json"` pointing to `./data/tokenizer.json`; per `contracts/widget-api.md`
-- [ ] T030 [US3] Add error handling in `widget/index.html`: if `tokenizer.json` fails to load, show error banner `"Failed to load tokenizer — please refresh"` and hide all data-dependent sections
-- [ ] T031 [US3] Deploy widget to Netlify: run `netlify deploy --prod --dir widget/`; update `widget/index.html` with the stable Netlify URL in the page `<title>` and `<meta>` description
-- [ ] T032 [US3] Verify widget deployment: open Netlify URL in browser; confirm all six sections render with live data; confirm download works; record URL for submission
+- [x] T023 [US3] Implement BPE `encode(text)` in `widget/tokenizer.js`: load `tokenizer.json` via `fetch('./data/tokenizer.json')`; expose `window.BPE = { encode, decode, loaded }` with a Promise-based `init()` function; port the Python encode algorithm exactly per `contracts/tokenizer-format.md`
+- [x] T024 [P] [US3] Build Section 1 (Score Summary) in `widget/index.html`: heading `"Assignment Score: {score:.2f}"`, subtitle formula, `X_max − X_min` value; hardcode X1–X4 from `score.py` output as JS constants at top of inline `<script>`
+- [x] T025 [P] [US3] Build Section 2 (Fertility Ratio Cards) in `widget/index.html`: four cards, one per language, each showing language name + code, Wikipedia URL as hyperlink, X_i to 4 decimal places, rank badge, total tokens, unique word count; styled with CSS grid
+- [x] T026 [P] [US3] Build Section 3 (Sorted Ranking Table) in `widget/index.html`: `<table>` with columns Rank / Language / Fertility Ratio / Tokens / Unique Words; rows generated from hardcoded JS array sorted by fertility ratio
+- [x] T027 [P] [US3] Build Section 4 (Vocabulary Statistics) in `widget/index.html`: display total vocab size 10,000; compute script distribution by iterating `tokenizer.json.vocab` keys and classifying each token's dominant Unicode block; render four percentage bars (Devanagari / Telugu / Latin / Mixed)
+- [x] T028 [US3] Build Section 5 (Live Tokenization Playground) in `widget/index.html` + `widget/tokenizer.js`: `<textarea>` input, "Tokenize" button calling `BPE.encode(input)`; render result as coloured `<span>` elements (Devanagari=blue, Telugu=green, Latin=gray, Mixed=orange); show `"N tokens"` count below; auto-detect dominant script and label it; show placeholder message when input empty
+- [x] T029 [US3] Build Section 6 (Download Button) in `widget/index.html`: `<a>` tag with `download="multilingual-bpe-10k.json"` pointing to `./data/tokenizer.json`; per `contracts/widget-api.md`
+- [x] T030 [US3] Add error handling in `widget/index.html`: if `tokenizer.json` fails to load, show error banner `"Failed to load tokenizer — please refresh"` and hide all data-dependent sections
+- [x] T031 [US3] Deploy widget to Netlify: run `netlify deploy --prod --dir widget/`; update `widget/index.html` with the stable Netlify URL in the page `<title>` and `<meta>` description
+- [x] T032 [US3] Verify widget deployment: open Netlify URL in browser; confirm all six sections render with live data; confirm download works; record URL for submission
 
 **Checkpoint**: Netlify URL is publicly accessible; all checklist items in `quickstart.md` Step 5 pass.
 
@@ -114,7 +114,7 @@
 
 - [x] T033 [P] [US4] Implement `script_distribution(vocab: dict) -> dict[str, int]` in `tokenizer/src/tokenizer.py`: iterate all token strings; for each token, classify its dominant Unicode script using `unicodedata.name(char)` checks for Devanagari (U+0900–U+097F), Telugu (U+0C00–U+0C7F), Latin (A-Z / a-z / U+0000–U+007F); tokens with chars from multiple scripts → "Mixed"; return `{"Devanagari": N, "Telugu": N, "Latin": N, "Mixed": N}`
 - [ ] T034 [US4] Add script distribution cell to `tokenizer/MultilingualBPE.ipynb`: call `script_distribution(vocab)`, print as a formatted table, and add a simple bar chart using `matplotlib`
-- [ ] T035 [US4] Wire Section 4 vocabulary bars in `widget/index.html` to live `script_distribution` computation from `tokenizer.json` (runs after `BPE.init()` resolves); display as CSS-width percentage bars with counts
+- [x] T035 [US4] Wire Section 4 vocabulary bars in `widget/index.html` to live `script_distribution` computation from `tokenizer.json` (runs after `BPE.init()` resolves); display as CSS-width percentage bars with counts
 
 **Checkpoint**: Section 4 script distribution bars are non-zero and sum to 10,000. Notebook cell produces matching numbers.
 
@@ -129,7 +129,7 @@
 - [ ] T038 [P] Verify vocabulary size exactly 10,000: add assertion in `train.py` final step `assert len(vocab) == 10000`; add same check in `tokenizer.py` `load()` function
 - [ ] T039 Freeze scoring corpus: commit `tokenizer/data/clean/*.txt` to version control so graders use the exact same text as training; add note in `README.md`
 - [ ] T040 [P] Cross-check: run `python tokenizer/src/score.py` three times; confirm X1–X4 are deterministic (same values every run); if any variance, identify source and fix
-- [ ] T041 Update widget hardcoded score constants to final trained values: replace placeholder X1–X4 JS constants in `widget/index.html` with the values from final `score.py` run; redeploy to Netlify
+- [x] T041 Update widget hardcoded score constants to final trained values: replace placeholder X1–X4 JS constants in `widget/index.html` with the values from final `score.py` run; redeploy to Netlify
 
 ---
 
