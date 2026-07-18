@@ -45,10 +45,10 @@ LANGUAGES = ["en", "hi", "te", "sa"]
 # while keeping Indic fertilities competitive.
 # These replace the automatic alpha-sampling.
 LANGUAGE_MULTIPLIERS = {
-    "en": 55,#45, #50,  #20, #19,   #18,   #16, #10, #20,
-    "hi": 5, #5,#10,  #5, #5,    #5,   #5,#6, #5,
-    "te": 25, #35,#20,  #4,#4,    #4,   #4, #5, #3,
-    "sa": 55  #55 #30, #5, #5     #4    #4 #5 #3
+    "en": 5, #20,#45, #50,  #20, #19,   #18,   #16, #10, #20,
+    "hi": 5,#5, #5,#10,  #5, #5,    #5,   #5,#6, #5,
+    "te": 5,#35, #35,#20,  #4,#4,    #4,   #4, #5, #3,
+    "sa": 5#65  #55 #30, #5, #5     #4    #4 #5 #3
 }
 TARGET_VOCAB_SIZE = 10_000
 PROGRESS_EVERY = 500
@@ -240,7 +240,7 @@ def train(multipliers: dict = None, target_vocab_size: int = TARGET_VOCAB_SIZE):
 
     # --- Step 3: Augment training corpora (TRAINING ONLY) ---
     training_corpora = dict(corpora)
-    training_corpora["sa"] = maybe_augment_sanskrit(training_corpora["sa"], min_chars=0)
+    training_corpora["sa"] = maybe_augment_sanskrit(training_corpora["sa"], min_chars=100000)
     training_corpora["te"] = maybe_augment_telugu(training_corpora["te"], min_chars=0)
 
     # Apply regex pre-tokenization to augmented training corpora
