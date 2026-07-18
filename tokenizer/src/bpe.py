@@ -268,6 +268,11 @@ def build_initial_vocab_from_pretokens(all_pretokens: List[List[str]]) -> dict:
     # Supplement with full Devanagari and Telugu blocks
     chars.update(_DEVANAGARI)
     chars.update(_TELUGU)
+    
+    # Supplement with all printable ASCII characters to ensure roundtrip fidelity
+    # for URLs and Markdown formatting that might not appear in the training corpus
+    import string
+    chars.update(string.printable)
 
     # Sort: printable ASCII first, then by Unicode code point
     sorted_chars = sorted(chars, key=lambda c: (ord(c) > 127, ord(c)))

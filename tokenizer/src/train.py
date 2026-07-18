@@ -364,6 +364,11 @@ def train(multipliers: dict = None, target_vocab_size: int = TARGET_VOCAB_SIZE):
     assert len(vocab) == target_vocab_size, f"Vocabulary size must be exactly {target_vocab_size}, got {len(vocab)}"
     
     save(vocab, merges, OUTPUT_DIR)
+    
+    # Export HuggingFace tokenizer
+    from tokenizer import export_huggingface_tokenizer
+    export_huggingface_tokenizer(vocab, merges, os.path.join(OUTPUT_DIR, "tokenizer.json"))
+    
     print(f"\nTraining complete. Vocab: {len(vocab)} tokens. Merges: {len(merges)}.")
 
     # Print estimated final fertility

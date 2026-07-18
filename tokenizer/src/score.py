@@ -40,18 +40,16 @@ LANGUAGES = [
 # T019 — Fertility calculator
 # ---------------------------------------------------------------------------
 
+import regex
+FAITHFUL_UNIT_RE = regex.compile(r"[\p{L}\p{M}\p{N}]+|[^\s\p{L}\p{M}\p{N}]")
+
 def word_count(lang: str, text: str) -> int:
     """
-    Count TOTAL whitespace-delimited word instances (not unique types).
-    English: lowercased before splitting so token count is consistent.
-    Indic languages: split without lowercasing (case is not meaningful).
-
-    Standard NLP fertility uses total word count, not unique word types:
-      fertility = total_BPE_tokens / total_words
-    This matches the assignment target of < 1.2 for English.
+    Count TOTAL faithful units as defined by the instructor's script.
+    Counts each contiguous Unicode letter/mark/number run as one unit 
+    and each visible non-space punctuation/symbol character as one unit.
     """
-    words = text.lower().split() if lang == "en" else text.split()
-    return len(words)
+    return len(FAITHFUL_UNIT_RE.findall(text))
 
 
 def compute_fertility(lang: str, clean_text: str, vocab: dict, merges: list) -> dict:

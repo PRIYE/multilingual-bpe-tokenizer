@@ -276,3 +276,37 @@ def script_distribution(vocab: dict) -> dict:
             counts["Mixed"] += 1
 
     return counts
+
+def export_huggingface_tokenizer(vocab: dict, merges: list, output_path: str):
+    """
+    Export the custom BPE tokenizer to a HuggingFace tokenizer.json file.
+    This ensures compatibility with evaluation scripts that use the tokenizers library
+    and preserves roundtrip fidelity by using the Metaspace pre-tokenizer and decoder.
+    """
+    import json
+    try:
+        from tokenizers import Tokenizer
+        from tokenizers.models import BPE
+        from tokenizers.pre_tokenizers import Metaspace
+        from tokenizers.decoders import Metaspace as MetaspaceDecoder
+        from tokenizers.normalizers import NFKC
+    except ImportError:
+        print("Warning: 'tokenizers' library not installed. Cannot export HuggingFace tokenizer.")
+        return
+
+    # Replace literal spaces with the Metaspace replacement character '▁'
+    new_vocab = {}
+    for k, v in vocab.items():
+        new_vocab[k.replace(' ', '▁')] = v
+
+    new_merges = []
+    for l, r in merges:
+        new_merges.append((l.replace(' ', '▁'), r.replace(' ', '▁')))
+
+    tok = Tokenizer(BPE(new_vocab, new_merges))
+    tok.normalizer = NFKC()
+    tok.pre_tokenizer = Metaspace(replacement='▁', prepend_scheme='never')
+    tok.decoder = MetaspaceDecoder(replacement='▁', prepend_scheme='never')
+
+    tok.save(output_path)
+    print(f"  Exported HuggingFace tokenizer -> {output_path}")
