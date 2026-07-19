@@ -89,14 +89,14 @@ A researcher wants to understand how vocabulary tokens are distributed across th
 
 **Data Acquisition**
 
-- **FR-001**: The system MUST fetch the Wikipedia "India" article in English (`en.wikipedia.org/wiki/India`), Hindi (`hi.wikipedia.org/wiki/भारत`), Telugu (`te.wikipedia.org/wiki/భారతదేశం`), and Sanskrit (`sa.wikipedia.org/wiki/भारतम्`) and store them as clean plain-text files.
-- **FR-002**: Text extraction MUST strip all HTML tags, citation markers `[N]`, table markup, and non-content headings before any tokenization step.
+- **FR-001**: The system MUST fetch the Wikipedia "India" article in English (`en.wikipedia.org/wiki/India`), Hindi (`hi.wikipedia.org/wiki/भारत`), Telugu (`te.wikipedia.org/wiki/భారతదేశం`), and Sanskrit (`sa.wikipedia.org/wiki/भारतम्`) and store them as "faithful markdown" files that preserve links, tables, and references.
+- **FR-002**: Text extraction MUST preserve visible non-whitespace characters to pass the "faithful roundtrip gate".
 - **FR-003**: Each text MUST be Unicode-NFC/NFKC normalised (`unicodedata.normalize('NFKC', text)`).
-- **FR-004**: Hindi and Sanskrit texts MUST additionally be passed through IndicNLP normalization to resolve Devanagari nukta variants and anusvara substitutions.
+- **FR-004**: Hindi and Sanskrit texts MAY be passed through IndicNLP normalization if it does not break roundtrip fidelity.
 
 **Pre-Tokenization**
 
-- **FR-004b**: The system MUST apply language-specific regex pre-tokenization before BPE merging. English MUST use a standard GPT-2 style regex pattern (`'s|'t|...| ?\p{L}+|...`) that prepends spaces to words, which is highly efficient for BPE and critical for meeting the strict $\le 1.2$ constraint. Hindi, Telugu, and Sanskrit MUST use advanced SOTA regex patterns (LLaMA-4 style) to strictly separate punctuation (`।`, `॥`) and preserve morphological units, ensuring clean Indic vocabularies.
+- **FR-004b**: The system MUST apply language-specific regex pre-tokenization before BPE merging. English MUST use a hybrid GPT-2 style regex pattern that groups words for low fertility while explicitly isolating markdown characters (`[`, `]`, `*`, `#`, etc.) to prevent wasting merges on syntax. Indic languages MUST use a robust faithful pattern combined with Morfessor-based Sandhi splitting (when available) to break down complex morphological compounds before BPE.
 
 **BPE Training**
 
@@ -109,9 +109,10 @@ A researcher wants to understand how vocabulary tokens are distributed across th
 
 **Scoring**
 
-- **FR-010**: The system MUST compute X_i = (number of BPE tokens when encoding language_i text) / (total whitespace-delimited word count in language_i text) for each of the four languages. The denominator is the **total word count** (all instances), not the unique word type count. This is the standard NLP fertility metric (Rust et al., ACL 2021) and is consistent with the assignment's English target of ≤ 1.2.
+- **FR-010**: The system MUST compute X_i = (number of BPE tokens when encoding language_i text) / (total faithful units in language_i text) for each of the four languages. The denominator is the **faithful unit count** defined by the regex `[\p{L}\p{M}\p{N}]+|[^\s\p{L}\p{M}\p{N}]`.
 - **FR-011**: The system MUST sort X1, X2, X3, X4 and display their ranking.
 - **FR-012**: The system MUST compute and display the final score as `1000 / (X_max - X_min)`.
+- **FR-012b**: The tokenizer MUST export a HuggingFace-compatible `tokenizer.json` using the `Metaspace` decoder to guarantee perfect roundtrip fidelity (`decode(encode(text)) == text`).
 
 **Widget**
 

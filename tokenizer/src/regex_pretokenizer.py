@@ -60,6 +60,13 @@ LLAMA4_BASE_PATTERN = r"""(?i:[sdmt]|ll|ve|re)|[^\r\n\p{L}\p{N}]?\p{L}+|\p{N}{1,
 # GPT-2 pattern for comparison
 GPT2_BASE_PATTERN = r"""'s|'t|'re|'ve|'m|'ll|'d| ?\p{L}+| ?\p{N}+| ?[^\s\p{L}\p{N}]+|\s+(?!\S)|\s+"""
 
+# Faithful Markdown pattern (preserves spacing, isolates punctuation)
+FAITHFUL_BASE_PATTERN = r""" ?[\p{L}\p{M}\p{N}]+| ?[^\s\p{L}\p{M}\p{N}]|\s+(?!\S)|\s+"""
+
+# Hybrid English pattern (GPT-2 contractions + faithful markdown handling)
+# Isolates key markdown punctuation (#*[]()_`~) while preserving GPT-2 efficiency
+ENGLISH_HYBRID_PATTERN = r"""'s|'t|'re|'ve|'m|'ll|'d|[#*\[\]()_`~]| ?\p{L}+| ?\p{N}+| ?[^\s\p{L}\p{N}#*\[\]()_`~]+|\s+(?!\S)|\s+"""
+
 
 def normalize_unicode(text: str) -> str:
     """
@@ -72,22 +79,19 @@ def normalize_unicode(text: str) -> str:
 def apply_morfessor_and_akshara(text: str, lang: str, akshara_pattern: str, dev_range: str) -> List[str]:
     """
     Two-stage pre-tokenization for Indic languages:
-    1. Split text into words (preserving spaces and punctuation)
+    1. Split text into words using FAITHFUL_BASE_PATTERN
     2. Pass valid Indic words to Morfessor for Sandhi/Morphological splitting
-    3. Return the resulting morphemes (without Akshara splitting)
+    3. Return the resulting morphemes
     """
     analyzer = MORPH_ANALYZERS.get(lang)
     
-    # If no analyzer, just fall back to word-level regex directly
-    if not analyzer:
-        word_pattern = f'[।॥॰]+| ?{dev_range}+| ?[0-9०-९]{{1,3}}| ?[^\\s\u0900-\u097F\u0C00-\u0C7F0-9०-९।॥॰]+|\\s+(?!\\S)|\\s+'
-        return [m for m in regex.findall(word_pattern, text) if m]
-        
-    # Stage 1: Word-level splitting
-    # Grabs words with leading spaces, numbers, punctuation, and other symbols
-    word_pattern = f'[।॥॰]+| ?{dev_range}+| ?[0-9०-९]{{1,3}}| ?[^\\s\u0900-\u097F\u0C00-\u0C7F0-9०-९।॥॰]+|\\s+(?!\\S)|\\s+'
-    words = regex.findall(word_pattern, text)
+    # Stage 1: Word-level splitting using faithful pattern
+    words = regex.findall(FAITHFUL_BASE_PATTERN, text)
     
+    # If no analyzer, just return the faithful words
+    if not analyzer:
+        return [m for m in words if m]
+        
     final_tokens = []
     for word in words:
         # Check if it's a pure Indic word (ignoring leading space)
@@ -110,17 +114,21 @@ def apply_morfessor_and_akshara(text: str, lang: str, akshara_pattern: str, dev_
                     morph = leading_space + morph
                 final_tokens.append(morph)
         else:
-            # Non-Indic word, keep as is
+            # Non-Indic word or punctuation, keep as is
             final_tokens.append(word)
             
-    return final_tokens
+    return [m for m in final_tokens if m]
 
 
 def english_pretokenize(text: str) -> List[str]:
     """
-    English pre-tokenization using standard GPT-2 style pattern.
-    This groups spaces with words to allow BPE to merge them efficiently,
-    which is critical for achieving a low fertility ratio.
+    English pre-tokenization using hybrid GPT-2 + faithful markdown pattern.
+    
+    This approach:
+    1. Uses GPT-2 contractions and word grouping for low fertility
+    2. Isolates key markdown punctuation (#, *, [, ], (, ), _, `, ~) to prevent 
+       wasting merges on markdown syntax
+    3. Groups other punctuation together for efficiency
     
     Args:
         text: Raw English text
@@ -131,7 +139,7 @@ def english_pretokenize(text: str) -> List[str]:
     # Apply Unicode normalization
     text = normalize_unicode(text)
     
-    # Use standard GPT-2 pattern that prepends spaces to words
+    # Use hybrid pattern: GPT-2 efficiency + markdown punctuation isolation
     pattern = GPT2_BASE_PATTERN
     
     # Use regex module for \p{L} support

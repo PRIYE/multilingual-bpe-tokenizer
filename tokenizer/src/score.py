@@ -25,7 +25,7 @@ sys.path.insert(0, os.path.dirname(__file__))
 from tokenizer import load, encode
 
 
-CLEAN_DIR = os.path.join(os.path.dirname(__file__), "..", "data", "clean")
+CLEAN_DIR = os.path.join(os.path.dirname(__file__), "..", "..", "2aa5dbf6-9413-4ec2-a27d-780833fce1a5", "corpus")
 OUTPUT_DIR = os.path.join(os.path.dirname(__file__), "..", "output")
 
 LANGUAGES = [
@@ -61,7 +61,18 @@ def compute_fertility(lang: str, clean_text: str, vocab: dict, merges: list) -> 
     Returns dict with keys:
       language, total_tokens, total_words, fertility_ratio
     """
-    total_tokens = len(encode(clean_text, vocab, merges, lang))
+    # Try to use fast HuggingFace tokenizer if available, otherwise fallback to slow custom encode
+    try:
+        from tokenizers import Tokenizer
+        tokenizer_path = os.path.join(OUTPUT_DIR, "tokenizer.json")
+        if os.path.exists(tokenizer_path):
+            tok = Tokenizer.from_file(tokenizer_path)
+            total_tokens = len(tok.encode(clean_text).ids)
+        else:
+            total_tokens = len(encode(clean_text, vocab, merges, lang))
+    except ImportError:
+        total_tokens = len(encode(clean_text, vocab, merges, lang))
+        
     n_words = word_count(lang, clean_text)
     fertility = total_tokens / max(n_words, 1)
     return {
@@ -87,7 +98,7 @@ def report(output_dir: str = OUTPUT_DIR, data_dir: str = CLEAN_DIR):
 
     results = []
     for lang_code, lang_name in LANGUAGES:
-        corpus_path = os.path.join(data_dir, f"{lang_code}.txt")
+        corpus_path = os.path.join(data_dir, f"{lang_code}.faithful.txt")
         if not os.path.exists(corpus_path):
             raise FileNotFoundError(
                 f"Scoring corpus not found: {corpus_path}\n"

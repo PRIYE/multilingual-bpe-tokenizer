@@ -263,25 +263,34 @@
     <div id="token-count"></div>
   </section>
 
-  <!-- Section 6: Download Button -->
+  <!-- Section 6: Download Buttons -->
   <section id="download">
-    <a id="download-btn" href="data/tokenizer.json" download="multilingual-bpe-10k.json">
-      Download Tokenizer
-    </a>
+    <h2>Download Tokenizer</h2>
+    <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
+      <a id="download-btn" href="data/tokenizer.json" download="multilingual-bpe-10k.json">
+        Download Widget Tokenizer
+      </a>
+      <a href="data/tokenizer_huggingface.json" download="tokenizer.json" style="display: inline-block; background: white; color: var(--primary); border: 2px solid var(--primary); padding: 0.75rem 2rem; border-radius: 4px; text-decoration: none; font-weight: bold;">
+        Download HuggingFace Tokenizer
+      </a>
+    </div>
+    <p style="text-align: center; color: #64748b; font-size: 0.9rem; margin-top: 1rem;">
+      Widget format for JavaScript • HuggingFace format for Python/transformers
+    </p>
   </section>
 
   <script>
     // Current results from latest training run (train.py output)
     const scoreResults = [
-      { lang: "en", name: "English", url: "https://en.wikipedia.org/wiki/India", tokens: 13700, words: 13565, ratio: 1.0100 },
-      { lang: "hi", name: "Hindi", url: "https://hi.wikipedia.org/wiki/भारत", tokens: 15807, words: 8657, ratio: 1.8259 },
-      { lang: "te", name: "Telugu", url: "https://te.wikipedia.org/wiki/భారతదేశం", tokens: 6774, words: 3131, ratio: 2.1635 },
-      { lang: "sa", name: "Sanskrit", url: "https://sa.wikipedia.org/wiki/भारतम्", tokens: 4425, words: 1752, ratio: 2.5257 }
+      { lang: "en", name: "English", url: "https://en.wikipedia.org/wiki/India", tokens: 191908, words: 186426, ratio: 1.0294 },
+      { lang: "hi", name: "Hindi", url: "https://hi.wikipedia.org/wiki/भारत", tokens: 92332, words: 88359, ratio: 1.0450 },
+      { lang: "te", name: "Telugu", url: "https://te.wikipedia.org/wiki/భారతదేశం", tokens: 41628, words: 36292, ratio: 1.1470 },
+      { lang: "sa", name: "Sanskrit", url: "https://sa.wikipedia.org/wiki/भारतम्", tokens: 18817, words: 15757, ratio: 1.1942 }
     ];
     
-    const finalScore = 659.75;
-    const xMax = 2.5257;
-    const xMin = 1.0100;
+    const finalScore = 6068.20;
+    const xMax = 1.1942;
+    const xMin = 1.0294;
 
     // Initialize UI with hardcoded data
     function initUI() {

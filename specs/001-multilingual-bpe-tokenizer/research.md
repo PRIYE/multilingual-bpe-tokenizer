@@ -94,24 +94,34 @@ We implemented a local fallback mechanism: downloading `mahabharata.json` and `r
 
 ---
 
-### Decision 6: Fertility ratio denominator — total word count
+### Decision 6: Fertility ratio denominator — Faithful Units
 
-**Decision**: `word_count(text)` = `len(text.lower().split())` for English; `len(text.split())` for Indic languages (all word instances, **not** unique types).
+**Decision**: `word_count(text)` = `len(FAITHFUL_UNIT_RE.findall(text))` where `FAITHFUL_UNIT_RE = regex.compile(r"[\p{L}\p{M}\p{N}]+|[^\s\p{L}\p{M}\p{N}]")`.
 
-**Rationale**: The standard NLP fertility metric (Rust et al., ACL 2021 "How Good is Your Tokenizer?") defines fertility as `total_tokens / total_words`, where total_words counts all word instances. This is consistent with:
-1. The instructor's English target of ≤ 1.2 (achievable with a 10K BPE vocab; would require 14 chars/token on average with unique_words, which is not realistic)
-2. Other students' reported results (~1.0–1.2 for all languages with score ~6311)
-3. The assignment framing: "Total English tokens / Total English Vocab say 5000 words" is interpreted as total tokens / total words in the corpus
+**Rationale**: The instructor's evaluation script explicitly uses this regex to define "faithful units". It counts every contiguous block of letters/numbers/marks as one unit, and *every single visible punctuation character* as one unit. Using `text.split()` (whitespace splitting) artificially deflates the denominator, resulting in incorrectly high fertility estimates during training. Aligning the denominator with the instructor's script ensures accurate, comparable scoring.
 
-**Correction note**: An earlier version of this spec used `unique_words` (len of set). This was incorrect — it produced fertility ~4.5 for English (character-level tokenization) and made the instructor's < 1.2 target unachievable without extreme multi-word phrase compression.
-
-**Formula**: `X_i = len(encode(text_i)) / len(text_i.split())`
+**Formula**: `X_i = len(encode(text_i)) / len(FAITHFUL_UNIT_RE.findall(text_i))`
 
 ---
 
 ### Decision 7: Tokenizer export format
 
-**Decision**: Two files — `vocab.json` (token-string → id) and `merges.txt` (one merge rule per line as `"A B"`) — plus a combined `tokenizer.json` for the widget.
+**Decision**: Three files — `vocab.json` and `merges.txt` (custom format), a combined `tokenizer.json` for the widget, and a HuggingFace-compatible `tokenizer_huggingface.json`.
+
+**Rationale**: The instructor introduced a strict "faithful roundtrip gate": `decode(encode(text)) == text`. The custom `vocab.json` and `merges.txt` format is not easily parsed by the HuggingFace `tokenizers` library used in the instructor's evaluation script. We programmatically convert our custom vocab/merges into a HuggingFace `Tokenizer` object configured with a `Metaspace` pre-tokenizer/decoder. This handles space preservation perfectly, matches the instructor's reference solution, and guarantees roundtrip fidelity.
+
+---
+
+### Decision 8: Faithful Markdown & Pre-tokenization
+
+**Decision**: Train and evaluate on "faithful markdown" (preserving links, tables, references) using a Hybrid Regex approach.
+
+**Rationale**: Previous iterations stripped markdown syntax and punctuation, which caused the tokenizer to drop characters like `#` and `_` during decoding, failing the roundtrip gate. 
+To solve this:
+1. **Initial Vocab**: Added `string.printable` to the initial SCRIPT-BPE vocabulary to ensure all ASCII characters are supported.
+2. **Pre-tokenization**: 
+   - **English**: Switched to a hybrid GPT-2 pattern (`'s|'t|...|[#*\[\]()_`~]| ?\p{L}+|...`) that groups standard punctuation for low fertility but explicitly isolates markdown syntax to prevent wasting merges.
+   - **Indic**: Used a faithful pattern (` ?[\p{L}\p{M}\p{N}]+| ?[^\s\p{L}\p{M}\p{N}]|\s+(?!\S)|\s+`) to isolate punctuation before passing pure Indic words to the Morfessor Sandhi splitter.
 
 **Rationale**: The two-file format is the HuggingFace tokenizers convention; any reviewer can load it without custom code. The combined JSON is widget-friendly.
 

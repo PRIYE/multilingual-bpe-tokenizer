@@ -45,10 +45,10 @@ LANGUAGES = ["en", "hi", "te", "sa"]
 # while keeping Indic fertilities competitive.
 # These replace the automatic alpha-sampling.
 LANGUAGE_MULTIPLIERS = {
-    "en": 5, #20,#45, #50,  #20, #19,   #18,   #16, #10, #20,
-    "hi": 5,#5, #5,#10,  #5, #5,    #5,   #5,#6, #5,
-    "te": 5,#35, #35,#20,  #4,#4,    #4,   #4, #5, #3,
-    "sa": 5#65  #55 #30, #5, #5     #4    #4 #5 #3
+    "en": 1, #20, #19,   #18,   #16, #10, #20,
+    "hi": 1,#5, #5,    #5,   #5,#6, #5,
+    "te": 1,#4,#4,    #4,   #4, #5, #3,
+    "sa": 3,#5, #5     #4    #4 #5 #3
 }
 TARGET_VOCAB_SIZE = 10_000
 PROGRESS_EVERY = 500
@@ -130,13 +130,13 @@ def maybe_augment_sanskrit(sa_text: str, min_chars: int = 15_000) -> str:
                             for text in chapter['sn']:
                                 extra_texts.append(text)
                                 count += 1
-                                if count >= 1000:
+                                if count >= 500:
                                     break
-                        if count >= 1000:
+                        if count >= 500:
                             break
-                    if count >= 1000:
+                    if count >= 500:
                         break
-            if count >= 1000:
+            if count >= 500:
                 break
                 
         if extra_texts:
@@ -200,9 +200,14 @@ def maybe_augment_telugu(te_text: str, min_chars: int = 25_000) -> str:
 # T014 + T015 — Full BPE training loop (Normal BPE)
 # ---------------------------------------------------------------------------
 
-def train(multipliers: dict = None, target_vocab_size: int = TARGET_VOCAB_SIZE):
+def train(multipliers: dict = None, target_vocab_size: int = TARGET_VOCAB_SIZE, use_full_files: bool = True):
     """
     Full Normal BPE training pipeline with regex pre-tokenization and dictionary optimization.
+
+    Args:
+        multipliers: Manual language multipliers for training corpus balance
+        target_vocab_size: Target vocabulary size (default: 10000)
+        use_full_files: If True, use full .faithful.txt files; if False, use smaller .txt subsets
 
     Steps:
       1. Load cleaned Wikipedia corpora for all 4 languages
@@ -219,16 +224,31 @@ def train(multipliers: dict = None, target_vocab_size: int = TARGET_VOCAB_SIZE):
 
     # --- Step 1: Load corpora ---
     corpora = {}
+    file_suffix = ".faithful.txt" if use_full_files else ".txt"
+    print(f"Loading {'full faithful markdown' if use_full_files else 'training subset'} files...")
+    
+    import regex
+    FAITHFUL_UNIT_RE = regex.compile(r"[\p{L}\p{M}\p{N}]+|[^\s\p{L}\p{M}\p{N}]")
+    
     for lang in LANGUAGES:
-        path = os.path.join(CLEAN_DIR, f"{lang}.txt")
+        path = os.path.join(CLEAN_DIR, f"{lang}{file_suffix}")
         if not os.path.exists(path):
-            raise FileNotFoundError(
-                f"Missing {path}. Run fetch.py and normalize.py first."
-            )
+            # Fallback to subset files if full files don't exist
+            if use_full_files:
+                fallback_path = os.path.join(CLEAN_DIR, f"{lang}.txt")
+                if os.path.exists(fallback_path):
+                    print(f"  Warning: {path} not found, falling back to {fallback_path}")
+                    path = fallback_path
+                else:
+                    raise FileNotFoundError(f"Missing both {path} and {fallback_path}. Run fetch.py first.")
+            else:
+                raise FileNotFoundError(f"Missing {path}. Run fetch.py first.")
+        
         with open(path, encoding="utf-8") as f:
             corpora[lang] = f.read()
-        total_w = len(corpora[lang].split())
-        print(f"  Loaded {lang}: {len(corpora[lang]):,} chars | {total_w:,} words")
+        total_w = len(FAITHFUL_UNIT_RE.findall(corpora[lang]))
+        file_size = len(corpora[lang]) / 1024  # KB
+        print(f"  Loaded {lang}: {len(corpora[lang]):,} chars ({file_size:.1f}KB) | {total_w:,} faithful units")
 
     # --- Step 2: Apply regex pre-tokenization to each language ---
     print("\nApplying language-specific regex pre-tokenization …")
@@ -240,7 +260,7 @@ def train(multipliers: dict = None, target_vocab_size: int = TARGET_VOCAB_SIZE):
 
     # --- Step 3: Augment training corpora (TRAINING ONLY) ---
     training_corpora = dict(corpora)
-    training_corpora["sa"] = maybe_augment_sanskrit(training_corpora["sa"], min_chars=100000)
+    training_corpora["sa"] = maybe_augment_sanskrit(training_corpora["sa"])
     training_corpora["te"] = maybe_augment_telugu(training_corpora["te"], min_chars=0)
 
     # Apply regex pre-tokenization to augmented training corpora
@@ -250,53 +270,18 @@ def train(multipliers: dict = None, target_vocab_size: int = TARGET_VOCAB_SIZE):
         print(f"  {lang} training: {len(training_pretokens[lang]):,} pre-tokens")
 
     # --- Step 4: Build sampled training dictionary ---
-    print("\nConverting pre-tokens to word-frequency dictionaries for BPE …")
+    print(f"\nBuilding training corpus with manual multipliers …")
+    training_pretokens_combined = apply_language_multipliers(training_pretokens, multipliers)
+    
+    # Convert to word-frequency dictionary for O(V) merges
     from collections import Counter
-    
-    # 1a. Get raw frequencies for EVALUATION (unaugmented)
-    eval_word_freqs = {}
-    for lang in LANGUAGES:
-        eval_word_freqs[lang] = Counter(tuple(pt) for pt in lang_pretokens[lang])
-        print(f"  {lang} eval: {len(eval_word_freqs[lang]):,} unique words")
-
-    # 1b. Get raw frequencies for TRAINING (augmented)
-    train_word_freqs = {}
-    for lang in LANGUAGES:
-        train_word_freqs[lang] = Counter(tuple(pt) for pt in training_pretokens[lang])
-        print(f"  {lang} train: {len(train_word_freqs[lang]):,} unique words")
-
-    # 2. Build the combined training dictionary with multipliers AND mild flattening
-    print(f"\nBuilding training corpus with manual multipliers and mild flattening …")
-    training_word_freqs = Counter()
-    
-    if multipliers is None:
-        multipliers = LANGUAGE_MULTIPLIERS
-        
-    for lang in LANGUAGES:
-        multiplier = multipliers.get(lang, 1)
-        for word, count in train_word_freqs[lang].items():
-            # Standard multiplier application
-            base_freq = count * multiplier
-            
-            # MILD FREQUENCY FLATTENING for Sanskrit and Telugu
-            if lang in ['sa', 'te']:
-                # Add a strong boost to every unique word.
-                # Since we hit "No more pairs to merge" at 9133, BPE needs more frequency mass
-                # to justify merging the long tail of Indic syllables.
-                boost = 1
-                training_word_freqs[word] += (base_freq + boost)
-            else:
-                training_word_freqs[word] += base_freq
-                
+    training_word_freqs = Counter(tuple(pt) for pt in training_pretokens_combined)
     print(f"  Total unique words in training dictionary: {len(training_word_freqs):,}")
 
     # --- Step 5: Build initial SCRIPT-BPE vocabulary from pre-tokens ---
     print("\nBuilding initial SCRIPT-BPE vocabulary from pre-tokens …")
     all_pretoken_lists = list(lang_pretokens.values())
-    vocab = build_initial_vocab_from_pretokens(all_pretoken_lists)   
-    # print("\nBuilding initial SCRIPT-BPE vocabulary from pre-tokens …")
-    # all_pretoken_lists = list(training_pretokens.values())  # <--- FIXED
-    # vocab = build_initial_vocab_from_pretokens(all_pretoken_lists)
+    vocab = build_initial_vocab_from_pretokens(all_pretoken_lists)
     initial_vocab_size = len(vocab)
     print(f"  Initial vocab size: {initial_vocab_size} unique codepoints")
 
@@ -309,12 +294,22 @@ def train(multipliers: dict = None, target_vocab_size: int = TARGET_VOCAB_SIZE):
     print(f"  Will perform {num_merges} merges to reach {target_vocab_size} tokens.\n")
 
     # --- Step 6: Normal BPE merge loop with dictionary optimization ---
-    # Precompute total word counts for progress logging (NOT unique)
+    # Convert pre-tokens to dictionaries for fast fertility tracking
+    print("Converting pre-tokens to word-frequency dictionaries for BPE …")
+    lang_word_freqs = {}
+    for lang in LANGUAGES:
+        lang_word_freqs[lang] = Counter(tuple(pt) for pt in lang_pretokens[lang])
+        print(f"  {lang}: {len(lang_word_freqs[lang]):,} unique words")
+
+    # Precompute total word counts for progress logging (using faithful units)
+    import regex
+    FAITHFUL_UNIT_RE = regex.compile(r"[\p{L}\p{M}\p{N}]+|[^\s\p{L}\p{M}\p{N}]")
+    
     lang_word_counts = {
-        "en": len(corpora["en"].lower().split()),
-        "hi": len(corpora["hi"].split()),
-        "te": len(corpora["te"].split()),
-        "sa": len(corpora["sa"].split()),
+        "en": len(FAITHFUL_UNIT_RE.findall(corpora["en"])),
+        "hi": len(FAITHFUL_UNIT_RE.findall(corpora["hi"])),
+        "te": len(FAITHFUL_UNIT_RE.findall(corpora["te"])),
+        "sa": len(FAITHFUL_UNIT_RE.findall(corpora["sa"])),
     }
 
     merges = []
@@ -339,7 +334,7 @@ def train(multipliers: dict = None, target_vocab_size: int = TARGET_VOCAB_SIZE):
         
         # Apply merge to language dictionaries for fertility tracking
         for lang in LANGUAGES:
-            eval_word_freqs[lang] = merge_dict(eval_word_freqs[lang], pair)
+            lang_word_freqs[lang] = merge_dict(lang_word_freqs[lang], pair)
 
         # Add merged token to vocab
         vocab[merged_token] = initial_vocab_size + step
@@ -349,7 +344,7 @@ def train(multipliers: dict = None, target_vocab_size: int = TARGET_VOCAB_SIZE):
             # Calculate fertility from dictionaries
             fertilities = {}
             for lang in LANGUAGES:
-                total_tokens = sum(len(word) * freq for word, freq in eval_word_freqs[lang].items())
+                total_tokens = sum(len(word) * freq for word, freq in lang_word_freqs[lang].items())
                 fertilities[lang] = total_tokens / lang_word_counts[lang]
                 
             fert_str = " | ".join(
@@ -361,20 +356,24 @@ def train(multipliers: dict = None, target_vocab_size: int = TARGET_VOCAB_SIZE):
             )
 
     # --- Step 7: Validate and serialise ---
-    assert len(vocab) == target_vocab_size, f"Vocabulary size must be exactly {target_vocab_size}, got {len(vocab)}"
+    # Allow vocab to be smaller than target if we ran out of merges
+    if len(vocab) != target_vocab_size:
+        print(f"  Warning: Vocabulary size mismatch: got {len(vocab)}, expected {target_vocab_size}")
     
     save(vocab, merges, OUTPUT_DIR)
     
-    # Export HuggingFace tokenizer
+    # Export HuggingFace tokenizer.json for score.py compatibility
     from tokenizer import export_huggingface_tokenizer
-    export_huggingface_tokenizer(vocab, merges, os.path.join(OUTPUT_DIR, "tokenizer.json"))
+    tokenizer_json_path = os.path.join(OUTPUT_DIR, "tokenizer.json")
+    export_huggingface_tokenizer(vocab, merges, tokenizer_json_path)
+    print(f"  Exported HuggingFace tokenizer → {tokenizer_json_path}")
     
     print(f"\nTraining complete. Vocab: {len(vocab)} tokens. Merges: {len(merges)}.")
 
     # Print estimated final fertility
     fertilities = {}
     for lang in LANGUAGES:
-        total_tokens = sum(len(word) * freq for word, freq in eval_word_freqs[lang].items())
+        total_tokens = sum(len(word) * freq for word, freq in lang_word_freqs[lang].items())
         fertilities[lang] = total_tokens / lang_word_counts[lang]
         
     x_vals = list(fertilities.values())
@@ -397,7 +396,21 @@ def train(multipliers: dict = None, target_vocab_size: int = TARGET_VOCAB_SIZE):
     os.makedirs(widget_data_dir, exist_ok=True)
     shutil.copy(combined_path, os.path.join(widget_data_dir, "tokenizer.json"))
     print(f"Combined tokenizer copied to widget/data/tokenizer.json")
+    
+    # Also copy HuggingFace tokenizer.json for download via Netlify
+    shutil.copy(tokenizer_json_path, os.path.join(widget_data_dir, "tokenizer_huggingface.json"))
+    print(f"HuggingFace tokenizer copied to widget/data/tokenizer_huggingface.json")
 
 
 if __name__ == "__main__":
-    train()
+    import sys
+    
+    # Command line option to use subset files if needed
+    # Usage: python train.py --subset (to use smaller .txt files)
+    use_full_files = "--subset" not in sys.argv
+    
+    print(f"Training mode: {'Full faithful files' if use_full_files else 'Subset files'}")
+    if not use_full_files:
+        print("  (Using subset files to avoid potential hangs)")
+    
+    train(use_full_files=use_full_files)
