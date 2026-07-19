@@ -1,6 +1,0 @@
-data/raw/*.json
-data/raw/*.txt
-!data/raw/.gitkeep
-__pycache__/
-*.pyc
-.DS_Store

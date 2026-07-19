@@ -7,3 +7,19 @@ indic_nlp_resources-master/
 
 # Local Netlify folder
 .netlify
+2aa5dbf6-9413-4ec2-a27d-780833fce1a5/
+**/mahabharata.json
+**/ramayana.json
+
+# Python Virtual Environments
+tokenizer/.venv/
+**/__pycache__/
+*.pyc
+*.pyo
+
+# Large data files
+SanskritBPETokenizer-main
+SanskritBPETokenizer-main/*.pkl
+/Users/priye/Desktop/ERAV5/Tokenization_&_VocabularyDesign/SanskritBPETokenizer-main
+# Build outputs  
+tokenizer/data/raw/

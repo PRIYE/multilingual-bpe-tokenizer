@@ -10,7 +10,7 @@ import regex
 from tokenizers import Tokenizer
 
 ROOT = Path(__file__).resolve().parent
-CORPUS = ROOT / "tokenizer/data/clean"
+CORPUS = ROOT / "2aa5dbf6-9413-4ec2-a27d-780833fce1a5" / "corpus"
 TOKENIZER = ROOT / "tokenizer.json"
 LANGS = ["en", "hi", "te", "sa"]
 FAITHFUL_UNIT_RE = regex.compile(r"[\p{L}\p{M}\p{N}]+|[^\s\p{L}\p{M}\p{N}]")
@@ -22,7 +22,7 @@ def main() -> int:
     tokenizer = Tokenizer.from_file(str(TOKENIZER))
     rows = {}
     for code in LANGS:
-        text = (CORPUS / f"{code}.txt").read_text(encoding="utf-8")
+        text = (CORPUS / f"{code}.faithful.txt").read_text(encoding="utf-8")
         units = faithful_units(text)
         tokens = len(tokenizer.encode(text).ids)
         rows[code] = {"tokens": tokens, "faithful_units": units, "ratio": tokens / units}
