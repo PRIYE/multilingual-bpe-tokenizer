@@ -188,6 +188,23 @@
     }
     #download-btn:hover { background: #eff6ff; }
     
+    #loading-banner {
+      display: none;
+      background: #eff6ff;
+      color: #1e40af;
+      padding: 1rem;
+      border-radius: 8px;
+      margin-bottom: 2rem;
+      text-align: center;
+      font-weight: bold;
+      animation: pulse 2s infinite;
+    }
+    
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.7; }
+    }
+
     #error-banner {
       display: none;
       background: #fee2e2;
@@ -198,11 +215,30 @@
       text-align: center;
       font-weight: bold;
     }
+    
+    #retry-btn {
+      margin-left: 1rem;
+      background: #dc2626;
+      color: white;
+      border: none;
+      padding: 0.5rem 1rem;
+      border-radius: 4px;
+      cursor: pointer;
+      font-weight: bold;
+    }
+    
+    #retry-btn:hover {
+      background: #b91c1c;
+    }
   </style>
 </head>
 <body>
 
-  <div id="error-banner">Failed to load tokenizer — please refresh</div>
+  <div id="loading-banner">Loading tokenizer...</div>
+  <div id="error-banner">
+    <span id="error-message">Failed to load tokenizer — please refresh</span>
+    <button id="retry-btn" onclick="retryTokenizerLoad()">Retry</button>
+  </div>
 
   <!-- Section 1: Score Summary -->
   <section id="score-summary">
@@ -361,13 +397,27 @@
     }
 
     async function loadTokenizerAndStats() {
+      const loadingBanner = document.getElementById('loading-banner');
+      const errorBanner = document.getElementById('error-banner');
+      const errorMessage = document.getElementById('error-message');
+      
       try {
+        // Show loading state
+        loadingBanner.style.display = 'block';
+        errorBanner.style.display = 'none';
+        
         // Check if BPE object is available
         if (typeof window.BPE === 'undefined') {
           throw new Error('tokenizer.js script not loaded - BPE object is undefined');
         }
         
-        await window.BPE.init();
+        // Initialize with retry logic and timeout
+        await window.BPE.init('data/tokenizer.json', {
+          maxRetries: 3,
+          timeoutMs: 15000, // 15 second timeout
+          retryDelay: 1000
+        });
+        
         document.getElementById('tokenize-btn').disabled = false;
         
         // Compute stats
@@ -387,6 +437,7 @@
         
         const total = 10000;
         const bars = document.getElementById('script-bars');
+        bars.innerHTML = ''; // Clear any previous content
         
         const colors = {
           Devanagari: 'var(--color-devanagari)',
@@ -408,12 +459,26 @@
           bars.appendChild(div);
         }
         
+        // Success - hide loading banner
+        loadingBanner.style.display = 'none';
+        
       } catch (err) {
         console.error('Tokenizer loading error:', err);
-        const errorBanner = document.getElementById('error-banner');
-        errorBanner.textContent = `Failed to load tokenizer: ${err.message}`;
+        
+        // Hide loading banner and show error
+        loadingBanner.style.display = 'none';
+        errorMessage.textContent = err.message;
         errorBanner.style.display = 'block';
+        
+        // Disable tokenize button if loading failed
+        document.getElementById('tokenize-btn').disabled = true;
       }
+    }
+    
+    // Global retry function for the retry button
+    function retryTokenizerLoad() {
+      console.log('Retrying tokenizer load...');
+      loadTokenizerAndStats();
     }
 
     // Playground Logic

@@ -12,36 +12,108 @@ window.BPE = (function () {
   let loaded = false;
 
   /**
-   * Load tokenizer.json and initialise vocab + merges.
+   * Load tokenizer.json and initialise vocab + merges with retry logic.
+   * @param {string} url - URL to fetch tokenizer from
+   * @param {Object} options - Configuration options
    * @returns {Promise<void>}
    */
-  async function init(url = 'data/tokenizer.json') {
-    try {
-      const response = await fetch(url);
-      if (!response.ok) {
-        throw new Error(`HTTP error! status: ${response.status}`);
+  async function init(url = 'data/tokenizer.json', options = {}) {
+    const {
+      maxRetries = 3,
+      timeoutMs = 10000,
+      retryDelay = 1000
+    } = options;
+
+    let lastError = null;
+    
+    for (let attempt = 1; attempt <= maxRetries; attempt++) {
+      try {
+        console.log(`Loading tokenizer (attempt ${attempt}/${maxRetries})...`);
+        
+        // Create timeout controller
+        const controller = new AbortController();
+        const timeoutId = setTimeout(() => controller.abort(), timeoutMs);
+        
+        try {
+          const response = await fetch(url, { 
+            signal: controller.signal,
+            cache: 'no-cache' // Prevent aggressive caching issues
+          });
+          clearTimeout(timeoutId);
+          
+          if (!response.ok) {
+            throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+          }
+          
+          const data = await response.json();
+          
+          // Validate required fields
+          if (!data.vocab || !data.merges) {
+            throw new Error('Invalid tokenizer format: missing vocab or merges');
+          }
+          
+          vocab = data.vocab;
+          merges = data.merges;
+          
+          // Build reverse lookup for decoding
+          for (const [token, id] of Object.entries(vocab)) {
+            idToToken.set(id, token);
+          }
+          
+          // Build merge rank lookup for O(1) encoding
+          for (let i = 0; i < merges.length; i++) {
+            const [left, right] = merges[i];
+            mergeRank.set(`${left},${right}`, i);
+          }
+          
+          loaded = true;
+          console.log(`Tokenizer loaded successfully on attempt ${attempt}`);
+          return; // Success!
+          
+        } catch (fetchError) {
+          clearTimeout(timeoutId);
+          throw fetchError;
+        }
+        
+      } catch (error) {
+        lastError = error;
+        
+        // Determine if we should retry
+        const isRetryable = 
+          error.name === 'AbortError' || // Timeout
+          error.message.includes('NetworkError') ||
+          error.message.includes('Failed to fetch') ||
+          (error.message.includes('HTTP') && 
+           (error.message.includes('502') || error.message.includes('503') || error.message.includes('504')));
+        
+        if (attempt === maxRetries || !isRetryable) {
+          break; // Don't retry on final attempt or non-retryable errors
+        }
+        
+        console.warn(`Tokenizer load attempt ${attempt} failed:`, error.message);
+        
+        // Exponential backoff with jitter
+        const delay = retryDelay * Math.pow(2, attempt - 1) + Math.random() * 1000;
+        await new Promise(resolve => setTimeout(resolve, delay));
       }
-      const data = await response.json();
-      
-      vocab = data.vocab;
-      merges = data.merges;
-      
-      // Build reverse lookup for decoding
-      for (const [token, id] of Object.entries(vocab)) {
-        idToToken.set(id, token);
-      }
-      
-      // Build merge rank lookup for O(1) encoding
-      for (let i = 0; i < merges.length; i++) {
-        const [left, right] = merges[i];
-        mergeRank.set(`${left},${right}`, i);
-      }
-      
-      loaded = true;
-    } catch (error) {
-      console.error("Failed to load tokenizer:", error);
-      throw error;
     }
+    
+    // If we get here, all retries failed
+    console.error("Failed to load tokenizer after all retries:", lastError);
+    
+    // Enhanced error message with troubleshooting hints
+    let errorMessage = `Failed to load tokenizer after ${maxRetries} attempts`;
+    if (lastError?.name === 'AbortError') {
+      errorMessage += ' (timeout - check your internet connection)';
+    } else if (lastError?.message?.includes('HTTP')) {
+      errorMessage += ` (${lastError.message} - server error)`;
+    } else if (lastError?.message?.includes('NetworkError') || lastError?.message?.includes('Failed to fetch')) {
+      errorMessage += ' (network error - check your connection or try refreshing)';
+    } else {
+      errorMessage += ` (${lastError?.message || 'unknown error'})`;
+    }
+    
+    throw new Error(errorMessage);
   }
 
   /**
